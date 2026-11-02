@@ -14,6 +14,7 @@ var auto_dismiss_dialogs: bool = false
 
 
 func _enter_tree() -> void:
+	_maybe_launch_relay_bridge()
 	_inject_autoloads()
 	_command_router = preload("res://addons/godot_mcp/command_router.gd").new()
 	_command_router.name = "MCPCommandRouter"
@@ -36,6 +37,78 @@ func _exit_tree() -> void:
 	if _command_router:
 		_command_router.queue_free()
 	print("[Godot MCP] Plugin stopped")
+
+
+# ---------------------------------------------------------------------------
+# Relay bridge auto-start (fork addition)
+# Reads %APPDATA%/godot-relay/config.json -> { "bridge_dir": "..." } and, if no
+# MCP server is listening on the relay port yet, spawns the GitHub relay
+# bridge (node bridge.mjs) in the background. Token is read by the bridge from
+# relay-token.txt next to bridge.mjs (gitignored), so nothing to type.
+# ---------------------------------------------------------------------------
+
+func _maybe_launch_relay_bridge() -> void:
+	if OS.get_name() != "Windows":
+		return
+	var config := _load_relay_config()
+	if config.is_empty():
+		return
+	var bridge_dir: String = config.get("bridge_dir", "")
+	if bridge_dir.is_empty():
+		push_warning("[Godot MCP] relay config.json missing bridge_dir")
+		return
+	if not DirAccess.dir_exists_absolute(bridge_dir):
+		push_warning("[Godot MCP] relay bridge_dir does not exist: " + bridge_dir)
+		return
+	var port := _relay_port()
+	if _port_is_listening(port):
+		print("[Godot MCP] relay bridge already running on port %d" % port)
+		return
+	var script_path: String = bridge_dir.path_join("bridge.mjs")
+	var pid := OS.create_process("node", [script_path], false)
+	if pid == -1:
+		push_warning("[Godot MCP] could not launch relay bridge (is node on PATH?)")
+	else:
+		print("[Godot MCP] relay bridge launched in background (pid %d)" % pid)
+
+
+func _relay_port() -> int:
+	if OS.has_environment("GODOT_MCP_PORT"):
+		return int(OS.get_environment("GODOT_MCP_PORT"))
+	return 6505
+
+
+func _load_relay_config() -> Dictionary:
+	var appdata := OS.get_environment("APPDATA")
+	if appdata.is_empty():
+		return {}
+	var path := appdata.path_join("godot-relay").path_join("config.json")
+	if not FileAccess.file_exists(path):
+		return {}
+	var f := FileAccess.open(path, FileAccess.READ)
+	if f == null:
+		return {}
+	var json := JSON.new()
+	if json.parse(f.get_as_text()) != OK:
+		push_warning("[Godot MCP] could not parse " + path)
+		return {}
+	if json.data is Dictionary:
+		return json.data
+	return {}
+
+
+func _port_is_listening(port: int) -> bool:
+	var output: Array = []
+	OS.execute("netstat", ["-ano"], output, false, false)
+	var text := ""
+	if output.size() > 0:
+		text = str(output[0])
+	var needle := ":%d" % port
+	for line in text.split("\n"):
+		var t := line.strip_edges()
+		if t.contains(needle) and t.to_lower().contains("listening"):
+			return true
+	return false
 
 
 func _process(_delta: float) -> void:
