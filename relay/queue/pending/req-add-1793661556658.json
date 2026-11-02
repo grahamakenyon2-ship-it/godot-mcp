@@ -1,0 +1,1 @@
+{"id":"req-add-1793661556658","method":"get_filesystem_tree","params":{"directory":"res://addons","max_depth":1}}
