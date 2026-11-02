@@ -1,0 +1,8 @@
+{
+  "github_token": "PASTE_YOUR_TOKEN_HERE",
+  "repo": "grahamakenyon2-ship-it/godot-mcp",
+  "branch": "main",
+  "poll_ms": 5000,
+  "port": 6505,
+  "command_timeout_ms": 60000
+}
