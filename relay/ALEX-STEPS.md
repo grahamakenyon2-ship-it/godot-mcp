@@ -1,121 +1,89 @@
-# Alex's Setup Steps — godot-mcp GitHub Relay Bridge (beginner edition)
+# godot-mcp Relay Bridge — Setup Guide
 
-Every step, click by click. If you get stuck on any line, screenshot the error
-and send it — do not improvise.
-
-## Overview (what you're building)
-Your Godot editor and Vibe (me) will talk through GitHub:
-- I drop request files in the fork's `relay/queue/pending/` folder.
-- A small program on your PC (`bridge.mjs`) picks them up, hands them to
-  your open Godot editor over a localhost-only connection, and uploads the
-  answer (and screenshots) back to the repo.
-- Nothing on your PC is reachable from the internet. The connection only
-  works between Godot and the bridge ON YOUR OWN MACHINE.
-
-## STEP 1 — Check you have Node (5 min)
-1. Press the Windows key, type `powershell`, press Enter.
-2. Type: `node -v` and press Enter.
-3. If you see something like `v22.x.x` — done, go to Step 2.
-4. If you see an error (not recognized): open https://nodejs.org in your
-   browser, click the big green "LTS" download button, run the installer
-   (just click Next through every screen), then CLOSE PowerShell and open a
-   NEW one and try `node -v` again.
-
-## STEP 2 — Create your GitHub token (5 min)
-This is a password that ONLY works on the godot-mcp repo, ONLY to read/write
-files. Even if it leaked, it can do nothing else.
-1. Go to https://github.com/settings/personal-access-tokens (logged in as
-   grahamakenyon2-ship-it). If that 404s: click your avatar (top right) →
-   Settings → Developer settings (bottom of left menu) → Personal access
-   tokens → Fine-grained tokens.
-2. Click "Generate new token".
-3. Token name: `godot-relay`. Expiration: pick 90 days.
-4. Resource owner: must say `grahamakenyon2-ship-it`.
-5. Repository access: click "Only select repositories" → in the dropdown
-   click `grahamakenyon2-ship-it/godot-mcp` (NOT any other repo).
-6. Click "Permissions" tab (or expand Permissions) → under "Repository
-   permissions" find **Contents** → change it to "Read and write".
-   Leave EVERYTHING ELSE as "No access". Do not touch user/organization perms.
-7. Click "Generate token" at the bottom.
-8. You'll see the token ONCE (starts with `github_pat_`).
-   Click the copy icon and paste it into Notepad temporarily.
-   NEVER paste it into chat, email, or anywhere else.
-
-## STEP 3 — Get the bridge code onto your PC (2 min)
-1. Go to https://github.com/grahamakenyon2-ship-it/godot-mcp
-   (make sure you're on the fork, not mkdevkit's original).
-2. Click the green **< > Code** button → **Download ZIP**.
-3. Right-click the downloaded file → "Extract All..." → extract it to
-   somewhere simple. You should end up with a folder (named
-   `godot-mcp-master` or `godot-mcp-main` — either is fine, both now carry
-   the bridge) with a `relay` folder inside.
-
-## STEP 4 — Install the one dependency (2 min)
-1. Open the extracted folder, then the `relay` folder inside it.
-2. Click the folder's address bar (top of the window), type `powershell`,
-   press Enter. A blue terminal opens already pointed at this folder.
-3. Type: `npm install` and press Enter. Wait for it to finish
-   (about 30 seconds; it makes a `node_modules` folder — that's normal).
-
-## STEP 5 — Get the Godot editor plugin into your project (5 min)
-You need: Godot 4.x (you already have it from godot-3d-lab) and the
-ghost-company project on your PC.
-1. If you don't have ghost-company locally yet: go to
-   https://github.com/grahamakenyon2-ship-it/ghost-company → green
-   Code button → Download ZIP → extract it (e.g. next to your other projects).
-2. Open Godot. Click "Import" → navigate into the extracted
-   `ghost-company` folder → select `project.godot` → Open.
-   The project appears in your Godot project list.
-3. Open the extracted godot-mcp folder → open its `addons` folder →
-   you'll see a folder called `godot_mcp`. Copy it.
-4. In Windows Explorer, go into your ghost-company project folder
-   (where project.godot is). If there's no `addons` folder, right-click →
-   New → Folder → name it exactly `addons` (lowercase).
-   Open `addons` and paste `godot_mcp` inside.
-5. Back in Godot: open the ghost-company project (double-click it).
-   Ignore any "files changed on disk" scan.
-6. Top menu: Project → Project Settings → click the "Plugins" tab (top right
-   of that window). You should see "Godot MCP" listed.
-   Tick its "Enable" checkbox. If Godot asks to reload/restart the editor,
-   say yes and reopen the project.
-
-## STEP 6 — Start the bridge (2 min)
-Keep Godot OPEN with ghost-company loaded. Then:
-1. Go back to the PowerShell window from Step 4 (still in the relay folder).
-   If you closed it: reopen it the same way (address bar → type powershell).
-2. Paste these two lines one at a time (replace the fake token with your
-   real one from Notepad):
-```powershell
-$env:GODOT_MCP_RELAY_TOKEN = "github_pat_PASTE_YOUR_TOKEN_HERE"
-npm start
-```
-3. You should see these two lines:
-```
-[relay] repo=grahamakenyon2-ship-it/godot-mcp branch=main port=6505 (loopback only)
-[relay] Godot editor connected on ws://127.0.0.1:6505
-```
-The second line is the important one — it means Godot and the bridge are
-talking. Leave this window OPEN (minimized is fine). If you close it, the
-bridge stops.
-
-## STEP 7 — Tell Vibe
-Just say "bridge is up" in the chat. I'll immediately send a test call
-(`get_project_info` + `get_editor_screenshot`) and confirm I can see your
-editor. If it fails, I'll tell you exactly which step to redo.
-
-## Next time you want to use it (after the first setup)
+## The everyday flow (what you do every time — nothing)
 1. Open ghost-company in Godot.
-2. Open PowerShell in the relay folder, run the two lines from Step 6.
-3. Say "bridge is up".
+2. That's it. The plugin auto-starts the bridge in the background, the bridge
+   reads your token from a local file, and Vibe can see your editor.
+3. (Optional) Vibe can confirm by checking `relay/status.json` in the repo.
+
+If you ever need to run it manually (debugging): open PowerShell in the
+relay folder → `node bridge.mjs` → read `bridge.log` next to it.
+
+## ONE-TIME SETUP (do this once, ~10 min)
+
+### STEP 1 — Rotate your token (if the current one was ever pasted anywhere)
+1. https://github.com/settings/personal-access-tokens
+2. Delete the old `godot-relay` token if it was ever exposed in chat/screenshots.
+3. Generate new token: name `godot-relay`, 90 days, resource owner
+   `grahamakenyon2-ship-it`, **Only select repositories** →
+   `grahamakenyon2-ship-it/godot-mcp`, Permissions → **Contents: Read and write**,
+   everything else No access.
+4. Copy it (starts with `github_pat_`). It goes ONLY in the file you create in
+   Step 4 or Notepad — never in chat, email, commit messages.
+
+### STEP 2 — Get the latest code
+1. Delete your old `E:\godot-mcp-master` folder.
+2. https://github.com/grahamakenyon2-ship-it/godot-mcp → green Code → Download ZIP.
+3. Extract to `E:\` (same as before).
+
+### STEP 3 — Install the one dependency
+1. Open the extracted folder → `relay` folder.
+2. Click the address bar, type `powershell`, press Enter.
+3. `npm install` → wait ~30 seconds.
+
+### STEP 4 — Save your token to the file the bridge reads
+Still in that PowerShell window (the prompt should say `...\relay>`):
+```powershell
+"github_pat_PASTE_YOUR_TOKEN_HERE" | Out-File -Encoding ascii .elay-token.txt
+```
+(Quotes around the token, then close the file. This file is gitignored —
+it can never be committed to the repo.)
+
+### STEP 5 — Tell the plugin where the bridge lives (one config file)
+Same PowerShell window:
+```powershell
+New-Item -ItemType Directory -Force $env:APPDATA\godot-relay | Out-Null
+'{"bridge_dir": "E:/godot-mcp-master/relay"}' | Out-File -Encoding ascii $env:APPDATA\godot-relay\config.json
+```
+(If your extracted folder is named differently, adjust the path — use forward
+slashes as shown.)
+
+### STEP 6 — Update the plugin inside ghost-company (overwrite the old one)
+1. Open the extracted folder → `addons` → copy the `godot_mcp` folder.
+2. Paste it into `E:\ghost-company-main\addons\` → when Windows asks about
+   replacing files, choose **Replace the files in the destination**.
+3. (If Godot was open, close and reopen it after this.)
+
+### STEP 7 — Test it
+1. Open ghost-company in Godot.
+2. In Godot's bottom Output panel you should see a line like:
+   `[Godot MCP] relay bridge launched in background (pid 1234)`
+   followed by `[Godot MCP] Connected to MCP server (ws://127.0.0.1:6505)`
+3. Double-check on GitHub: open `relay/status.json` in the repo — it should
+   say `"connected": true` within a minute or so.
+4. Tell Vibe you've upgraded — it will verify with a live screenshot.
+
+## How the automation works
+- When Godot loads the project, the plugin checks: is something already
+  listening on port 6505? If yes → nothing to do. If no → it quietly runs
+  `node bridge.mjs` in the background (no window).
+- The bridge reads your token from `relay-token.txt` next to itself.
+- If you run the bridge manually in PowerShell AND open Godot, the plugin
+  notices the port is busy and skips launching a second one.
+- The background bridge keeps running after you close Godot (harmless —
+  it just idles; the next Godot start reuses it).
 
 ## Troubleshooting
-- `npm : term not recognized` → Step 1 failed; reinstall Node, open a NEW PowerShell.
-- **403 from GitHub** → token repo scope or Contents RW missing; redo Step 2.
-- **EADDRINUSE 6505** → the old upstream server is running somewhere; close it.
-- Bridge says `Godot editor connected` but I say requests sit unanswered →
-  the plugin got disabled in Project Settings; re-check Step 5.6.
-- Bridge says nothing after `npm start` except the first line →
-  plugin isn't running or Godot is closed → re-check Step 5.6, keep editor open.
-- Requests sit in `relay/queue/pending/` forever → check
-  `relay/status.json` in the repo on github.com (click the file, the JSON
-  shows connected true/false) and the bridge's own PowerShell output.
+- **No "relay bridge launched" line in Godot's Output** → check
+  `%APPDATA%\godot-relay\config.json` exists and has the right bridge_dir;
+  check node is on PATH (`node -v` in a new PowerShell).
+- **Bridge launched but not connected** → read `E:\godot-mcp-master\relay\bridge.log`.
+- **403 from GitHub** → token file wrong or token expired; redo Steps 1+4.
+- **EADDRINUSE 6505** → a bridge is already running; that's fine, not an error.
+- **Requests sit in `relay/queue/pending/`** → check `relay/status.json` +
+  `bridge.log`.
+
+## Security recap
+- WS server binds 127.0.0.1 only. Nothing is reachable from outside your PC.
+- Token lives in `relay/relay-token.txt` (gitignored) or the env var.
+- Token is scoped to one repo, Contents RW only.
