@@ -13,14 +13,16 @@
  *     the bind host, delete this file first.
  *   - GitHub access uses a fine-grained PAT scoped to ONE repo
  *     (GODOT_MCP_RELAY_REPO, default: your godot-mcp fork), Contents RW.
+ *   - The token comes from (in order): GODOT_MCP_RELAY_TOKEN env var, then
+ *     relay-token.txt next to this file (gitignored). Never commit it.
  *
- * Env vars:
- *   GODOT_MCP_RELAY_TOKEN  (required) fine-grained PAT, Contents: RW on the fork
+ * Env vars (all optional now):
  *   GODOT_MCP_RELAY_REPO   default "grahamakenyon2-ship-it/godot-mcp"
- *   GODOT_MCP_RELAY_BRANCH default "master" (the fork's default branch, which
- *                          the agent-side GitHub read tools see)
- *   GODOT_MCP_PORT         default 6505 (do NOT run upstream stdio server at
- *                          the same time - port conflict)
+ *   GODOT_MCP_RELAY_BRANCH default "master" (fork default branch)
+ *   GODOT_MCP_PORT         default 6505
+ *
+ * Logs: console (if you run it in a terminal) AND relay/bridge.log (always),
+ * so you can see what the background instance is doing.
  *
  * Queue protocol (in the fork repo):
  *   relay/queue/pending/<id>.json  ->  { "id": "...", "method": "...", "params": {...} }
@@ -30,14 +32,31 @@
  *   relay/status.json              ->  { "connected": bool, "updated": iso, "pid": n }
  *   Pending files are DELETED once a result is committed.
  *
- * Run:  GODOT_MCP_RELAY_TOKEN=github_pat_xxx node bridge.mjs
+ * Run:  node bridge.mjs   (token auto-read from relay-token.txt)
  */
 
 import { WebSocketServer, WebSocket } from "ws";
+import { readFileSync, appendFileSync } from "node:fs";
+import { fileURLToPath } from "node:url";
+import { dirname, join } from "node:path";
 
-const TOKEN = process.env.GODOT_MCP_RELAY_TOKEN;
+const HERE = dirname(fileURLToPath(import.meta.url));
+const LOG_FILE = join(HERE, "bridge.log");
+
+function log(msg) {
+  const line = new Date().toISOString() + " " + msg;
+  console.error(line);
+  try { appendFileSync(LOG_FILE, line + "\n"); } catch (e) { /* best effort */ }
+}
+
+let TOKEN = process.env.GODOT_MCP_RELAY_TOKEN || "";
 if (!TOKEN) {
-  console.error("[relay] FATAL: GODOT_MCP_RELAY_TOKEN not set.");
+  try {
+    TOKEN = readFileSync(join(HERE, "relay-token.txt"), "utf8").trim();
+  } catch (e) { /* no token file */ }
+}
+if (!TOKEN) {
+  log("[relay] FATAL: no token found. Set GODOT_MCP_RELAY_TOKEN or create relay-token.txt next to bridge.mjs (gitignored).");
   process.exit(1);
 }
 const REPO = process.env.GODOT_MCP_RELAY_REPO || "grahamakenyon2-ship-it/godot-mcp";
@@ -114,14 +133,14 @@ let nextId = 1;
 const wss = new WebSocketServer({ port: PORT, host: HOST });
 wss.on("connection", (ws) => {
   client = ws;
-  console.error("[relay] Godot editor connected on ws://" + HOST + ":" + PORT);
+  log("[relay] Godot editor connected on ws://" + HOST + ":" + PORT);
   writeStatus(true);
 
   ws.on("message", (data) => onMessage(data.toString()));
   ws.on("close", () => {
     if (client === ws) {
       client = null;
-      console.error("[relay] Godot editor disconnected");
+      log("[relay] Godot editor disconnected");
       writeStatus(false);
     }
     rejectAll(new Error("Godot editor disconnected"));
@@ -225,7 +244,7 @@ async function writeStatus(isConnected) {
     await ghPut("relay/status.json", JSON.stringify(status, null, 2) + "\n",
       "relay: editor " + (isConnected ? "connected" : "disconnected") + " [bridge]");
   } catch (e) {
-    console.error("[relay] status write failed: " + e.message);
+    log("[relay] status write failed: " + e.message);
   }
 }
 
@@ -235,7 +254,7 @@ async function processPending() {
   try {
     listing = await ghGet("contents/relay/queue/pending");
   } catch (e) {
-    console.error("[relay] queue listing failed: " + e.message);
+    log("[relay] queue listing failed: " + e.message);
     return;
   }
   if (!Array.isArray(listing)) return; // empty dir -> 404 -> null
@@ -247,11 +266,11 @@ async function processPending() {
       const blob = await ghGet("contents/" + f.path);
       req = JSON.parse(unb64(blob.content));
     } catch (e) {
-      console.error("[relay] could not read " + f.path + ": " + e.message);
+      log("[relay] could not read " + f.path + ": " + e.message);
       continue;
     }
     const id = req.id || f.name.replace(/\.json$/, "");
-    console.error("[relay] -> " + req.method + " (" + id + ")");
+    log("[relay] -> " + req.method + " (" + id + ")");
     try {
       let result = await call(req.method, req.params);
       let pngNote = null;
@@ -273,25 +292,25 @@ async function processPending() {
     try {
       await ghDelete(f.path, "relay: consumed " + f.name + " [bridge]");
     } catch (e) {
-      console.error("[relay] WARN could not delete " + f.path + ": " + e.message);
+      log("[relay] WARN could not delete " + f.path + ": " + e.message);
     }
   }
 }
 
 // ---------------------------------------------------------------------------
 async function main() {
-  console.error("[relay] repo=" + REPO + " branch=" + BRANCH + " port=" + PORT + " (loopback only)");
+  log("[relay] repo=" + REPO + " branch=" + BRANCH + " port=" + PORT + " (loopback only)");
   await writeStatus(false);
   const loop = setInterval(async () => {
     if (loop.busy) return; // serialize polls
     loop.busy = true;
     try { await processPending(); }
-    catch (e) { console.error("[relay] poll error: " + e.message); }
+    catch (e) { log("[relay] poll error: " + e.message); }
     finally { loop.busy = false; }
   }, POLL_MS);
 
   const shutdown = async () => {
-    console.error("[relay] shutting down");
+    log("[relay] shutting down");
     clearInterval(loop);
     clearInterval(heartbeat);
     rejectAll(new Error("Server shutting down"));
@@ -305,6 +324,6 @@ async function main() {
 }
 
 main().catch((e) => {
-  console.error("[relay] fatal: " + e.message);
+  log("[relay] fatal: " + e.message);
   process.exit(1);
 });
