@@ -1,0 +1,53 @@
+{
+  "id": "req-dark1-1793660348708",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [],
+          "path": "res://Dark Theme/Generic",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Dark Theme/Joysticks",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Dark Theme/Keyboard & Mouse",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Dark Theme/Playstation",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Dark Theme/SteamDeck",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Dark Theme/Switch",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Dark Theme/Touchpads",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Dark Theme/Xbox",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Dark Theme",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
