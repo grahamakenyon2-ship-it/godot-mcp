@@ -1,0 +1,9 @@
+# DEPRECATED — relay-config.example.json
+# The rebuilt bridge (bridge.mjs, Nov 2 2026) takes configuration from
+# environment variables ONLY, so no config file with secrets can be
+# accidentally committed:
+#   GODOT_MCP_RELAY_TOKEN   (required) fine-grained PAT, Contents RW, single repo
+#   GODOT_MCP_RELAY_REPO    default grahamakenyon2-ship-it/godot-mcp
+#   GODOT_MCP_RELAY_BRANCH  default main
+#   GODOT_MCP_PORT          default 6505
+# Do not use this file. Kept only to override any older copy on local clones.
