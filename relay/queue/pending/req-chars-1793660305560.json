@@ -1,0 +1,1 @@
+{"id":"req-chars-1793660305560","method":"get_filesystem_tree","params":{"directory":"res://Characters","max_depth":2}}

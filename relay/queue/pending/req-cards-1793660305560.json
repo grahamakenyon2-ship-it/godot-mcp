@@ -1,0 +1,1 @@
+{"id":"req-cards-1793660305560","method":"get_filesystem_tree","params":{"directory":"res://Card Sprites","max_depth":2}}
