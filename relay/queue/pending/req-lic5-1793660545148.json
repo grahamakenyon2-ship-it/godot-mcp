@@ -1,1 +1,0 @@
-{"id":"req-lic5-1793660545148","method":"execute_editor_script","params":{"code":"FileAccess.open(\"res://Custom_Commercial_License.txt\", FileAccess.READ).get_as_text().substr(0, 1500)"}}
