@@ -18,11 +18,9 @@ to the internet, everything stays loopback + GitHub.
 ## 2. Clone the fork + install
 ```bash
 git clone https://github.com/grahamakenyon2-ship-it/godot-mcp.git
-cd godot-mcp
-npm install ws
+cd godot-mcp/relay
+npm install
 ```
-(If `npm install ws` complains, run `npm init -y` first in the fork root —
-you only need the `ws` package for the relay bridge.)
 
 ## 3. Install the editor plugin into your game project
 The plugin lives in this fork at `addons/godot_mcp/`.
@@ -32,8 +30,8 @@ The plugin lives in this fork at `addons/godot_mcp/`.
 
 ## 4. Start the bridge
 ```bash
-# from the fork root
-GODOT_MCP_RELAY_TOKEN=github_pat_xxx node relay/bridge.mjs
+# from the relay/ directory
+GODOT_MCP_RELAY_TOKEN=github_pat_xxx npm start
 ```
 You should see:
 ```

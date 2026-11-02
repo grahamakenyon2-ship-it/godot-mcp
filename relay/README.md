@@ -1,25 +1,41 @@
-# godot-mcp relay — how Vibe uses it
+# godot-mcp Relay Bridge (loopback-only)
 
-The bridge (bridge.mjs) runs on Alex's PC. It:
-1. Hosts the loopback WebSocket server (ws://127.0.0.1:6505) the godot_mcp plugin connects to — identical protocol to upstream `server/src/godot-bridge.ts` (JSON-RPC 2.0, ping/pong every 10s). It REPLACES the stdio MCP server; do not run both (port conflict).
-2. Polls `relay/queue/pending/` in this repo every 5s.
-3. Executes each job's commands sequentially against the live editor, commits results + decoded screenshots, deletes the job.
+Lets a cloud agent (Vibe) drive the Godot editor on Alex's PC without any
+inbound network exposure.
 
-## Vibe's side of the contract
-- Queue a job: commit `relay/queue/pending/<id>.json`:
-  ```json
-  { "id": "job-001", "commands": [
-      { "method": "get_project_info", "params": {} },
-      { "method": "get_editor_screenshot", "params": {} }
-  ] }
-  ```
-- Read `relay/status.json` first to confirm `connected: true` (and check `since` for freshness).
-- Results appear in `relay/results/<id>.json` (with per-command `ok`, `result`, `error`, `ms`) and any base64 PNGs decoded to `<id>-shot<N>.png`.
-- Job ids: use `YYYYMMDD-HHMMSS-seq` so ordering is lexical.
-- Methods = the 173 tool names from the upstream manifest (get_editor_screenshot, add_node, play_scene, simulate_key, get_editor_errors, etc.). Params per upstream tool-manifest.ts.
-- Commands run in order; one bad command doesn't stop the rest (each gets its own ok/error).
-- Timeouts: 60s per command; editor-disconnected jobs come back with an explicit error — surface that to Alex, don't retry silently.
+## How it works
+- The agent commits JSON-RPC request files to `relay/queue/pending/` in this repo.
+- `bridge.mjs` on Alex's PC polls (3s), relays each call over a loopback
+  WebSocket (127.0.0.1:6505) to the Godot MCP editor plugin, and commits the
+  result to `relay/results/`.
+- Screenshots arrive as decoded `.png` files; `relay/status.json` shows
+  live connection state.
+- Protocol is identical to upstream `server/src/godot-bridge.ts`
+  (verified against mkdevkit commit 328e15f: JSON-RPC 2.0, ping/pong
+  heartbeat, id-matched responses). Do NOT run the upstream stdio server at
+  the same time — both use port 6505.
 
-## Safety
-- WebSocket binds 127.0.0.1 only. Never add a tunnel/ngrok/public bind to this — it's a full editor-control surface.
-- Token: fine-grained PAT scoped to THIS repo, Contents read/write only.
+## Security
+- WS server binds **127.0.0.1 only**. No LAN, no tunnels, nothing public.
+- GitHub access uses a fine-grained PAT scoped to this single repo
+  (Contents: Read and write). No other permissions.
+
+## Run
+See `ALEX-STEPS.md` for full setup. Short version:
+```bash
+cd relay
+npm install
+GODOT_MCP_RELAY_TOKEN=github_pat_xxx npm start
+```
+
+## Queue protocol
+- `relay/queue/pending/<id>.json` — `{ "id", "method", "params" }` (agent-written)
+- `relay/results/<id>.json` — `{ "id", "ok", "result" | "error", "png" }` (bridge-written)
+- `relay/results/<id>.png` — decoded screenshot, when the result carried base64 PNG
+- Pending files are deleted once a result is committed.
+- `status.json` updates on editor connect/disconnect and every ~60s.
+
+## Tool methods
+Any method from upstream `server/src/tool-manifest.ts` (173 tools):
+get_project_info, get_editor_screenshot, get_editor_errors, execute_editor_script,
+scene/node/script editing, input simulation, runtime inspection, etc.
