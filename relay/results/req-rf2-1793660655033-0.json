@@ -1,0 +1,9 @@
+{
+  "id": "req-rf2-1793660655033-0",
+  "ok": true,
+  "result": {
+    "content": "SUPER RETRO WORLD Game Assets License Agreement\r\n\r\nCopyright (C) Gif\r\n\r\nVersion 1.0\r\n\r\n1. Grant of License\r\n\r\nThe Licensor grants the Licensee a non-exclusive, non-transferable, worldwide license to use the assets included in >\r\n\r\nThe Licensee may:\r\n\r\n- Use the Assets in video games, applications, films, videos, interactive media, and similar projects\r\n- Modify, edit, adapt, and combine the Assets with other content\r\n- Distribute finished projects containing the Assets\r\n\r\n2. Restrictions\r\n\r\nThe Licensee may NOT:\r\n\r\n- Resell, redistribute, share, sublicense, or repackage the Assets as standalone files or asset packs\r\n- Upload the Assets to another marketplace, repository, or file-sharing service\r\n- Claim ownership or authorship of the original Assets\r\n- Use the Assets for training, fine-tuning, development, or improvement of artificial intelligence, machine learning>\r\n- Make the Assets publicly available in extractable standalone form\r\n\r\n3. Attribution\r\n\r\nAttribution is not required but is appreciated. Use the name \"Gif\" for credit or attribution.\r\n",
+    "script_path": "res://Custom_Commercial_License.txt"
+  },
+  "png": null
+}
