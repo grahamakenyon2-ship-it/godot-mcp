@@ -1,0 +1,35 @@
+{
+  "id": "req-hud1-1793660348708",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "path": "res://HUD/Base-01.aseprite",
+          "type": "file"
+        },
+        {
+          "path": "res://HUD/Base-01.png",
+          "type": "file"
+        },
+        {
+          "path": "res://HUD/Base-01.png.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://HUD/Free",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://HUD/Paid (a few samples)",
+          "type": "directory"
+        }
+      ],
+      "path": "res://HUD",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
