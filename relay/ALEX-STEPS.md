@@ -1,116 +1,66 @@
-# ALEX'S STEPS — follow in order, ~10 minutes total
+# Alex's Setup Steps — godot-mcp GitHub Relay Bridge
 
-You need each of these ONCE. After that, "working on Godot with me" = keep the Godot editor open and the bridge running (one double-click / one terminal command).
+One-time setup (~10 min). After this, the bridge runs on your PC and lets
+Vibe drive your live Godot editor through the fork's repo — no ports exposed
+to the internet, everything stays loopback + GitHub.
 
----
+## 0. What you need
+- Node 18+ (`node -v`)
+- The Godot MCP editor plugin (step 3)
+- A fine-grained GitHub PAT (step 1)
 
-## STEP 0 — What you need already installed
-- **Godot 4.4 or newer** (you have this)
-- **Git** (you have this)
-- **Node.js** — *only if you don't have it:*
-  1. Go to https://nodejs.org
-  2. Click the big green button that says **"LTS"** (the left one, with the big version number)
-  3. Run the installer. Click **Next** on every screen. **Finish.**
-  4. Check it worked: open a **Command Prompt** (press Windows key, type `cmd`, Enter) and type:
-     ```
-     node --version
-     ```
-     Press Enter. You should see something like `v22.x.x`. If you do, Node is installed.
+## 1. Create the PAT
+1. GitHub → Settings → Developer settings → **Fine-grained tokens** → Generate.
+2. Repository access: **Only select repositories** → `grahamakenyon2-ship-it/godot-mcp`.
+3. Permissions → Repository permissions → **Contents: Read and write**. Nothing else.
+4. Copy the token (starts with `github_pat_`). Keep it private.
 
----
-
-## STEP 1 — Create your GitHub token (the bridge's permission slip)
-1. Go to: https://github.com/settings/personal-access-tokens/new
-   (That's: GitHub → click your face top-right → **Settings** → scroll down left sidebar → **Developer settings** → **Personal access tokens** → **Fine-grained tokens** → **Generate new token**)
-2. **Token name:** type `godot relay`
-3. **Expiration:** pick `Custom` → a year from now
-4. **Repository access:** click **"Only select repositories"** → in the dropdown, pick **`grahamakenyon2-ship-it/godot-mcp`**
-5. Under **Permissions → Repository permissions**, find **Contents** and set it to **Read and write**
-   (everything else stays "No access" — that's correct and safest)
-6. Click **Generate token** (green button, bottom)
-7. **RIGHT NOW**: copy the token it shows you (clicks the copy icon). It looks like `github_pat_长长的...`.
-   ⚠️ You will never see it again after leaving that page. Paste it somewhere safe temporarily (Notepad is fine).
-
----
-
-## STEP 2 — Get the repo onto your PC
-1. Open a **Command Prompt**
-2. Type these lines, pressing Enter after each:
-   ```
-   cd %USERPROFILE%
-   git clone https://github.com/grahamakenyon2-ship-it/godot-mcp.git
-   cd godot-mcp\relay
-   ```
-
----
-
-## STEP 3 — Give the bridge your token
-1. Still in that same Command Prompt, in the `relay` folder, type:
-   ```
-   copy relay-config.example.json relay-config.json
-   ```
-2. Open the file in Notepad:
-   ```
-   notepad relay-config.json
-   ```
-3. Replace `PASTE_YOUR_TOKEN_HERE` with the token from Step 1 (between the quotes). Save and close (Ctrl+S, Alt+F4).
-
----
-
-## STEP 4 — Install the bridge's one dependency (once)
+## 2. Clone the fork + install
+```bash
+git clone https://github.com/grahamakenyon2-ship-it/godot-mcp.git
+cd godot-mcp
+npm install ws
 ```
-npm install
+(If `npm install ws` complains, run `npm init -y` first in the fork root —
+you only need the `ws` package for the relay bridge.)
+
+## 3. Install the editor plugin into your game project
+The plugin lives in this fork at `addons/godot_mcp/`.
+- Copy `addons/godot_mcp/` into your ghost-company project as `addons/godot_mcp/`.
+- In Godot: Project → Project Settings → Plugins → enable **Godot MCP**.
+- Keep the editor OPEN with the ghost-company project loaded.
+
+## 4. Start the bridge
+```bash
+# from the fork root
+GODOT_MCP_RELAY_TOKEN=github_pat_xxx node relay/bridge.mjs
 ```
-Wait ~10 seconds until it stops printing things. Errors in *yellow* are fine; errors in *red* mean call me.
-
----
-
-## STEP 5 — Start the bridge
+You should see:
 ```
-node bridge.mjs
+[relay] repo=... branch=main port=6505 (loopback only)
+[relay] Godot editor connected on ws://127.0.0.1:6505
 ```
-**Keep this window open.** You want to see:
-```
-[relay ...] bridge up. repo=grahamakenyon2-ship-it/godot-mcp ...
-[relay ...] waiting for Godot editor...
-```
+If you get "editor not connected": the plugin isn't enabled, or Godot isn't
+open. IMPORTANT: do NOT run the upstream stdio server at the same time —
+both use port 6505.
 
----
+## 5. Tell Vibe you're up
+Just say "bridge is up". Vibe will verify by queueing `get_project_info` +
+`get_editor_screenshot` against ghost-company and confirm it can see your
+editor.
 
-## STEP 6 — Plug the addon into your Godot project (once per project, e.g. ghost-company)
-1. In File Explorer, open the cloned `godot-mcp` folder, then the `addons` folder inside it.
-2. **Copy** the `godot_mcp` folder.
-3. Go to your game project folder (e.g. where you cloned `ghost-company`), open its `addons` folder (make one if there isn't), and **paste** it there.
-4. Open the project in Godot.
-5. Top menu: **Project → Project Settings → Plugins** tab.
-6. Find **"Godot MCP"** in the list → turn the checkbox **ON**.
-7. Look at Godot's **Output** panel (bottom). You want to see:
-   ```
-   [Godot MCP] Plugin started
-   ```
-8. Check your Command Prompt (Step 5 window). You want to see:
-   ```
-   [relay ...] Godot editor CONNECTED
-   ```
-9. **Final proof it works:** refresh this page: https://github.com/grahamakenyon2-ship-it/godot-mcp/blob/main/relay/status.json
-   — it should say `"connected": true`.
-
-That's it. From then on: **editor open + bridge running = I can see and drive your editor.** I'll tell you when I've sent a command so you can leave the window alone.
-
----
+## How it works (for reference)
+- Vibe commits request files to `relay/queue/pending/*.json` in the fork.
+- Your bridge polls (every 3s), relays each call over the loopback WebSocket
+  to the Godot plugin, and commits the result to `relay/results/`.
+- Screenshots come back as decoded `.png` files.
+- `relay/status.json` shows live connection state.
+- The WS server binds **127.0.0.1 only** — nothing is reachable from outside
+  your machine. All GitHub traffic uses your single-repo PAT.
 
 ## Troubleshooting
-
-| Symptom | Fix |
-|---|---|
-| `node` is not recognized | Step 0 failed — reinstall Node LTS, then close and reopen the Command Prompt |
-| `npm install` prints red errors | Your internet or GitHub token — paste me the error text |
-| Bridge says `waiting for Godot editor...` forever | Godot isn't open, or the plugin toggle (Step 6.6) is off, or you have the OLD Node server running from before — close anything else that might use port 6505 |
-| `Godot editor DISCONNECTED` right after connecting | You closed Godot or the project — just reopen it |
-| status.json says `connected: false` but Godot is open | The Godot Output panel probably shows an error — screenshot it for me |
-| Nothing in `relay/results/` after I say I sent a command | Bridge window may show `poll error: ... GitHub 401` → your token expired or wasn't pasted right (Step 3) |
-
-## Every-day use (later sessions)
-1. Open Godot with the game project.
-2. Command Prompt: `cd %USERPROFILE%\godot-mcp\relay` then `node bridge.mjs`
-3. Tell me "editor's up" — that's your whole day's job.
+- **403 from GitHub** → token repo scope or Contents RW missing.
+- **EADDRINUSE 6505** → upstream stdio server running; kill it.
+- **Requests sit in pending/** → check `relay/status.json`: if `connected: false`,
+  the editor plugin isn't talking to the bridge (plugin disabled, or Godot closed).
+- **No results at all** → bridge terminal will print every error it hits; read it.
