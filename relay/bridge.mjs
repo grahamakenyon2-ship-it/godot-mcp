@@ -17,7 +17,8 @@
  * Env vars:
  *   GODOT_MCP_RELAY_TOKEN  (required) fine-grained PAT, Contents: RW on the fork
  *   GODOT_MCP_RELAY_REPO   default "grahamakenyon2-ship-it/godot-mcp"
- *   GODOT_MCP_RELAY_BRANCH default "main"
+ *   GODOT_MCP_RELAY_BRANCH default "master" (the fork's default branch, which
+ *                          the agent-side GitHub read tools see)
  *   GODOT_MCP_PORT         default 6505 (do NOT run upstream stdio server at
  *                          the same time - port conflict)
  *
@@ -40,12 +41,13 @@ if (!TOKEN) {
   process.exit(1);
 }
 const REPO = process.env.GODOT_MCP_RELAY_REPO || "grahamakenyon2-ship-it/godot-mcp";
-const BRANCH = process.env.GODOT_MCP_RELAY_BRANCH || "main";
+const BRANCH = process.env.GODOT_MCP_RELAY_BRANCH || "master";
 const PORT = Number(process.env.GODOT_MCP_PORT || 6505);
 const HOST = "127.0.0.1"; // ONLY. Never change.
 const POLL_MS = 3000;
 const HEARTBEAT_MS = 10000;
 const REQUEST_TIMEOUT_MS = 60000; // screenshots can be chunky
+const PUT_RETRIES = 3; // 409 sha races when agent + bridge commit close together
 const API = "https://api.github.com/repos/" + REPO;
 const GH = {
   "Authorization": "Bearer " + TOKEN,
@@ -55,7 +57,7 @@ const GH = {
 };
 
 // ---------------------------------------------------------------------------
-// Minimal GitHub contents-API helpers (base64 in/out)
+// Minimal GitHub contents-API helpers (base64 in/out, 409-retry)
 // ---------------------------------------------------------------------------
 const b64 = (s) => Buffer.from(s, "utf8").toString("base64");
 const unb64 = (s) => Buffer.from(s, "base64").toString("utf8");
@@ -68,31 +70,38 @@ async function ghGet(path) {
 }
 
 async function ghPut(path, content, message) {
-  const existing = await ghGet("contents/" + path);
-  const body = { message: message, content: b64(content), branch: BRANCH };
-  if (existing && existing.sha) body.sha = existing.sha;
-  const res = await fetch(API + "/contents/" + path, {
-    method: "PUT",
-    headers: Object.assign({}, GH, { "Content-Type": "application/json" }),
-    body: JSON.stringify(body),
-  });
-  if (!res.ok && res.status !== 200 && res.status !== 201) {
-    throw new Error("PUT " + path + ": " + res.status + " " + (await res.text()));
+  let lastErr = null;
+  for (let attempt = 0; attempt < PUT_RETRIES; attempt++) {
+    const existing = await ghGet("contents/" + path);
+    const body = { message: message, content: b64(content), branch: BRANCH };
+    if (existing && existing.sha) body.sha = existing.sha;
+    const res = await fetch(API + "/contents/" + path, {
+      method: "PUT",
+      headers: Object.assign({}, GH, { "Content-Type": "application/json" }),
+      body: JSON.stringify(body),
+    });
+    if (res.ok || res.status === 200 || res.status === 201) return res.json();
+    lastErr = new Error("PUT " + path + ": " + res.status + " " + (await res.text()));
+    if (res.status !== 409 && res.status !== 422) throw lastErr; // only retry on races
   }
-  return res.json();
+  throw lastErr;
 }
 
 async function ghDelete(path, message) {
-  const f = await ghGet("contents/" + path);
-  if (!f) return;
-  const res = await fetch(API + "/contents/" + path, {
-    method: "DELETE",
-    headers: Object.assign({}, GH, { "Content-Type": "application/json" }),
-    body: JSON.stringify({ message: message, sha: f.sha, branch: BRANCH }),
-  });
-  if (!res.ok && res.status !== 200) {
-    throw new Error("DELETE " + path + ": " + res.status + " " + (await res.text()));
+  let lastErr = null;
+  for (let attempt = 0; attempt < PUT_RETRIES; attempt++) {
+    const f = await ghGet("contents/" + path);
+    if (!f) return;
+    const res = await fetch(API + "/contents/" + path, {
+      method: "DELETE",
+      headers: Object.assign({}, GH, { "Content-Type": "application/json" }),
+      body: JSON.stringify({ message: message, sha: f.sha, branch: BRANCH }),
+    });
+    if (res.ok || res.status === 200) return;
+    lastErr = new Error("DELETE " + path + ": " + res.status + " " + (await res.text()));
+    if (res.status !== 409 && res.status !== 422) throw lastErr;
   }
+  throw lastErr;
 }
 
 // ---------------------------------------------------------------------------
