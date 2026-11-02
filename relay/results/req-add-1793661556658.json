@@ -1,0 +1,203 @@
+{
+  "id": "req-add-1793661556658",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [],
+          "path": "res://addons/afterimage_node2D",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/AsepriteWizard",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/BallisticSolutions.Godot",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/ballistic_solutions",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/controller_icons",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/curved_lines_2d",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/dialogue_manager",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/drag_and_drop",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/fightengine",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/GD-Sync",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/GDQuest_GDScript_formatter",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/gdUnit4",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/ghost_trail",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/godot-rapier2d",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/godotsteam",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/godot_mcp",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/godot_mcp_toolkit",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/grid_tactics_lite",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/health_hitbox_hurtbox",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/level_authoring",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/lit",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/log",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/phantom_camera",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/quest_authoring",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/real_equation_solver",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/reload_current_scene",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/rmsmartshape",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/road-generator",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/script-ide",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/sky_3d",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/smartcamera2D",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/spark",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/sprite_offset_tools",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/terrabrush",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/terrain_3d",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/TimeRewinderDelta",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/vfx_2d",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons/yard",
+          "type": "directory"
+        }
+      ],
+      "path": "res://addons",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
