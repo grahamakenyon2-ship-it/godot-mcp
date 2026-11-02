@@ -1,0 +1,27 @@
+{
+  "id": "hand1",
+  "ok": true,
+  "result": {
+    "autoloads": {},
+    "current_scene": "res://scenes/battle/battle.tscn",
+    "description": "Turn-based tactics where your past turns fight beside you.",
+    "features": [
+      "4.7"
+    ],
+    "godot_version": {
+      "build": "official",
+      "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+      "hex": 263938,
+      "major": 4,
+      "minor": 7,
+      "patch": 2,
+      "status": "stable",
+      "string": "4.7.2-stable (official)",
+      "timestamp": 0
+    },
+    "main_scene": "res://scenes/battle/battle.tscn",
+    "name": "Ghost Company",
+    "project_path": "E:/ghost-company-main/"
+  },
+  "png": null
+}
