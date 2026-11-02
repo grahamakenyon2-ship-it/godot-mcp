@@ -1,0 +1,1153 @@
+{
+  "id": "req-cards-1793660305560",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "path": "res://Card Sprites/Booster/booster body smooth.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Booster/booster body smooth.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Booster/booster body wave.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Booster/booster body wave.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Card Sprites/Booster",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Card Sprites/Card Back/contrast emblem (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/contrast emblem (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/contrast emblem (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/contrast emblem (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/contrast emblem (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/contrast emblem (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/contrast emblem (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/contrast emblem (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/crystal (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/crystal (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/crystal (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/crystal (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/crystal (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/crystal (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/crystal (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/crystal (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/crystal (5).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/crystal (5).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/crystal (6).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/crystal (6).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/neutral emblem (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/neutral emblem (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/neutral emblem (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/neutral emblem (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/neutral emblem (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/neutral emblem (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/neutral emblem (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/neutral emblem (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_cover.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_cover.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (10).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (10).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (11).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (11).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (12).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (12).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (5).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (5).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (6).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (6).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (7).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (7).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (8).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (8).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (9).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Card Back/_experimental (9).png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Card Sprites/Card Back",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Card Sprites/Minion/Alternate (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/Alternate (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/Alternate (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/Alternate (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/Alternate (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/Alternate (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (5).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (5).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (6).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (6).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (7).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (7).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (8).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/Minion/minion (8).png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Card Sprites/Minion",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (5).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (5).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (6).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (6).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (7).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (7).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (8).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/big decor (8).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (10).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (10).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (11).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (11).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (12).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (12).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (13).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (13).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (14).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (14).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (15).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (15).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (16).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (16).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (17).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (17).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (18).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (18).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (5).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (5).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (6).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (6).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (7).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (7).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (8).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (8).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (9).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/corners (9).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (10).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (10).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (11).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (11).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (12).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (12).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (13).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (13).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (14).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (14).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (5).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (5).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (6).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (6).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (7).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (7).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (8).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (8).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (9).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/horizontal sides (9).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key crystal (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key crystal (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key crystal (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key crystal (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key crystal (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key crystal (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key crystal (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key crystal (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key crystal (5).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key crystal (5).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key crystal (6).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key crystal (6).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key emblem (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key emblem (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key emblem (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key emblem (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key emblem (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key emblem (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key emblem (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key emblem (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key emblem (5).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key emblem (5).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key emblem (6).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/key emblem (6).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (10).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (10).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (11).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (11).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (12).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (12).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (13).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (13).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (14).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (14).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (15).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (15).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (16).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (16).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (5).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (5).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (6).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (6).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (7).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (7).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (8).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (8).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (9).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/small decor (9).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (10).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (10).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (11).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (11).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (12).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (12).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (13).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (13).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (14).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (14).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (5).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (5).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (6).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (6).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (7).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (7).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (8).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (8).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (9).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/vertical sides (9).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/_base full.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/_base full.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/_base rough.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Card Back Elements/_base rough.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Card Sprites/_Card Back Elements",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Card Sprites/_Emblem/emblem (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Emblem/emblem (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Emblem/emblem (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Emblem/emblem (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Emblem/emblem (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Emblem/emblem (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Emblem/emblem (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Emblem/emblem (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Emblem/emblem (5).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Emblem/emblem (5).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Emblem/emblem (6).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Emblem/emblem (6).png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Card Sprites/_Emblem",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (1).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (1).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (2).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (2).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (3).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (3).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (4).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (4).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (5).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (5).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (6).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (6).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (7).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (7).png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (8).png",
+              "type": "file"
+            },
+            {
+              "path": "res://Card Sprites/_Rarity/rarity (8).png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Card Sprites/_Rarity",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Card Sprites",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
