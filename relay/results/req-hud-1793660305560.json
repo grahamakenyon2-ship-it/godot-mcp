@@ -1,0 +1,57 @@
+{
+  "id": "req-hud-1793660305560",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "path": "res://HUD/Base-01.aseprite",
+          "type": "file"
+        },
+        {
+          "path": "res://HUD/Base-01.png",
+          "type": "file"
+        },
+        {
+          "path": "res://HUD/Base-01.png.import",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "path": "res://HUD/Free/PNG Big (256 px)",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://HUD/Free/PNG Small (64 px)",
+              "type": "directory"
+            }
+          ],
+          "path": "res://HUD/Free",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "path": "res://HUD/Paid (a few samples)/PNG Big (256 px)",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://HUD/Paid (a few samples)/PNG Small (64 px)",
+              "type": "directory"
+            }
+          ],
+          "path": "res://HUD/Paid (a few samples)",
+          "type": "directory"
+        }
+      ],
+      "path": "res://HUD",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
