@@ -32,7 +32,7 @@
  * Run:  GODOT_MCP_RELAY_TOKEN=github_pat_xxx node bridge.mjs
  */
 
-import WebSocket from "ws";
+import { WebSocketServer, WebSocket } from "ws";
 
 const TOKEN = process.env.GODOT_MCP_RELAY_TOKEN;
 if (!TOKEN) {
@@ -102,7 +102,7 @@ let client = null;
 const pending = new Map(); // id -> {resolve, reject, timer}
 let nextId = 1;
 
-const wss = new WebSocket.Server({ port: PORT, host: HOST });
+const wss = new WebSocketServer({ port: PORT, host: HOST });
 wss.on("connection", (ws) => {
   client = ws;
   console.error("[relay] Godot editor connected on ws://" + HOST + ":" + PORT);
