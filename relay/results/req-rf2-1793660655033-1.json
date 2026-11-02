@@ -1,0 +1,9 @@
+{
+  "id": "req-rf2-1793660655033-1",
+  "ok": true,
+  "result": {
+    "content": "{\n  \"packId\": \"verdant-00-sample\",\n  \"title\": \"Verdant 00 — Free Sample [16x16]\",\n  \"series\": {\n    \"name\": \"Verdant\",\n    \"number\": 0\n  },\n  \"cellSize\": 16,\n  \"gridVariants\": [\n    16\n  ],\n  \"palette\": [\n    \"#1a1a24\",\n    \"#eef0e6\",\n    \"#2b4a2a\",\n    \"#3d6b33\",\n    \"#4f8a3c\",\n    \"#6faa48\",\n    \"#93c65c\",\n    \"#3a2a20\",\n    \"#5a4030\",\n    \"#7a5840\",\n    \"#9c7554\",\n    \"#33333f\",\n    \"#4e4e5c\",\n    \"#6e6e7d\",\n    \"#9494a2\",\n    \"#1c3a24\",\n    \"#2b5730\",\n    \"#3d7a3c\",\n    \"#58a34d\",\n    \"#43291c\",\n    \"#6b4227\",\n    \"#96633a\",\n    \"#c8443c\",\n    \"#132215\",\n    \"#1c3420\"\n  ],\n  \"tileCount\": 64,\n  \"sampleOf\": \"verdant-01-overworld\",\n  \"licence\": \"Commercial use permitted, including in paid games. See LICENSE.txt.\",\n  \"aiDisclosure\": \"Graphics generated programmatically. See Readme_for_Users.md.\"\n}",
+    "script_path": "res://pack.json"
+  },
+  "png": null
+}
