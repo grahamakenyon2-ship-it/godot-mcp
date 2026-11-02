@@ -1,0 +1,305 @@
+{
+  "id": "req-dark-1793660305560",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "path": "res://Dark Theme/Generic/128px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Generic/256px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Generic/32px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Generic/512px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Generic/64px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Generic/SVG",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Dark Theme/Generic",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "path": "res://Dark Theme/Joysticks/128px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Joysticks/256px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Joysticks/32px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Joysticks/512px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Joysticks/64px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Joysticks/SVG",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Dark Theme/Joysticks",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "path": "res://Dark Theme/Keyboard & Mouse/128px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Keyboard & Mouse/256px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Keyboard & Mouse/32px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Keyboard & Mouse/512px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Keyboard & Mouse/64px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Keyboard & Mouse/SVG",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Dark Theme/Keyboard & Mouse",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "path": "res://Dark Theme/Playstation/128px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Playstation/256px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Playstation/32px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Playstation/512px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Playstation/64px",
+              "type": "directory"
+            },
+            {
+              "path": "res://Dark Theme/Playstation/desktop.ini",
+              "type": "file"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Playstation/SVG",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Dark Theme/Playstation",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "path": "res://Dark Theme/SteamDeck/128px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/SteamDeck/256px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/SteamDeck/32px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/SteamDeck/512px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/SteamDeck/64px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/SteamDeck/SVG",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Dark Theme/SteamDeck",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "path": "res://Dark Theme/Switch/128px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Switch/256px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Switch/32px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Switch/512px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Switch/64px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Switch/SVG",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Dark Theme/Switch",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "path": "res://Dark Theme/Touchpads/128px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Touchpads/256px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Touchpads/32px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Touchpads/512px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Touchpads/64px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Touchpads/SVG",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Dark Theme/Touchpads",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "path": "res://Dark Theme/Xbox/128px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Xbox/256px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Xbox/32px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Xbox/512px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Xbox/64px",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://Dark Theme/Xbox/SVG",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Dark Theme/Xbox",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Dark Theme",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
