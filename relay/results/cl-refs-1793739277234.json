@@ -1,0 +1,80 @@
+{
+  "id": "cl-refs-1793739277234",
+  "ok": true,
+  "result": {
+    "count": 14,
+    "matches": [
+      {
+        "file": "res://scripts/battle/battle_view.gd",
+        "line": 19,
+        "text": "const ENCOUNTER_PATH := \"res://data/encounters/encounter_01.json\""
+      },
+      {
+        "file": "res://scripts/battle/battle_view.gd",
+        "line": 36,
+        "text": "tm = load(\"res://scripts/battle/turn_manager.gd\").new()"
+      },
+      {
+        "file": "res://scripts/battle/battle_view.gd",
+        "line": 103,
+        "text": "var token: Node2D = load(\"res://scripts/battle/unit_token.gd\").new()"
+      },
+      {
+        "file": "res://scripts/battle/turn_manager.gd",
+        "line": 39,
+        "text": "sim = load(\"res://scripts/sim/sim.gd\").new("
+      },
+      {
+        "file": "res://scripts/inventory/InventorySystem.gd",
+        "line": 9,
+        "text": "@export var items_path: String = \"res://items/\" # Directory where ItemBase resources are located."
+      },
+      {
+        "file": "res://scripts/inventory/InventoryView.gd",
+        "line": 7,
+        "text": "const INVENTORY_SLOT_SCENE: PackedScene = preload(\"res://scenes/inventory_slot.tscn\")"
+      },
+      {
+        "file": "res://scripts/itemization/AffixPool.gd",
+        "line": 4,
+        "text": "@export var affixes_path: String = \"res://affixes/\""
+      },
+      {
+        "file": "res://scripts/tooltip/ItemTooltip.gd",
+        "line": 16,
+        "text": "@export var default_label: PackedScene = preload(\"res://scripts/tooltip/sections/labels/DefaultTooltipLabel.tscn\")"
+      },
+      {
+        "file": "res://scripts/tooltip/sections/AffixesSection.gd",
+        "line": 6,
+        "text": "var label_path = \"res://scripts/tooltip/sections/labels/AffixesSectionLabel.tscn\""
+      },
+      {
+        "file": "res://scripts/tooltip/sections/DescriptionSection.gd",
+        "line": 4,
+        "text": "var label_path = \"res://scripts/tooltip/sections/labels/DescriptionSectionLabel.tscn\""
+      },
+      {
+        "file": "res://scripts/tooltip/sections/EquippedSection.gd",
+        "line": 4,
+        "text": "var label_path = \"res://scripts/tooltip/sections/labels/EquippedSectionLabel.tscn\""
+      },
+      {
+        "file": "res://scripts/tooltip/sections/NameSection.gd",
+        "line": 4,
+        "text": "var label_path = \"res://scripts/tooltip/sections/labels/NameSectionLabel.tscn\""
+      },
+      {
+        "file": "res://scripts/tooltip/sections/PriceSection.gd",
+        "line": 4,
+        "text": "var label_path = \"res://scripts/tooltip/sections/labels/PriceSectionLabel.tscn\""
+      },
+      {
+        "file": "res://scripts/tooltip/sections/SlotSection.gd",
+        "line": 4,
+        "text": "var label_path = \"res://scripts/tooltip/sections/labels/SlotSectionLabel.tscn\""
+      }
+    ]
+  },
+  "png": null
+}
