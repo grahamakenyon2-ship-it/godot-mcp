@@ -1,1 +1,0 @@
-{"id":"v3-warn-attach","method":"attach_script","params":{"node_path":"GCWarn","script_path":"res://tools/gc_warn_scan.gd"}}
