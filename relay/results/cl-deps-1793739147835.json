@@ -1,0 +1,13 @@
+{
+  "id": "cl-deps-1793739147835",
+  "ok": true,
+  "result": {
+    "dependencies": [
+      "res://scripts/battle/battle_view.gd",
+      "res://scripts/battle/grid_draw.gd",
+      "res://ghost-kit/grid_indicators.gd"
+    ],
+    "scene": "res://scenes/battle/battle.tscn"
+  },
+  "png": null
+}
