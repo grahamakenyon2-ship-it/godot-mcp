@@ -1,1 +1,0 @@
-{"id":"cl-write3-1793740307536","method":"create_script","params":{"script_path":"res://tools/gc_cleanup_runner.gd","content":"extends Node\n\nfunc _ready() -> void:\n\tvar mf := FileAccess.open(\"res://tools/gc_runner_started.gd\", FileAccess.WRITE)\n\tif mf:\n\t\tmf.store_string(\"# started v3\")\n\t\tmf.close()\n\tprint(\"GC_RUNNER_V3_STARTED\")\n","overwrite":true}}
