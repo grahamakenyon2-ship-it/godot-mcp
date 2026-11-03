@@ -1,0 +1,131 @@
+{
+  "id": "gc-bes5-mw0287w7",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Exports/FBX (Unity)/Imp.fbx",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Exports/FBX (Unity)/Puglin.fbx",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Exports/FBX (Unity)",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Exports/GLB (Godot-Unreal)/Imp.glb",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Exports/GLB (Godot-Unreal)/Puglin.glb",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Exports/GLB (Godot-Unreal)",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Exports",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Importing_Godot.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Importing_UnrealUnity.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/License_Standard.txt",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Preview.jpg",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Imp_BaseColor_1.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Imp_BaseColor_2.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Imp_BaseColor_3.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Imp_Emissive.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Imp_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Imp_ORM.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Puglin_BaseColor_1.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Puglin_BaseColor_2.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Puglin_BaseColor_3.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Puglin_Emissive.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Puglin_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Puglin_ORM.png",
+              "type": "file"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/Unreal Normals/T_Imp_Normal_Unreal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/Unreal Normals/T_Puglin_Normal_Unreal.png",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/Unreal Normals",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
