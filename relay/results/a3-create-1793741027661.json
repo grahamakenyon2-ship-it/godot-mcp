@@ -1,0 +1,9 @@
+{
+  "id": "a3-create-1793741027661",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_probe_s3.gd"
+  },
+  "png": null
+}
