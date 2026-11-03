@@ -1,0 +1,9 @@
+{
+  "id": "g2-read-runner",
+  "ok": true,
+  "result": {
+    "content": "extends Node\n\nfunc _ready() -> void:\n\tvar mf := FileAccess.open(\"res://tools/gc_runner_started.gd\", FileAccess.WRITE)\n\tif mf:\n\t\tmf.store_string(\"# started v3\")\n\t\tmf.close()\n\tprint(\"GC_RUNNER_V3_STARTED\")\n",
+    "script_path": "res://tools/gc_cleanup_runner.gd"
+  },
+  "png": null
+}
