@@ -1,0 +1,9 @@
+{
+  "id": "a9-create-1793740818241",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_exec_v2.gd"
+  },
+  "png": null
+}
