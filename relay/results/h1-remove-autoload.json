@@ -1,0 +1,8 @@
+{
+  "id": "h1-remove-autoload",
+  "ok": true,
+  "result": {
+    "removed": "GCCleanupRunner"
+  },
+  "png": null
+}
