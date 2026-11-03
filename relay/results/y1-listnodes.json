@@ -1,0 +1,8 @@
+{
+  "id": "y1-listnodes",
+  "ok": true,
+  "result": {
+    "result": "[Board:<Node2D#6178428018777>, UI:<CanvasLayer#6178478350412>, GCDiag:<Node#6178662899820>, GCDiag2:<Node#6178730008690>, GCDiag3:<Node#6178780340344>, GCFix:<Node#6178830672013>, GCJunk:<Node#6178881003663>, GCJunk2:<Node#6178948112529>, GCFinal:<Node#6179015221395>, GCCase:<Node#6179065553045>, GCCase2:<Node#6179115884695>, GCCache:<Node#6179166216345>, GCWarn:<Node#6179233325211>, GCUid:<Node#6179283656861>, GCClose:<Node#6179333988511>]"
+  },
+  "png": null
+}
