@@ -1,0 +1,9 @@
+{
+  "id": "m1-junk3-create",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_junk_sweep2.gd"
+  },
+  "png": null
+}
