@@ -1,0 +1,1 @@
+{"id":"t-p-hi-1793749105192","method":"set_shader_param","params":{"node_path":"MeshInstance3D","param":"highlight_color","value":"Color(0.81, 0.94, 1.0, 1.0)"}}
