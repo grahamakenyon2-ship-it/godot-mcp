@@ -1,0 +1,9 @@
+{
+  "id": "cl-write9-1793740559969",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_editor_runner.gd"
+  },
+  "png": null
+}
