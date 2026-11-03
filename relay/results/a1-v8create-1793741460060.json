@@ -1,0 +1,9 @@
+{
+  "id": "a1-v8create-1793741460060",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_exec_v8move.gd"
+  },
+  "png": null
+}
