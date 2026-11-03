@@ -1,1 +1,0 @@
-{"id":"a2-create-1793741027661","method":"create_script","params":{"script_path":"res://tools/gc_probe_s2.gd","content":"@tool\nextends Node\n\nfunc run() -> String:\n\tvar da := DirAccess.new()\n\tvar err := da.rename(\"res://tools/gc_probe_x.tmp\", \"res://tools/gc_probe_y.tmp\")\n\treturn \"S2 ok \" + str(err)\n","overwrite":true}}
