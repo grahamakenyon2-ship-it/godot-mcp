@@ -1,1 +1,0 @@
-{"id":"x1-fix-1793750360813","method":"edit_script","params":{"script_path":"res://scripts/showcase.gd","search":"light.energy = 1.1","replace":"light.light_energy = 1.1"}}
