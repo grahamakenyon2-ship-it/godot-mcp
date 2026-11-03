@@ -1,0 +1,1 @@
+{"id":"t-cam-node-1793749031412","method":"add_node","params":{"type":"Camera3D","name":"TestCamera","parent_path":"."}}
