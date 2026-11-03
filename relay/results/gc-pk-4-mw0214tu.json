@@ -1,0 +1,581 @@
+{
+  "id": "gc-pk-4-mw0214tu",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Peasant_Arms.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Peasant_Body.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Peasant_Feet.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Peasant_Legs.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Ranger_Acc_Pauldrons.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Ranger_Arms.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Ranger_Body.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Ranger_Feet.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Ranger_Head_Hood.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Ranger_Legs.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Peasant_Arms.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Peasant_Body.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Peasant_Feet.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Peasant_Legs.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Ranger_Acc_Pauldron.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Ranger_Arms.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Ranger_Body.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Ranger_Feet_Boots.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Ranger_Head_Hood.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Ranger_Legs.fbx",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts",
+                  "type": "directory"
+                },
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Outfits/Female_Peasant.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Outfits/Female_Ranger.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Outfits/Male_Peasant.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Outfits/Male_Ranger.fbx",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Outfits",
+                  "type": "directory"
+                }
+              ],
+              "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Peasant_Arms.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Peasant_Arms.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Peasant_Body.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Peasant_Body.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Peasant_Feet.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Peasant_Feet.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Peasant_Legs.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Peasant_Legs.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Ranger_Acc_Pauldrons.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Ranger_Acc_Pauldrons.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Ranger_Arms.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Ranger_Arms.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Ranger_Body.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Ranger_Body.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Ranger_Feet.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Ranger_Feet.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Ranger_Head_Hood.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Ranger_Head_Hood.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Ranger_Legs.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Female_Ranger_Legs.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Peasant_Arms.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Peasant_Arms.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Peasant_Body.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Peasant_Body.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Peasant_Feet.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Peasant_Feet.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Peasant_Legs.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Peasant_Legs.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Ranger_Acc_Pauldron.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Ranger_Acc_Pauldron.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Ranger_Arms.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Ranger_Arms.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Ranger_Body.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Ranger_Body.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Ranger_Feet_Boots.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Ranger_Feet_Boots.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Ranger_Head_Hood.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Ranger_Head_Hood.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Ranger_Legs.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/Male_Ranger_Legs.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/T_Peasant_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/T_Peasant_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/T_Peasant_ORM.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/T_Ranger_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/T_Ranger_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/T_Ranger_ORM.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/T_Regular_Female_Dark_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/T_Regular_Female_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/T_Regular_Female_Roughness.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/T_Regular_Male_Dark_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/T_Regular_Male_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts/T_Regular_Male_Roughness.png",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Modular Parts",
+                  "type": "directory"
+                },
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/Female_Peasant.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/Female_Peasant.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/Female_Ranger.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/Female_Ranger.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/Male_Peasant.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/Male_Peasant.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/Male_Ranger.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/Male_Ranger.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/T_Peasant_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/T_Peasant_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/T_Peasant_ORM.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/T_Ranger_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/T_Ranger_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/T_Ranger_ORM.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/T_Regular_Female_Dark_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/T_Regular_Female_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/T_Regular_Female_Roughness.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/T_Regular_Male_Dark_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/T_Regular_Male_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/T_Regular_Male_Roughness.png",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits",
+                  "type": "directory"
+                }
+              ],
+              "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/License_Standard.txt",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Preview.jpg",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Readme.txt",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Base/T_Regular_Female_Dark_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Base/T_Regular_Female_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Base/T_Regular_Female_Roughness.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Base/T_Regular_Male_Dark_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Base/T_Regular_Male_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Base/T_Regular_Male_Roughness.png",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Base",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Peasant/Normals-UnrealEngine/T_Peasant_Normal.png",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Peasant/Normals-UnrealEngine",
+                  "type": "directory"
+                },
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Peasant/T_Peasant_2_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Peasant/T_Peasant_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Peasant/T_Peasant_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Peasant/T_Peasant_ORM.png",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Peasant",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger/Base Chars/T_Regular_Female_Dark_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger/Base Chars/T_Regular_Female_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger/Base Chars/T_Regular_Female_Roughness.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger/Base Chars/T_Regular_Male_Dark_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger/Base Chars/T_Regular_Male_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger/Base Chars/T_Regular_Male_Roughness.png",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger/Base Chars",
+                  "type": "directory"
+                },
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger/Normals-UnrealEngine/T_Ranger_Normal.png",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger/Normals-UnrealEngine",
+                  "type": "directory"
+                },
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger/T_Ranger_3_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger/T_Ranger_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger/T_Ranger_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger/T_Ranger_ORM.png",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures/Ranger",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Textures",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
