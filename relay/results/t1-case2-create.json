@@ -1,0 +1,9 @@
+{
+  "id": "t1-case2-create",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_case_scan2.gd"
+  },
+  "png": null
+}
