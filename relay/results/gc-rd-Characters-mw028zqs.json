@@ -1,0 +1,2895 @@
+{
+  "id": "gc-rd-Characters-mw028zqs",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "path": "res://Characters/Animals/bird1_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird1_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird2_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird2_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird3_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird3_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird4_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird4_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird5_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird5_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird6_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird6_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird_additionnal_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird_additionnal_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird_standing_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bird_standing_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bunny1_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bunny1_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bunny2_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/bunny2_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/cat1_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/cat1_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/cat2_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/cat2_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/cat3_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/cat3_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/cat4_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/cat4_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/cat_mouse_additionnal_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/cat_mouse_additionnal_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/fox1_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/fox1_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/fox2_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/fox2_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/mouse1_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/mouse1_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/mouse2_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/mouse2_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/mouse3_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/mouse3_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/pinguin_22x22.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Animals/pinguin_22x22.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Characters/Animals",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Characters/Character - 128 x 128/character_001.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_001.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_002.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_002.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_003.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_003.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_004.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_004.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_005.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_005.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_006.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_006.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_007.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_007.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_008.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_008.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_009.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_009.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_010.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_010.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_011.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_011.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_012.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_012.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_013.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_013.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_014.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_014.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_015.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_015.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_016.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_016.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_017.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_017.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_018.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_018.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_019.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_019.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_020.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_020.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_021.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_021.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_022.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_022.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_023.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_023.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_024.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_024.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_025.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_025.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_026.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_026.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_027.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_027.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_028.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_028.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_029.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_029.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_030.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_030.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_031.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_031.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_032.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_032.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_033.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_033.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_034.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_034.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_035.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_035.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_036.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_036.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_037.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_037.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_038.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_038.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_039.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_039.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_040.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 128 x 128/character_040.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Characters/Character - 128 x 128",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Characters/Character - 256 x 256/character_001.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_001.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_002.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_002.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_003.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_003.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_004.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_004.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_005.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_005.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_006.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_006.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_007.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_007.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_008.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_008.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_009.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_009.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_010.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_010.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_011.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_011.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_012.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_012.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_013.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_013.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_014.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_014.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_015.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_015.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_016.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_016.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_017.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_017.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_018.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_018.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_019.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_019.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_020.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_020.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_021.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_021.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_022.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_022.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_023.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_023.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_024.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_024.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_025.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_025.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_026.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_026.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_027.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_027.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_028.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_028.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_029.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_029.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_030.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_030.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_031.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_031.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_032.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_032.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_033.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_033.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_034.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_034.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_035.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_035.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_036.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_036.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_037.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_037.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_038.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_038.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_039.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_039.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_040.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - 256 x 256/character_040.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Characters/Character - 256 x 256",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_001.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_001.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_002.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_002.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_003.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_003.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_004.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_004.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_005.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_005.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_006.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_006.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_007.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_007.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_008.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_008.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_009.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_009.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_010.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_010.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_011.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_011.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_012.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_012.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_013.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_013.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_014.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_014.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_015.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_015.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_016.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_016.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_017.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_017.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_018.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_018.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_019.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_019.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_020.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_020.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_021.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_021.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_022.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_022.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_023.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_023.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_024.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_024.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_025.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_body/body_025.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Characters/Character - parts/Character_128x128_body",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_001.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_001.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_002.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_002.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_002_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_002_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_002_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_002_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_003.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_003.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_004.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_004.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_005.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_005.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_006.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_006.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_007.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_007.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_008.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_008.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_009_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_009_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_009_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_009_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_010.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_010.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_011_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_011_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_011_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_011_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_012_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_012_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_013.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_013.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_014_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_014_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_014_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_014_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_015_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_015_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_015_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_015_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_016.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_016.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_017.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_017.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_018_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_018_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_018_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_018_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_019_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_019_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_019_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_019_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_020.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_020.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_021.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_021.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_022.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_022.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_023.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_023.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_025.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_face/face_025.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Characters/Character - parts/Character_128x128_face",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_001.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_001.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_003.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_003.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_004.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_004.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_008.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_008.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_009.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_009.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_012.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_012.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_013.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_013.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_015.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_015.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_017.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_017.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_018.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_018.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_022.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_022.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_024.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_back/hair_back_024.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Characters/Character - parts/Character_128x128_hair_back",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_back_004.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_back_004.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_back_017.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_back_017.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_001 .png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_001 .png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_003 .png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_003 .png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_005.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_005.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_005_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_005_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_007.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_007.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_009.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_009.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_011.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_011.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_012_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_012_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_012_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_012_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_013.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_013.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_015.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_015.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_016.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_016.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_017.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_017.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_018.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_018.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_019.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_019.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_020.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_020.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_020_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_020_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_022.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_022.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_022_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_022_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_023.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_128x128_hair_front/hair_front_023.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Characters/Character - parts/Character_128x128_hair_front",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_001.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_001.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_002.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_002.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_003.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_003.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_004.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_004.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_005.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_005.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_006.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_006.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_007.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_007.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_008.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_008.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_009.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_009.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_010.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_010.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_011.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_011.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_012.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_012.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_013.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_013.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_014.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_014.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_015.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_015.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_016.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_016.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_017.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_017.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_018.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_018.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_019.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_019.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_020.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_020.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_021.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_021.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_022.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_022.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_023.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_023.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_024.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_024.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_025.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_body/body_025.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Characters/Character - parts/Character_256x256_body",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/body_015_1.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/body_015_1.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/body_018_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/body_018_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_002.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_002.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_002_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_002_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_002_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_002_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_003.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_003.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_004.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_004.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_005.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_005.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_006.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_006.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_007.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_007.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_008.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_008.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_009_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_009_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_009_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_009_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_010.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_010.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_011_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_011_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_011_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_011_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_012.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_012.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_012_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_012_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_013.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_013.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_014.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_014.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_014_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_014_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_015.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_015.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_016.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_016.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_017.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_017.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_018.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_018.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_019.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_019.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_019_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_019_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_020.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_020.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_020_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_020_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_020_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_020_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_021.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_021.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_022.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_022.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_023.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_023.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_024.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_024.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_025.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_face/face_025.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Characters/Character - parts/Character_256x256_face",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/face_014.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/face_014.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_001.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_001.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_003.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_003.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_004.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_004.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_008.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_008.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_009.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_009.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_012.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_012.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_013.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_013.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_015.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_015.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_017.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_017.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_018.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_018.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_022.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_022.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_024.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_back/hair_back_024.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Characters/Character - parts/Character_256x256_hair_back",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_back_017.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_back_017.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_001 .png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_001 .png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_003.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_003.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_004.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_004.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_006.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_006.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_006_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_006_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_008.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_008.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_009.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_009.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_012.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_012.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_013.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_013.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_014.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_014.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_016.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_016.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_017.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_017.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_018.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_018.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_019.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_019.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_021.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_021.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_022.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_022.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_022_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_022_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_024.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Characters/Character - parts/Character_256x256_hair_front/hair_front_024.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Characters/Character - parts/Character_256x256_hair_front",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Characters/Character - parts",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Characters/Character - tiles/character - tiles - 128.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - tiles/character - tiles - 128.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - tiles/character - tiles - 256.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - tiles/character - tiles - 256.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - tiles/character - tiles - part - 128.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - tiles/character - tiles - part - 128.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - tiles/character - tiles - part - 256.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Character - tiles/character - tiles - part - 256.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Characters/Character - tiles",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Characters/Characters/atlas_frame16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/atlas_frame16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/atlas_frame32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/atlas_frame32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_0.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_0.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_1.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_1.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_10.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_10.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_11.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_11.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_12.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_12.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_13.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_13.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_14.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_14.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_15.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_15.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_16.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_17.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_17.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_18.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_18.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_19.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_19.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_2.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_2.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_21.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_21.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_22.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_22.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_23.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_23.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_24.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_24.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_25.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_25.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_26.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_26.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_27.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_27.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_28.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_28.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_29.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_29.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_3.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_3.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_30.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_30.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_31.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_31.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_4.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_4.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_5.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_5.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_6.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_6.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_7.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_7.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_8.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_8.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_9.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Characters/chara_9.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Characters/Characters",
+          "type": "directory"
+        },
+        {
+          "path": "res://Characters/CharaNude.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Characters/CharaNude.png.import",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Characters/Farm/farm_hoe_01_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_hoe_01_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_hoe_02_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_hoe_02_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_hoe_03_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_hoe_03_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_hoe_04_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_hoe_04_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_hoe_atlas_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_hoe_atlas_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_shovel_01_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_shovel_01_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_shovel_02_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_shovel_02_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_shovel_03_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_shovel_03_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_shovel_04_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_shovel_04_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_shovel_atlas_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_shovel_atlas_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_01_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_01_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_01_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_01_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_02_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_02_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_02_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_02_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_03_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_03_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_03_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_03_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_04_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_04_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_04_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_04_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_atlas_16x20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_atlas_16x20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_atlas_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_walk_atlas_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_watering_01_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_watering_01_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_watering_02_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_watering_02_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_watering_03_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_watering_03_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_watering_04_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_watering_04_32x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_watering_atlas_32x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Characters/Farm/farm_watering_atlas_32x32.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Characters/Farm",
+          "type": "directory"
+        },
+        {
+          "path": "res://Characters/NPC_front_frame_only.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Characters/NPC_front_frame_only.png.import",
+          "type": "file"
+        }
+      ],
+      "path": "res://Characters",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
