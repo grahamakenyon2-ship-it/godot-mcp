@@ -1,0 +1,810 @@
+{
+  "id": "cl-tree-root-1793740216777",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "path": "res://2DPIXX - Free Assets - Archer Character (Size",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Assets - Dungeon Tileset (Size",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Assets - Forest Tileset (Size",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Assets - Village Tileset (Size",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Assets - Warrior Character (Size",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Assets - Wizard Character (Size",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Combat Robot - Explode.png",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Combat Robot - Explode.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Combat Robot - Hit.png",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Combat Robot - Hit.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Combat Robot - Shoot.png",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Combat Robot - Shoot.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Combat Robot - Walk.png",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Combat Robot - Walk.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Environment - City.png",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Environment - City.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Soldier - Hit.png",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Soldier - Hit.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Soldier - Shoot.png",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Soldier - Shoot.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Soldier - Walk.png",
+          "type": "file"
+        },
+        {
+          "path": "res://2DPIXX - Free Topdown Shooter - Soldier - Walk.png.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Action & Electronic Music Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Action Game Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Action Game Music Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://addons",
+          "type": "directory"
+        },
+        {
+          "path": "res://after hours.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://after hours.wav.import",
+          "type": "file"
+        },
+        {
+          "path": "res://archipelago.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://archipelago.wav.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Assets",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Background",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Battle Music Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Buildings",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Card Sprites",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Casual & Abstract Game Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Casual Game Music Loops",
+          "type": "directory"
+        },
+        {
+          "path": "res://CHANGELOG.md",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Character",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Characters",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://ch_01_player_foundations",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://ch_02_world_building_foundations",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://ch_03_game_systems",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://ch_04_player_abilities",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://ch_05_enemies",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Cinematic Heroical Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Combat Percussion Loops",
+          "type": "directory"
+        },
+        {
+          "path": "res://coral reef.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://coral reef.wav.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Custom_Commercial_License.txt",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Dark Theme",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://data",
+          "type": "directory"
+        },
+        {
+          "path": "res://deja vu.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://deja vu.wav.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://demo",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Documentation",
+          "type": "directory"
+        },
+        {
+          "path": "res://DONATE.html",
+          "type": "file"
+        },
+        {
+          "path": "res://echoes.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://echoes.wav.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Electronic Music Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Emojis",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://example",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Examples",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Exports",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Fantasy & Adventure Game Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Fantasy & Adventure Music Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://FBX",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://FBX (Unity)",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Generated Art",
+          "type": "directory"
+        },
+        {
+          "path": "res://Generic.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Generic.png.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://ghost-kit",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://glTF",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Godot",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://GUI",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://HUD",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Icons",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://importers",
+          "type": "directory"
+        },
+        {
+          "path": "res://internal monologue.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://internal monologue.wav.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Joysticks.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Joysticks.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Keyboard Mouse.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Keyboard Mouse.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://leviathan.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://leviathan.wav.import",
+          "type": "file"
+        },
+        {
+          "path": "res://LICENCE.pdf",
+          "type": "file"
+        },
+        {
+          "path": "res://LICENSE",
+          "type": "file"
+        },
+        {
+          "path": "res://License.md",
+          "type": "file"
+        },
+        {
+          "path": "res://LICENSE.txt",
+          "type": "file"
+        },
+        {
+          "path": "res://License_Standard.txt",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Light Theme",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Lyric & Positive Music Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Medieval & Ancient Music Loops",
+          "type": "directory"
+        },
+        {
+          "path": "res://migration.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://migration.wav.import",
+          "type": "file"
+        },
+        {
+          "path": "res://MIT License.txt",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Mob",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Mystical & Space Ambient",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Mystical Music Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://OBJ",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Orchestral Music Themes",
+          "type": "directory"
+        },
+        {
+          "path": "res://pack.json",
+          "type": "file"
+        },
+        {
+          "path": "res://Playstation.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Playstation.png.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Positive Pop Music Loops",
+          "type": "directory"
+        },
+        {
+          "path": "res://Preview.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_1.jpg",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_1.jpg.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_1.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_1.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_2.jpg",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_2.jpg.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_2.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_2.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_3.jpg",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_3.jpg.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_3.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_3.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_4.jpg",
+          "type": "file"
+        },
+        {
+          "path": "res://Preview_4.jpg.import",
+          "type": "file"
+        },
+        {
+          "path": "res://project.godot",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://proof",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Props",
+          "type": "directory"
+        },
+        {
+          "path": "res://PSD Card Constructor.psd",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://PSD Instruction",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius",
+          "type": "directory"
+        },
+        {
+          "path": "res://README.md",
+          "type": "file"
+        },
+        {
+          "path": "res://README.txt",
+          "type": "file"
+        },
+        {
+          "path": "res://Readme_for_Users.md",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Retro Game Music Loops",
+          "type": "directory"
+        },
+        {
+          "path": "res://REVIEW.html",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://road_demos",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Rock Music Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://sample_maps",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://scenes",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://scripts",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://sheets",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Short Action & Rock Music Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Short Casual Game Music Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Short Retro Music Loops",
+          "type": "directory"
+        },
+        {
+          "path": "res://simulation.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://simulation.wav.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Sound FX Starter Pack Vol. 1",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Space Adventure Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Space Music Loops",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Status",
+          "type": "directory"
+        },
+        {
+          "path": "res://SteamDeck.png",
+          "type": "file"
+        },
+        {
+          "path": "res://SteamDeck.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://STORE.html",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://store_assets",
+          "type": "directory"
+        },
+        {
+          "path": "res://Switch.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Switch.png.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://tests",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Textures",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://THE MEGA BIBLES",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://tilemap",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Tilemaps",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://tiles",
+          "type": "directory"
+        },
+        {
+          "path": "res://tiles.json",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Tilesets",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://tools",
+          "type": "directory"
+        },
+        {
+          "path": "res://Touchpads.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Touchpads.png.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Trees",
+          "type": "directory"
+        },
+        {
+          "path": "res://turtles.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://turtles.wav.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Unity",
+          "type": "directory"
+        },
+        {
+          "path": "res://Unity_Setup.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Unity_Setup.png.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Unreal Engine",
+          "type": "directory"
+        },
+        {
+          "path": "res://UnrealEngine_Setup.png",
+          "type": "file"
+        },
+        {
+          "path": "res://UnrealEngine_Setup.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Xbox.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Xbox.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://_License.txt",
+          "type": "file"
+        },
+        {
+          "path": "res://_Useful Links.txt",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://__MACOSX",
+          "type": "directory"
+        }
+      ],
+      "path": "res://",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
