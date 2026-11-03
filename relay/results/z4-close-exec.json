@@ -1,0 +1,8 @@
+{
+  "id": "z4-close-exec",
+  "ok": true,
+  "result": {
+    "result": "CLOSEOUT moved=80 kept_json=8 ops_renamed=true names=[\"gc_case_scan.gd\", \"gc_case_scan.gd.uid\", \"gc_case_scan2.gd\", \"gc_case_scan2.gd.uid\", \"gc_cleanup_runner.gd\", \"gc_cleanup_runner.gd.uid\", \"gc_closeout.gd\", \"gc_closeout.gd.uid\", \"gc_diag2.gd\", \"gc_diag2.gd.uid\", \"gc_diag3.gd\", \"gc_diag3.gd.uid\", \"gc_diag_imports.gd\", \"gc_diag_imports.gd.uid\", \"gc_editor_runner.gd\", \"gc_editor_runner.gd.uid\", \"gc_exec_v2.gd\", \"gc_exec_v2.gd.uid\", \"gc_exec_v3.gd\", \"gc_exec_v3.gd.uid\", \"gc_exec_v5.gd\", \"gc_exec_v5.gd.uid\", \"gc_exec_v6.gd\", \"gc_exec_v6.gd.uid\", \"gc_exec_v7.gd\", \"gc_exec_v7.gd.uid\", \"gc_exec_v8move.gd\", \"gc_exec_v8move.gd.uid\", \"gc_exec_v9del.gd\", \"gc_exec_v9del.gd.uid\"]"
+  },
+  "png": null
+}
