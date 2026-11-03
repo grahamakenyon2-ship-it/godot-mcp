@@ -1,0 +1,9 @@
+{
+  "id": "gc-v1-02",
+  "ok": true,
+  "result": {
+    "script_path": "res://tests/smoke_test.gd",
+    "updated": true
+  },
+  "png": null
+}
