@@ -1,0 +1,20 @@
+{
+  "id": "cl-search7-1793740466937",
+  "ok": true,
+  "result": {
+    "count": 2,
+    "matches": [
+      {
+        "file": "res://tools/gc_editor_runner.gd",
+        "line": 85,
+        "text": "rf.store_string(\"# GC_CLEANUP_REPORT \" + JSON.stringify(rep))"
+      },
+      {
+        "file": "res://tools/gc_editor_runner.gd",
+        "line": 90,
+        "text": "print(\"GC_CLEANUP_COMPLETE q=\" + str(rep.get(\"quarantined\", []).size()) + \" m=\" + str(rep.get(\"moved\", []).size()) + \" d=\" + str(rep.get(\"deleted\", []).size()) + \" e=\" + str(rep.get(\"errors\", []).size()))"
+      }
+    ]
+  },
+  "png": null
+}
