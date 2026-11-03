@@ -1,0 +1,9 @@
+{
+  "id": "a6-create-1793741027661",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_probe_s6.gd"
+  },
+  "png": null
+}
