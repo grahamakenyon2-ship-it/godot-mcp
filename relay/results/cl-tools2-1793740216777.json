@@ -1,0 +1,33 @@
+{
+  "id": "cl-tools2-1793740216777",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "path": "res://tools/gc_cleanup_ops.json",
+          "type": "file"
+        },
+        {
+          "path": "res://tools/gc_cleanup_runner.gd",
+          "type": "file"
+        },
+        {
+          "path": "res://tools/gc_cleanup_runner.gd.uid",
+          "type": "file"
+        },
+        {
+          "path": "res://tools/gc_fs_tool.gd",
+          "type": "file"
+        },
+        {
+          "path": "res://tools/gc_fs_tool.gd.uid",
+          "type": "file"
+        }
+      ],
+      "path": "res://tools",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
