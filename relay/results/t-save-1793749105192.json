@@ -1,0 +1,9 @@
+{
+  "id": "t-save-1793749105192",
+  "ok": true,
+  "result": {
+    "saved": true,
+    "scene_path": "res://tests/toon_test.tscn"
+  },
+  "png": null
+}
