@@ -1,0 +1,1 @@
+{"id":"cl-add4-1793740434095","method":"add_node","params":{"type":"Node","name":"GCCleanupExec","parent_path":".","properties":{"script":"res://tools/gc_editor_runner.gd"}}}
