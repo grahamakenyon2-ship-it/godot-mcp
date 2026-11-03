@@ -1,0 +1,617 @@
+{
+  "id": "cl-quat-d1-1793739481031",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "path": "res://Quaternius/Alien-RRliSQBP7r.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Alien-RRliSQBP7r.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Alien.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Alien.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Alpaking Evolved.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Alpaking Evolved.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Alpaking.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Alpaking.glb.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Animation Files",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Armabee Evolved.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Armabee Evolved.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Armabee.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Armabee.glb.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Audio",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Bestiary - Dungeon Monsters Kit[Standard]",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Birb.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Birb.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Blue Demon.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Blue Demon.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Bunny.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Bunny.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Cactoro-IGn9lhdama.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Cactoro-IGn9lhdama.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Cactoro.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Cactoro.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Cat.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Cat.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Chicken.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Chicken.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Credits.txt",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Demon-LnfIziKv4o.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Demon-LnfIziKv4o.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Demon.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Demon.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Dino.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Dino.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Dragon Evolved.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Dragon Evolved.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Dragon.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Dragon.glb.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/FBX",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/FBX (Unity)",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Female",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Fish-ypEYhCImAB.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Fish-ypEYhCImAB.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Fish.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Fish.glb.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Font",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Frog.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Frog.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Ghost Skull.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Ghost Skull.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Ghost.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Ghost.glb.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/GLB Files",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/glTF",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Glub Evolved.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Glub Evolved.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Glub.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Glub.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Goleling Evolved.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Goleling Evolved.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Goleling.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Goleling.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Green Blob.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Green Blob.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Green Spiky Blob.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Green Spiky Blob.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Hywirl.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Hywirl.glb.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/KayKit-Character-Pack-Skeletons-1.0-15b62b9bad122f72926c10fb14d622c73819fa54",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/kenney-particle-pack-7e801dc538996622a91327bb1dd5879cf977aa09",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Kenney.url",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/License.txt",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/License_Standard.txt",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Male",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Models",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Modular Character Outfits - Fantasy[Standard]",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Monkroose.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Monkroose.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Mushnub Evolved.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Mushnub Evolved.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Mushnub.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Mushnub.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Mushroom King.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Mushroom King.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Ninja-xGYmeDpfTu.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Ninja-xGYmeDpfTu.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Ninja.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Ninja.glb.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/OBJ",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Orc Enemy.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Orc Enemy.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Orc.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Orc.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Overview.html",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Patreon.url",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Pigeon.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Pigeon.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Pink Blob.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Pink Blob.glb.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/PNG",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/PNG (Black background)",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/PNG (Transparent)",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Preview (Female).ogg",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Preview (Female).ogg.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Preview (Male).ogg",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Preview (Male).ogg.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Preview.ogg",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Preview.ogg.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Preview.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Preview.png.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Previews",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Preview_1.jpg",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Preview_1.jpg.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/reeboo-stylized-vfx-free-ffefd60e07467234ab448cba10475afb35ff4626",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/RPG Characters - Nov 2020",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Sample.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Sample.png.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Sounds",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Spritesheet",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Squidle.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Squidle.glb.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Tank Pack - June 2019",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Textures",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Toon Shooter Game Kit - Dec 2022",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Tribal.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Tribal.glb.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Ultimate Gun Pack - July 2019",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Unity samples",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Universal Animation Library 2[Standard]",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Universal Base Characters[Standard]",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/Vector",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/View Documentation.url",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Visit Kenney.url",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Visit Patreon.url",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Wizard.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Wizard.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Yeti-ceRHrn8HHE.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Yeti-ceRHrn8HHE.glb.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Yeti.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Yeti.glb.import",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://Quaternius/yparticles3d",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Quaternius",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
