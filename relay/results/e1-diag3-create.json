@@ -1,0 +1,9 @@
+{
+  "id": "e1-diag3-create",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_diag3.gd"
+  },
+  "png": null
+}
