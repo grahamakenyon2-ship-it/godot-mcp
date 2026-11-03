@@ -1,0 +1,9 @@
+{
+  "id": "a3-pqcreate-1793741238961",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_probeq_s10.gd"
+  },
+  "png": null
+}
