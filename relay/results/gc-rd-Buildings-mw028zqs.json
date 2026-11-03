@@ -1,0 +1,189 @@
+{
+  "id": "gc-rd-Buildings-mw028zqs",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "path": "res://Buildings/Bridge/bridge_1x3.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Bridge/bridge_1x3.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Bridge/bridge_3x1.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Bridge/bridge_3x1.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Buildings/Bridge",
+          "type": "directory"
+        },
+        {
+          "path": "res://Buildings/building_all.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Buildings/building_all.png.import",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Buildings/Castle/castle_blue.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Castle/castle_blue.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Castle/castle_green.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Castle/castle_green.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Castle/castle_red.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Castle/castle_red.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Castle/castle_yellow.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Castle/castle_yellow.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Buildings/Castle",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Buildings/House/house_1_blue.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_1_blue.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_1_green.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_1_green.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_1_red.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_1_red.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_1_yellow.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_1_yellow.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_2_blue.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_2_blue.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_2_green.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_2_green.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_2_red.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_2_red.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_2_yellow.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/House/house_2_yellow.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Buildings/House",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Buildings/Tower/tower_blue.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Tower/tower_blue.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Tower/tower_green.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Tower/tower_green.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Tower/tower_red.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Tower/tower_red.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Tower/tower_yellow.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Buildings/Tower/tower_yellow.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Buildings/Tower",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Buildings",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
