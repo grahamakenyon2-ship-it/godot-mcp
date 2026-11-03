@@ -1,0 +1,1 @@
+{"id":"j3-junk-attach","method":"attach_script","params":{"node_path":"GCJunk","script_path":"res://tools/gc_junk_sweep.gd"}}
