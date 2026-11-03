@@ -1,1 +1,0 @@
-{"id":"a4-diag-exec","method":"execute_editor_script","params":{"code":"get_node(\"GCDiag\").run()"}}
