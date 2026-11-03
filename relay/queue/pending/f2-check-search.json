@@ -1,1 +1,0 @@
-{"id":"f2-check-search","method":"search_files","params":{"pattern":"icon_width_handle*","directory":"res://","recursive":true,"max_results":30}}
