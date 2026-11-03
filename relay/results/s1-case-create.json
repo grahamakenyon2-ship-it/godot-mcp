@@ -1,0 +1,9 @@
+{
+  "id": "s1-case-create",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_case_scan.gd"
+  },
+  "png": null
+}
