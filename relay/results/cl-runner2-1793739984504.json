@@ -1,0 +1,9 @@
+{
+  "id": "cl-runner2-1793739984504",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_cleanup_runner.gd"
+  },
+  "png": null
+}
