@@ -1,0 +1,1849 @@
+{
+  "id": "gc-models-mw0287w7",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "path": "res://Quaternius/Models/FBX format/barrels.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/battlement-corner-inner.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/battlement-corner-outer.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/battlement-half.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/battlement.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/bricks.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/column-damaged.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/column-paint-damaged.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/column-paint.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/column-wood.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/column.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/detail-barrel.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/detail-crate-ropes.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/detail-crate-small.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/detail-crate.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/dock-corner.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/dock-side.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/fence-top.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/fence-wood.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/fence.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/floor-flat.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/floor-stairs-corner-inner.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/floor-stairs-corner-outer.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/floor-stairs.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/floor-steps-corner-inner.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/floor-steps-corner-outer.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/floor-steps.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/floor.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/ladder.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/overhang-fence.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/overhang-round-railing.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/overhang-round.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/overhang.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/pulley-crate.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/pulley.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/roof-corner.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/roof-edge.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/roof-high-side-corner-inner.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/roof-high-side-corner.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/roof-high-side.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/roof-side-corner-inner.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/roof-side-corner.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/roof-side.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/roof.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/stairs-corner.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/stairs-stone.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/stairs-wood.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/structure-cross.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/structure-pole.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/structure-poles.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/structure-wall-cross.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/structure-wall.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/structure.fbx",
+              "type": "file"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/Models/FBX format/Textures/barrel.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/FBX format/Textures/cobblestone.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/FBX format/Textures/cobblestoneAlternative.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/FBX format/Textures/cobblestonePainted.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/FBX format/Textures/details.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/FBX format/Textures/fence.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/FBX format/Textures/planks.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/FBX format/Textures/roof.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/FBX format/Textures/tree.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/FBX format/Textures/water.png",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Models/FBX format/Textures",
+              "type": "directory"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/tower-base.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/tower-edge.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/tower-paint-base.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/tower-paint.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/tower-top.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/tower.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/tree-large.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/tree-shrub.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-detail.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-door.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-flat-gate.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-fortified-door.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-fortified-gate-half.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-fortified-gate.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-fortified-half.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-fortified-paint-door.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-fortified-paint-gate.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-fortified-paint-half.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-fortified-paint-window.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-fortified-paint.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-fortified-window.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-fortified.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-gate-half.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-gate.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-half.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-low.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-paint-detail.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-paint-door.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-paint-flat.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-paint-gate.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-paint-half.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-paint-window.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-paint.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-pane-door.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-pane-paint-door.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-pane-paint-window.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-pane-paint.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-pane-painted-wood-door.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-pane-painted-wood-window.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-pane-painted-wood.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-pane-window.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-pane-wood-door.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-pane-wood-window.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-pane-wood.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-pane.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall-window.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wall.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/water.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wood-floor-half.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wood-floor-quarter.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wood-floor-railing.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/FBX format/wood-floor.fbx",
+              "type": "file"
+            }
+          ],
+          "path": "res://Quaternius/Models/FBX format",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Quaternius/Models/GLB format/barrels.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/battlement-corner-inner.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/battlement-corner-outer.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/battlement-half.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/battlement.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/bricks.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/column-damaged.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/column-paint-damaged.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/column-paint.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/column-wood.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/column.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/detail-barrel.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/detail-crate-ropes.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/detail-crate-small.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/detail-crate.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/dock-corner.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/dock-side.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/fence-top.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/fence-wood.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/fence.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/floor-flat.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/floor-stairs-corner-inner.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/floor-stairs-corner-outer.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/floor-stairs.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/floor-steps-corner-inner.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/floor-steps-corner-outer.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/floor-steps.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/floor.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/ladder.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/overhang-fence.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/overhang-round-railing.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/overhang-round.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/overhang.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/pulley-crate.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/pulley.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/roof-corner.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/roof-edge.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/roof-high-side-corner-inner.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/roof-high-side-corner.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/roof-high-side.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/roof-side-corner-inner.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/roof-side-corner.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/roof-side.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/roof.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/stairs-corner.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/stairs-stone.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/stairs-wood.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/structure-cross.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/structure-pole.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/structure-poles.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/structure-wall-cross.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/structure-wall.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/structure.glb",
+              "type": "file"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/Models/GLB format/Textures/barrel.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/GLB format/Textures/cobblestone.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/GLB format/Textures/cobblestoneAlternative.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/GLB format/Textures/cobblestonePainted.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/GLB format/Textures/details.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/GLB format/Textures/fence.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/GLB format/Textures/planks.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/GLB format/Textures/roof.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/GLB format/Textures/tree.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/GLB format/Textures/water.png",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Models/GLB format/Textures",
+              "type": "directory"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/tower-base.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/tower-edge.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/tower-paint-base.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/tower-paint.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/tower-top.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/tower.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/tree-large.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/tree-shrub.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-detail.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-door.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-flat-gate.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-fortified-door.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-fortified-gate-half.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-fortified-gate.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-fortified-half.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-fortified-paint-door.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-fortified-paint-gate.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-fortified-paint-half.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-fortified-paint-window.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-fortified-paint.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-fortified-window.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-fortified.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-gate-half.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-gate.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-half.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-low.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-paint-detail.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-paint-door.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-paint-flat.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-paint-gate.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-paint-half.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-paint-window.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-paint.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-pane-door.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-pane-paint-door.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-pane-paint-window.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-pane-paint.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-pane-painted-wood-door.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-pane-painted-wood-window.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-pane-painted-wood.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-pane-window.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-pane-wood-door.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-pane-wood-window.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-pane-wood.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-pane.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall-window.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wall.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/water.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wood-floor-half.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wood-floor-quarter.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wood-floor-railing.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/GLB format/wood-floor.glb",
+              "type": "file"
+            }
+          ],
+          "path": "res://Quaternius/Models/GLB format",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Quaternius/Models/OBJ format/barrels.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/barrels.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/battlement-corner-inner.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/battlement-corner-inner.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/battlement-corner-outer.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/battlement-corner-outer.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/battlement-half.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/battlement-half.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/battlement.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/battlement.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/bricks.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/bricks.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/column-damaged.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/column-damaged.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/column-paint-damaged.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/column-paint-damaged.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/column-paint.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/column-paint.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/column-wood.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/column-wood.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/column.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/column.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/detail-barrel.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/detail-barrel.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/detail-crate-ropes.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/detail-crate-ropes.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/detail-crate-small.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/detail-crate-small.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/detail-crate.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/detail-crate.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/dock-corner.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/dock-corner.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/dock-side.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/dock-side.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/fence-top.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/fence-top.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/fence-wood.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/fence-wood.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/fence.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/fence.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-flat.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-flat.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-stairs-corner-inner.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-stairs-corner-inner.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-stairs-corner-outer.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-stairs-corner-outer.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-stairs.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-stairs.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-steps-corner-inner.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-steps-corner-inner.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-steps-corner-outer.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-steps-corner-outer.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-steps.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor-steps.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/floor.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/ladder.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/ladder.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/overhang-fence.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/overhang-fence.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/overhang-round-railing.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/overhang-round-railing.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/overhang-round.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/overhang-round.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/overhang.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/overhang.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/pulley-crate.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/pulley-crate.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/pulley.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/pulley.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-corner.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-corner.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-edge.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-edge.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-high-side-corner-inner.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-high-side-corner-inner.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-high-side-corner.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-high-side-corner.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-high-side.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-high-side.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-side-corner-inner.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-side-corner-inner.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-side-corner.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-side-corner.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-side.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof-side.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/roof.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/stairs-corner.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/stairs-corner.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/stairs-stone.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/stairs-stone.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/stairs-wood.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/stairs-wood.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/structure-cross.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/structure-cross.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/structure-pole.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/structure-pole.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/structure-poles.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/structure-poles.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/structure-wall-cross.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/structure-wall-cross.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/structure-wall.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/structure-wall.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/structure.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/structure.obj",
+              "type": "file"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/Models/OBJ format/Textures/barrel.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/OBJ format/Textures/cobblestone.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/OBJ format/Textures/cobblestoneAlternative.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/OBJ format/Textures/cobblestonePainted.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/OBJ format/Textures/details.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/OBJ format/Textures/fence.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/OBJ format/Textures/planks.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/OBJ format/Textures/roof.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/OBJ format/Textures/tree.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Models/OBJ format/Textures/water.png",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Models/OBJ format/Textures",
+              "type": "directory"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tower-base.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tower-base.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tower-edge.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tower-edge.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tower-paint-base.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tower-paint-base.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tower-paint.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tower-paint.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tower-top.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tower-top.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tower.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tower.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tree-large.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tree-large.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tree-shrub.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/tree-shrub.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-detail.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-detail.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-door.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-door.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-flat-gate.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-flat-gate.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-door.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-door.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-gate-half.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-gate-half.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-gate.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-gate.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-half.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-half.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-paint-door.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-paint-door.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-paint-gate.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-paint-gate.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-paint-half.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-paint-half.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-paint-window.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-paint-window.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-paint.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-paint.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-window.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified-window.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-fortified.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-gate-half.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-gate-half.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-gate.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-gate.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-half.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-half.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-low.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-low.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint-detail.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint-detail.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint-door.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint-door.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint-flat.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint-flat.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint-gate.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint-gate.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint-half.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint-half.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint-window.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint-window.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-paint.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-door.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-door.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-paint-door.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-paint-door.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-paint-window.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-paint-window.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-paint.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-paint.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-painted-wood-door.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-painted-wood-door.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-painted-wood-window.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-painted-wood-window.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-painted-wood.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-painted-wood.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-window.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-window.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-wood-door.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-wood-door.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-wood-window.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-wood-window.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-wood.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane-wood.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-pane.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-window.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall-window.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wall.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/water.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/water.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wood-floor-half.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wood-floor-half.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wood-floor-quarter.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wood-floor-quarter.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wood-floor-railing.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wood-floor-railing.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wood-floor.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Models/OBJ format/wood-floor.obj",
+              "type": "file"
+            }
+          ],
+          "path": "res://Quaternius/Models/OBJ format",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Quaternius/Models",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
