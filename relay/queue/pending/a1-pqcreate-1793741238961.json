@@ -1,1 +1,0 @@
-{"id":"a1-pqcreate-1793741238961","method":"create_script","params":{"script_path":"res://tools/gc_probeq_s8.gd","content":"@tool\nextends Node\n\nfunc run() -> String:\n\tvar d := DirAccess.open(\"E:/\")\n\tif d == null:\n\t\treturn \"S8 null\"\n\tif d.dir_exists(\"ghost-company-main/tools\"):\n\t\treturn \"S8 ok\"\n\treturn \"S8 no-dir\"\n","overwrite":true}}
