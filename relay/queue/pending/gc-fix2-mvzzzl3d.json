@@ -1,1 +1,0 @@
-{"id":"gc-fix2-mvzzzl3d","method":"edit_script","params":{"script_path":"res://scripts/battle/battle_view.gd","search":"\tvar ids := tm.sim.units.keys()","replace":"\tvar ids: Array = tm.sim.units.keys()"}}
