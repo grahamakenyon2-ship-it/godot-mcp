@@ -1,0 +1,9 @@
+{
+  "id": "z99-save-scene",
+  "ok": true,
+  "result": {
+    "saved": true,
+    "scene_path": "res://scenes/battle/battle.tscn"
+  },
+  "png": null
+}
