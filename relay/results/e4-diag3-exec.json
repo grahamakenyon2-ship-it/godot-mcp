@@ -1,0 +1,8 @@
+{
+  "id": "e4-diag3-exec",
+  "ok": true,
+  "result": {
+    "result": "COUNT assets_files=18354 imports=8687 uids=26 sources=9641 | top: 8687 import; 5148 png; 1141 svg; 563 ogg; 518 gltf; 444 bin; 383 fbx; 328 mtl; "
+  },
+  "png": null
+}
