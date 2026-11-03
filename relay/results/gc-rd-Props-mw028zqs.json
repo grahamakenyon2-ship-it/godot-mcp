@@ -1,0 +1,1835 @@
+{
+  "id": "gc-rd-Props-mw028zqs",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Props/Barrels/Sprites/barrel_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Barrels/Sprites/barrel_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Barrels/Sprites/barrel_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Barrels/Sprites/barrel_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Barrels/Sprites/barrel_03.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Barrels/Sprites/barrel_03.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Barrels/Sprites/barrel_04.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Barrels/Sprites/barrel_04.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Barrels/Sprites/barrel_05.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Barrels/Sprites/barrel_05.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Props/Barrels/Sprites",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Props/Barrels",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Props/Books/Sprites/book_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Books/Sprites/book_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Books/Sprites/book_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Books/Sprites/book_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Books/Sprites/book_03.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Books/Sprites/book_03.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Books/Sprites/book_04.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Books/Sprites/book_04.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Books/Sprites/book_05.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Books/Sprites/book_05.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Books/Sprites/book_06.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Books/Sprites/book_06.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Books/Sprites/book_07.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Books/Sprites/book_07.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Props/Books/Sprites",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Props/Books",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Props/Chest/chest_01_16x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Chest/chest_01_16x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Chest/chest_02_16x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Chest/chest_02_16x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Chest/chest_03_16x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Chest/chest_03_16x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Chest/chest_04_16x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Chest/chest_04_16x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Chest/chest_05_16x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Chest/chest_05_16x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Chest/chest_06_16x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Chest/chest_06_16x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Chest/chest_07_16x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Chest/chest_07_16x32.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Props/Chest",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Props/Crates/Sprites/crate_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_03.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_03.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_04.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_04.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_05.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_05.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_06.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_06.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_07.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_07.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_08.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crates/Sprites/crate_08.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Props/Crates/Sprites",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Props/Crates",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Props/Crops/Sprites/crop_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_03.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_03.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_04.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_04.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_05.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_05.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_06.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_06.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_07.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_07.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_08.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_08.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_09.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_09.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_10.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_10.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_11.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_11.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_12.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_12.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_13.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_13.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_14.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_14.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_15.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_15.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_16.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_16.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_17.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_17.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_18.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_18.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_19.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_19.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_20.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Crops/Sprites/crop_20.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Props/Crops/Sprites",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Props/Crops",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Props/Door/door_0_16x16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_0_16x16.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_0_16x16_0.controller",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_1_16x16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_1_16x16.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_2_16x16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_2_16x16.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_3_16x16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_3_16x16.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_4_16x16 1.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_4_16x16 1.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_4_16x16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_4_16x16.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_5_16x16 1.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_5_16x16 1.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_5_16x16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_5_16x16.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_6_16x16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Door/door_6_16x16.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Props/Door",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Props/Farm/farm_icons_1_16x16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Farm/farm_icons_1_16x16.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Farm/farm_icons_2_16x16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Farm/farm_icons_2_16x16.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Farm/farm_sickle_48x48.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Farm/farm_sickle_48x48.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Farm/farm_sickle_slash_48x48.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Farm/farm_sickle_slash_48x48.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Props/Farm",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Props/Fire/campfire_16x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Fire/campfire_16x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Fire/fire_01_16x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Fire/fire_01_16x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Fire/fire_02_16x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Fire/fire_02_16x32.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Props/Fire",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Props/Houses/Sprites/house_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_03.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_03.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_04.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_04.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_05.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_05.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_06.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_06.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_07.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_07.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_08.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_08.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_09.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_09.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_10.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_10.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_11.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_11.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_12.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Houses/Sprites/house_12.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Props/Houses/Sprites",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Props/Houses",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Props/Lamps/Sprites/lamp_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Lamps/Sprites/lamp_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Lamps/Sprites/lamp_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Lamps/Sprites/lamp_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Lamps/Sprites/lamp_03.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Lamps/Sprites/lamp_03.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Lamps/Sprites/lamp_04.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Lamps/Sprites/lamp_04.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Lamps/Sprites/lamp_05.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Lamps/Sprites/lamp_05.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Props/Lamps/Sprites",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Props/Lamps",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Props/Pots/Sprites/pot_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_10.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_10.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_11.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_11.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_12.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_12.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_13.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_13.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_14.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_14.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_15.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_15.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_16.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_16.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_17.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_17.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_18.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_18.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_19.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_19.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_20.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_20.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_21.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_21.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_22.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_22.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_23.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_23.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_24.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_24.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_25.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_25.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_26.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_26.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_27.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_27.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_3.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_3.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_4.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_4.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_5.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_5.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_6.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_6.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_7.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_7.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_8.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_8.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_9.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Pots/Sprites/pot_9.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Props/Pots/Sprites",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Props/Pots",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_03.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_03.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_04.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_04.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_05.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_05.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_06.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_06.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_07.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_07.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_08.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_08.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_09.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_09.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_10.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_10.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_11.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_11.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_12.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_12.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_13.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_13.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_14.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_14.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_15.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Potted plants/Sprites/potted_plant_15.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Props/Potted plants/Sprites",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Props/Potted plants",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_03.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_03.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_04.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_04.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_05.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_05.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_06.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_06.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_07.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_07.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_08.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_08.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_09.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_09.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_10.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_10.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_11.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_11.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_12.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_12.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_13.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_13.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_14.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_14.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_15.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_15.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_16.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_16.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_17.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_17.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_18.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_18.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_19.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_19.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_20.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_20.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_21.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_21.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_22.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_22.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_23.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_23.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_24.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_24.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_25.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_25.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_26.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_26.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_27.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_27.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_28.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_28.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_29.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_29.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_30.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_30.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_31.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_31.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_32.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_32.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_33.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_33.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_34.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_34.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_35.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_35.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_36.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_36.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_37.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_37.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_38.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_38.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_39.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_39.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_40.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_40.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_41.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_41.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_42.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_42.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_43.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_43.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_44.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_44.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_45.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_45.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_46.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Rocks/Sprites/rock_46.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Props/Rocks/Sprites",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Props/Rocks",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_03.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_03.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_04.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_04.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_05.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_05.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_06.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_06.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_07.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_07.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_08.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_08.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_09.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_09.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_10.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_10.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_11.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_11.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_12.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_12.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_13.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_13.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_14.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_14.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_15.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_15.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_16.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_16.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_17.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/Torch_17.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/torch_20_16x32.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Torches/Sprites/torch_20_16x32.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Props/Torches/Sprites",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Props/Torches",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Props/Trees/Sprites/tree_01.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_01.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_02.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_02.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_03.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_03.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_04.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_04.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_05.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_05.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_08.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_08.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_09.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_09.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_10.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_10.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_11.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_11.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_12.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_12.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_13.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_13.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_29.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_29.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_30.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_30.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_31.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_31.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_32.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Props/Trees/Sprites/tree_32.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Props/Trees/Sprites",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Props/Trees",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Props/Water/waterfall_16x16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Water/waterfall_16x16.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Water/waterfall_effect_01_16x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Water/waterfall_effect_01_16x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Water/waterfall_effect_02_16x32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Water/waterfall_effect_02_16x32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Water/water_01_16x16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Water/water_01_16x16.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Water/water_02_16x16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Water/water_02_16x16.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Water/water_03_48x48.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Props/Water/water_03_48x48.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Props/Water",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Props",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
