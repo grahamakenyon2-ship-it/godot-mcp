@@ -1,1 +1,0 @@
-{"id":"a1-t1create-1793740851447","method":"create_script","params":{"script_path":"res://tools/gc_t1.gd","content":"@tool\nextends Node\n\nfunc run() -> Dictionary:\n\treturn {\"ok\": true, \"msg\": \"t1 alive\"}\n","overwrite":true}}
