@@ -1,0 +1,9 @@
+{
+  "id": "cl-addauto2-1793740148401",
+  "ok": true,
+  "result": {
+    "autoload": "GCCleanupRunner",
+    "path": "res://tools/gc_cleanup_runner.gd"
+  },
+  "png": null
+}
