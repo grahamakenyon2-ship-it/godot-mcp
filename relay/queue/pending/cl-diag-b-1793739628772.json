@@ -1,0 +1,1 @@
+{"id":"cl-diag-b-1793739628772","method":"execute_editor_script","params":{"code":"load(\"res://ghost-kit/grid_indicators.gd\") != null"}}
