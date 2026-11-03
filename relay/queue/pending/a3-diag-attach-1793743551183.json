@@ -1,0 +1,1 @@
+{"id":"a3-diag-attach","method":"attach_script","params":{"node_path":"GCDiag","script_path":"res://tools/gc_diag_imports.gd"}}
