@@ -1,0 +1,15 @@
+{
+  "id": "cl-tree8-1793740489648",
+  "ok": true,
+  "result": {
+    "count": 1,
+    "matches": [
+      {
+        "file": "res://tools/gc_editor_runner.gd",
+        "line": 85,
+        "text": "rf.store_string(\"# GC_CLEANUP_REPORT \" + JSON.stringify(rep))"
+      }
+    ]
+  },
+  "png": null
+}
