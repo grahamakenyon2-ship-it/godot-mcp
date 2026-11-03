@@ -1,0 +1,9 @@
+{
+  "id": "a1-s12create-1793741542940",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_probe_s12.gd"
+  },
+  "png": null
+}
