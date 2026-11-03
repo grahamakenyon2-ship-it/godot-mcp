@@ -1,0 +1,551 @@
+{
+  "id": "gc-pk-3-mw0214tu",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Female_FullBody.bin",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Female_FullBody.gltf",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Male_FullBody.bin",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Male_FullBody.gltf",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Eye_Brown.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Eye_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_1_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_1_BaseColor_png.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_1_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_2_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_2_BaseColor_png.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_2_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Female_Dark_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Female_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Female_Roughness.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Male_Dark.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Male_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Male_Roughness.png",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Godot - UE",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/Normals Unity - Godot/T_Eye_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/Normals Unity - Godot/T_Hair_1_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/Normals Unity - Godot/T_Hair_2_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/Normals Unity - Godot/T_Superhero_Female_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/Normals Unity - Godot/T_Superhero_Male_Normal.png",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/Normals Unity - Godot",
+                  "type": "directory"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Eye_Brown.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Eye_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Hair_1_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Hair_1_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Hair_2_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Hair_2_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Female_Dark_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Female_Light_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Female_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Female_Roughness.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Male_Dark.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Male_Ligh.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Male_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Male_Roughness.png",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Textures",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Unity/Superhero_Female_FullBody.fbx",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Unity/Superhero_Male_FullBody.fbx",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Unity",
+              "type": "directory"
+            },
+            {
+              "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters/Unreal-Engine-README.txt",
+              "type": "file"
+            }
+          ],
+          "path": "res://Quaternius/Universal Base Characters[Standard]/Base Characters",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Eyebrows_Female.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Eyebrows_Regular.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Beard.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Buns.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Buzzed.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_BuzzedFemale.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Long.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_SimpleParted.fbx",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)",
+                  "type": "directory"
+                },
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Eyebrows_Female.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Eyebrows_Regular.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Hair_Beard.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Hair_Buns.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Hair_Buzzed.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Hair_BuzzedFemale.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Hair_Long.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Hair_SimpleParted.fbx",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)",
+                  "type": "directory"
+                },
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Eyebrows_Female.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Eyebrows_Female.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Eyebrows_Regular.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Eyebrows_Regular.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Beard.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Beard.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Buns.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Buns.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Buzzed.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Buzzed.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_BuzzedFemale.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_BuzzedFemale.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Long.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Long.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_SimpleParted.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_SimpleParted.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_2_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_2_Normal.png",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)",
+                  "type": "directory"
+                }
+              ],
+              "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Origin at 0",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Eyebrows_Female.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Eyebrows_Regular.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_Beard.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_Buns.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_Buzzed.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_BuzzedFemale.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_Long.fbx",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_SimpleParted.fbx",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)",
+                  "type": "directory"
+                },
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Female.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Female.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Regular.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Regular.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Beard.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Beard.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buns.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buns.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buzzed.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buzzed.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_BuzzedFemale.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_BuzzedFemale.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Long.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Long.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_SimpleParted.bin",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_SimpleParted.gltf",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_BaseColor.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_Normal.png",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)",
+                  "type": "directory"
+                }
+              ],
+              "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Textures/Normals Unity - Godot/T_Hair_1_Normal.png",
+                      "type": "file"
+                    },
+                    {
+                      "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Textures/Normals Unity - Godot/T_Hair_2_Normal.png",
+                      "type": "file"
+                    }
+                  ],
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Textures/Normals Unity - Godot",
+                  "type": "directory"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Textures/T_Hair_1_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Textures/T_Hair_1_Normal.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Textures/T_Hair_2_BaseColor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Textures/T_Hair_2_Normal.png",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles/Textures",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Quaternius/Universal Base Characters[Standard]/Hairstyles",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Universal Base Characters[Standard]/License_Standard.txt",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Universal Base Characters[Standard]/Preview.png",
+          "type": "file"
+        }
+      ],
+      "path": "res://Quaternius/Universal Base Characters[Standard]",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
