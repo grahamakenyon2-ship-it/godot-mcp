@@ -1,0 +1,415 @@
+{
+  "id": "gc-rd-Textures-mw02ag7k",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "path": "res://Textures/Bark_DeadTree.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Bark_DeadTree.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Bark_DeadTree_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Bark_DeadTree_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Bark_NormalTree.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Bark_NormalTree.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Bark_NormalTree_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Bark_NormalTree_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Bark_TwistedTree.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Bark_TwistedTree.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Bark_TwistedTree_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Bark_TwistedTree_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Flowers.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Flowers.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Grass.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Grass.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaf_Pine.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaf_Pine.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaf_Pine_C.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaf_Pine_C.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaves.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaves.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaves_GiantPine_C.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaves_GiantPine_C.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaves_NormalTree.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaves_NormalTree.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaves_NormalTree_C.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaves_NormalTree_C.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaves_TwistedTree.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaves_TwistedTree.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaves_TwistedTree_C.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Leaves_TwistedTree_C.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Mushrooms.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Mushrooms.png.import",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Textures/Normals-UnrealEngine/T_Trim_Cloth_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Textures/Normals-UnrealEngine/T_Trim_Furniture_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Textures/Normals-UnrealEngine/T_Trim_Metal_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Textures/Normals-UnrealEngine/T_Trim_Props_Normal.png",
+              "type": "file"
+            }
+          ],
+          "path": "res://Textures/Normals-UnrealEngine",
+          "type": "directory"
+        },
+        {
+          "path": "res://Textures/PathRocks_Diffuse.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/PathRocks_Diffuse.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Rocks_Desert_Diffuse.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Rocks_Desert_Diffuse.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Rocks_Diffuse.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/Rocks_Diffuse.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Decals.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Decals.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_PaddedWall_BaseColor.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_PaddedWall_BaseColor.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_PaddedWall_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_PaddedWall_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_PaddedWall_ORM.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_PaddedWall_ORM.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_PaddingWall_Emissive.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_PaddingWall_Emissive.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Page_Noise.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_01_BaseColor.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_01_BaseColor.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_01_BaseColor_Red.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_01_BaseColor_Red.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_01_DetailMask.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_01_DetailMask.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_01_Emissive.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_01_Emissive.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_01_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_01_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_01_ORM.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_01_ORM.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_02_BaseColor.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_02_BaseColor.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_02_BaseColor_Blue.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_02_BaseColor_Blue.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_02_BaseColor_Red.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_02_BaseColor_Red.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_02_DetailMask.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_02_DetailMask.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_02_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_02_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_02_ORM.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_02_ORM.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_03_BaseColor.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_03_BaseColor.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_03_Cables.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_03_Cables.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_03_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_03_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_03_ORM.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_03_ORM.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_Cloth_BaseColor.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_Cloth_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_Cloth_ORM.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_Furniture_BaseColor.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_Furniture_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_Furniture_ORM.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_Metal_BaseColor.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_Metal_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_Metal_ORM.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_Props_BaseColor.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_Props_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Textures/T_Trim_Props_ORM.png",
+          "type": "file"
+        }
+      ],
+      "path": "res://Textures",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
