@@ -1,0 +1,19 @@
+{
+  "id": "c3-t2exec-1793740887853",
+  "ok": true,
+  "result": {
+    "result": {
+      "deleted": [],
+      "errors": [
+        {
+          "error": "q=85 m=49 d=2",
+          "op": "info",
+          "src": "ops"
+        }
+      ],
+      "moved": [],
+      "quarantined": []
+    }
+  },
+  "png": null
+}
