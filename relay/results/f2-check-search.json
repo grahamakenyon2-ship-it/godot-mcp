@@ -1,0 +1,16 @@
+{
+  "id": "f2-check-search",
+  "ok": true,
+  "result": {
+    "count": 6,
+    "files": [
+      "res://addons/rmsmartshape/assets/icon_width_handle.svg.import",
+      "res://addons/rmsmartshape/assets/icon_width_handle0.svg.import",
+      "res://addons/rmsmartshape/assets/icon_width_handle1.svg.import",
+      "res://addons/rmsmartshape/assets/icon_width_handle2.svg.import",
+      "res://addons/rmsmartshape/assets/icon_width_handle3.svg.import",
+      "res://addons/rmsmartshape/assets/icon_width_handle4.svg.import"
+    ]
+  },
+  "png": null
+}
