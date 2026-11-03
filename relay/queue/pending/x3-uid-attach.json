@@ -1,0 +1,1 @@
+{"id":"x3-uid-attach","method":"attach_script","params":{"node_path":"GCUid","script_path":"res://tools/gc_uid_fix.gd"}}
