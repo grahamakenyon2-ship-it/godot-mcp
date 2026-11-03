@@ -1,0 +1,265 @@
+{
+  "id": "gc-rd-Mob-mw028zqs",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Mob/Boar/Hit-Vanish/Hit-Sheet-Black.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Hit-Vanish/Hit-Sheet-Black.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Hit-Vanish/Hit-Sheet-White.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Hit-Vanish/Hit-Sheet-White.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Hit-Vanish/Hit-Sheet.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Hit-Vanish/Hit-Sheet.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Hit-Vanish/Hit.aseprite",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Mob/Boar/Hit-Vanish",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Mob/Boar/Idle/Idle-Sheet-export-Back.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Idle/Idle-Sheet-export-Back.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Idle/Idle-Sheet-White.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Idle/Idle-Sheet-White.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Idle/Idle-Sheet.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Idle/Idle-Sheet.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Idle/Idle.aseprite",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Mob/Boar/Idle",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Mob/Boar/Run/Run-Sheet-Black.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Run/Run-Sheet-Black.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Run/Run-Sheet-White.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Run/Run-Sheet-White.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Run/Run-Sheet.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Run/Run-Sheet.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Run/Run.aseprite",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Mob/Boar/Run",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Mob/Boar/Walk/Walk-Base-Sheet-White.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Walk/Walk-Base-Sheet-White.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Walk/Walk-Base-Sheet.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Walk/Walk-Base-Sheet.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Walk/Walk-Base-SheetBlack.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Walk/Walk-Base-SheetBlack.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Boar/Walk/Walk-Base.aseprite",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Mob/Boar/Walk",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Mob/Boar",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Mob/Small Bee/Attack/Attack-Sheet.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Small Bee/Attack/Attack-Sheet.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Small Bee/Attack/Attack.aseprite",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Mob/Small Bee/Attack",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Mob/Small Bee/Fly/Fly-Sheet.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Small Bee/Fly/Fly-Sheet.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Small Bee/Fly/Fly.aseprite",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Mob/Small Bee/Fly",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Mob/Small Bee/Hit/Hit-Sheet.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Small Bee/Hit/Hit-Sheet.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Mob/Small Bee/Hit/Hit.aseprite",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Mob/Small Bee/Hit",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Mob/Small Bee",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Mob/Snail/all.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Mob/Snail/all.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Mob/Snail/Dead-Sheet.aseprite",
+              "type": "file"
+            },
+            {
+              "path": "res://Mob/Snail/Dead-Sheet.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Mob/Snail/Dead-Sheet.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Mob/Snail/Hide-Sheet.aseprite",
+              "type": "file"
+            },
+            {
+              "path": "res://Mob/Snail/Hide-Sheet.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Mob/Snail/Hide-Sheet.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Mob/Snail/walk-Sheet.aseprite",
+              "type": "file"
+            },
+            {
+              "path": "res://Mob/Snail/walk-Sheet.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Mob/Snail/walk-Sheet.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Mob/Snail",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Mob",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
