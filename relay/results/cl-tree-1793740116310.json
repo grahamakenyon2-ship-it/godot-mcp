@@ -1,0 +1,93 @@
+{
+  "id": "cl-tree-1793740116310",
+  "ok": true,
+  "result": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "name": "Indicators",
+            "path": "/root/Battle/Board/Indicators",
+            "type": "Node2D"
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "name": "Token_lineholder",
+                "path": "/root/Battle/Board/Tokens/Token_lineholder",
+                "type": "Node2D"
+              },
+              {
+                "children": [],
+                "name": "Token_marksman",
+                "path": "/root/Battle/Board/Tokens/Token_marksman",
+                "type": "Node2D"
+              },
+              {
+                "children": [],
+                "name": "Token_shade_a",
+                "path": "/root/Battle/Board/Tokens/Token_shade_a",
+                "type": "Node2D"
+              },
+              {
+                "children": [],
+                "name": "Token_shade_b",
+                "path": "/root/Battle/Board/Tokens/Token_shade_b",
+                "type": "Node2D"
+              },
+              {
+                "children": [],
+                "name": "Token_skirmisher",
+                "path": "/root/Battle/Board/Tokens/Token_skirmisher",
+                "type": "Node2D"
+              }
+            ],
+            "name": "Tokens",
+            "path": "/root/Battle/Board/Tokens",
+            "type": "Node2D"
+          }
+        ],
+        "name": "Board",
+        "path": "/root/Battle/Board",
+        "type": "Node2D"
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "name": "RoundLabel",
+            "path": "/root/Battle/UI/RoundLabel",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "MsgLabel",
+            "path": "/root/Battle/UI/MsgLabel",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "EndRoundButton",
+            "path": "/root/Battle/UI/EndRoundButton",
+            "type": "Button"
+          }
+        ],
+        "name": "UI",
+        "path": "/root/Battle/UI",
+        "type": "CanvasLayer"
+      },
+      {
+        "children": [],
+        "name": "TurnManager",
+        "path": "/root/Battle/TurnManager",
+        "type": "Node"
+      }
+    ],
+    "name": "Battle",
+    "path": "/root/Battle",
+    "type": "Node2D"
+  },
+  "png": null
+}
