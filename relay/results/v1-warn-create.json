@@ -1,0 +1,9 @@
+{
+  "id": "v1-warn-create",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_warn_scan.gd"
+  },
+  "png": null
+}
