@@ -1,0 +1,9 @@
+{
+  "id": "u1-gd-create",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_godot_cache_scan.gd"
+  },
+  "png": null
+}
