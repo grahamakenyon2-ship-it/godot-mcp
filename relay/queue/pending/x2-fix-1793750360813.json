@@ -1,1 +1,0 @@
-{"id":"x2-fix-1793750360813","method":"edit_script","params":{"script_path":"res://scripts/showcase.gd","search":"seance.energy = 3.0","replace":"seance.light_energy = 3.0"}}
