@@ -1,0 +1,9 @@
+{
+  "id": "a1-t2create-1793740887853",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_t2.gd"
+  },
+  "png": null
+}
