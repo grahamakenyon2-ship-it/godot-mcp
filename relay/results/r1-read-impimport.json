@@ -1,0 +1,9 @@
+{
+  "id": "r1-read-impimport",
+  "ok": true,
+  "result": {
+    "content": "[remap]\n\nimporter=\"texture\"\ntype=\"CompressedTexture2D\"\nuid=\"uid://c6eccknyestdd\"\npath.s3tc=\"res://.godot/imported/T_Imp_BaseColor_1.png-1c093657e8916d06fc533242082dee86.s3tc.ctex\"\nmetadata={\n\"imported_formats\": [\"s3tc_bptc\"],\n\"vram_texture\": true\n}\n\n[deps]\n\nsource_file=\"res://assets/quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Imp_BaseColor_1.png\"\ndest_files=[\"res://.godot/imported/T_Imp_BaseColor_1.png-1c093657e8916d06fc533242082dee86.s3tc.ctex\"]\n\n[params]\n\ncompress/mode=2\ncompress/high_quality=false\ncompress/lossy_quality=0.7\ncompress/uastc_level=0\ncompress/rdo_quality_loss=0.0\ncompress/hdr_compression=1\ncompress/normal_map=0\ncompress/channel_pack=0\nmipmaps/generate=true\nmipmaps/limit=-1\nroughness/mode=0\nroughness/src_normal=\"\"\nprocess/channel_remap/red=0\nprocess/channel_remap/green=1\nprocess/channel_remap/blue=2\nprocess/channel_remap/alpha=3\nprocess/fix_alpha_border=true\nprocess/premult_alpha=false\nprocess/normal_map_invert_y=false\nprocess/hdr_as_srgb=false\nprocess/hdr_clamp_exposure=false\nprocess/size_limit=0\ndetect_3d/compress_to=0\n",
+    "script_path": "res://assets/quaternius/Bestiary - Dungeon Monsters Kit[Standard]/Textures/T_Imp_BaseColor_1.png.import"
+  },
+  "png": null
+}
