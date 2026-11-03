@@ -1,0 +1,79 @@
+{
+  "id": "p1-tree-macosx",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "path": "res://__MACOSX/Sound FX Starter Pack Vol. 1/Community Requests",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://__MACOSX/Sound FX Starter Pack Vol. 1/Environment",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://__MACOSX/Sound FX Starter Pack Vol. 1/Hollywood",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://__MACOSX/Sound FX Starter Pack Vol. 1/Horror",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://__MACOSX/Sound FX Starter Pack Vol. 1/Jingles & Stingers",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://__MACOSX/Sound FX Starter Pack Vol. 1/Magic",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://__MACOSX/Sound FX Starter Pack Vol. 1/Medieval",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://__MACOSX/Sound FX Starter Pack Vol. 1/Motions and Impacts",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://__MACOSX/Sound FX Starter Pack Vol. 1/Retro",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://__MACOSX/Sound FX Starter Pack Vol. 1/Sci-Fi",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://__MACOSX/Sound FX Starter Pack Vol. 1/Steampunk",
+              "type": "directory"
+            },
+            {
+              "children": [],
+              "path": "res://__MACOSX/Sound FX Starter Pack Vol. 1/UI & Menus",
+              "type": "directory"
+            }
+          ],
+          "path": "res://__MACOSX/Sound FX Starter Pack Vol. 1",
+          "type": "directory"
+        }
+      ],
+      "path": "res://__MACOSX",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
