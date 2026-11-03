@@ -1,0 +1,177 @@
+{
+  "id": "gc-rd-Character-mw028zqs",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "path": "res://Character/Attack-01/Attack-01-Sheet.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Attack-01/Attack-01-Sheet.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Attack-01/Attack-01.aseprite",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Attack-01/Attack-01.gif",
+              "type": "file"
+            }
+          ],
+          "path": "res://Character/Attack-01",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Character/Dead/Dead-Sheet.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Dead/Dead-Sheet.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Dead/Dead.aseprite",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Dead/Dead.gif",
+              "type": "file"
+            }
+          ],
+          "path": "res://Character/Dead",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Character/Idle/Idle-Sheet.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Idle/Idle-Sheet.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Idle/Idle.aseprite",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Idle/Idle.gif",
+              "type": "file"
+            }
+          ],
+          "path": "res://Character/Idle",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Character/Jumlp-All/Jump-All-Sheet.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Jumlp-All/Jump-All-Sheet.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Jumlp-All/Jump-All.aseprite",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Jumlp-All/Sprite-0003.aseprite",
+              "type": "file"
+            }
+          ],
+          "path": "res://Character/Jumlp-All",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Character/Jump/Jump.aseprite",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Jump/Jump.gif",
+              "type": "file"
+            }
+          ],
+          "path": "res://Character/Jump",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Character/Jump-End/Jump-End-Sheet.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Jump-End/Jump-End-Sheet.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Jump-End/Jump-End.aseprite",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Jump-End/Jump-End.gif",
+              "type": "file"
+            }
+          ],
+          "path": "res://Character/Jump-End",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Character/Jump-Start/Jump-Start-Sheet.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Jump-Start/Jump-Start-Sheet.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Jump-Start/Jump-Start.aseprite",
+              "type": "file"
+            }
+          ],
+          "path": "res://Character/Jump-Start",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Character/Run/Run-Sheet.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Run/Run-Sheet.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Run/Run.aseprite",
+              "type": "file"
+            },
+            {
+              "path": "res://Character/Run/Run.gif",
+              "type": "file"
+            }
+          ],
+          "path": "res://Character/Run",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Character",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
