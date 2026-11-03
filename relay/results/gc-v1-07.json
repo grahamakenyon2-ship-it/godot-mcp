@@ -1,0 +1,9 @@
+{
+  "id": "gc-v1-07",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tests/bridge_smoke_runner.gd"
+  },
+  "png": null
+}
