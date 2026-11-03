@@ -1,0 +1,9 @@
+{
+  "id": "gc-v2c-2-mvzzkmxe",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://scripts/battle/grid_draw.gd"
+  },
+  "png": null
+}
