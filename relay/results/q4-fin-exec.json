@@ -1,0 +1,8 @@
+{
+  "id": "q4-fin-exec",
+  "ok": true,
+  "result": {
+    "result": "MACOSX_exists=false decal_moved=true round_intact=true | [\"ghost-company-main/assets/gltf/Decals/Decal_Line_90.gltf -> 0\", \"ghost-company-main/assets/gltf/Decals/Decal_Line_90.gltf.import -> 0\"]"
+  },
+  "png": null
+}
