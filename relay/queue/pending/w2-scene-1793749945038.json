@@ -1,1 +1,0 @@
-{"id":"w2-scene-1793749945038","method":"create_script","params":{"script_path":"res://scenes/showcase.tscn","content":"[gd_scene load_steps=2 format=3]\n\n[ext_resource type=\"Script\" path=\"res://scripts/showcase.gd\" id=\"1_showcase\"]\n\n[node name=\"showcase\" type=\"Node3D\"]\nscript = ExtResource(\"1_showcase\")\n","overwrite":true}}
