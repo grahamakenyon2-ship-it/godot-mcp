@@ -1,0 +1,9 @@
+{
+  "id": "d1-diag2-readrep",
+  "ok": true,
+  "result": {
+    "content": "{\"checks\":{\"new_gltf_decal_line90\":true,\"new_gltf_decal_line90_import\":true,\"rmsmartshape_icon0_svg\":false,\"road_segment_png\":false},\"error_total\":0,\"godot.log\":{\"errors\":0,\"lines\":5,\"warnings\":0},\"godot2026-11-03T16.07.33.log\":{\"errors\":0,\"lines\":5,\"warnings\":0},\"godot2026-11-03T16.08.30.log\":{\"errors\":0,\"lines\":5,\"warnings\":0},\"godot2026-11-03T16.09.04.log\":{\"errors\":0,\"lines\":5,\"warnings\":0},\"godot2026-11-03T16.11.40.log\":{\"errors\":0,\"lines\":5,\"warnings\":0},\"samples\":[],\"top_patterns\":[],\"warning_total\":0}",
+    "script_path": "res://tools/gc_diag_report2.json"
+  },
+  "png": null
+}
