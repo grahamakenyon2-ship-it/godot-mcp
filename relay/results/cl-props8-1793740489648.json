@@ -1,0 +1,19 @@
+{
+  "id": "cl-props8-1793740489648",
+  "ok": true,
+  "result": {
+    "node_path": "/root/@EditorNode@19515/@Panel@14/@VBoxContainer@15/DockVSplitMain/DockHSplitMain/@VBoxContainer@37/DockVSplitCenter/@VSplitContainer@101/@VBoxContainer@102/@EditorMainScreen@160/MainScreen/@CanvasItemEditor@10138/@VSplitContainer@9897/@HSplitContainer@9899/@HSplitContainer@9901/@Control@9902/@SubViewportContainer@9903/@SubViewport@9904/Battle/GCCleanupExec",
+    "properties": {
+      "auto_translate_mode": 0,
+      "editor_description": "",
+      "physics_interpolation_mode": 0,
+      "process_mode": 0,
+      "process_physics_priority": 0,
+      "process_priority": 0,
+      "process_thread_group": 0,
+      "script": "res://tools/gc_editor_runner.gd"
+    },
+    "type": "Node"
+  },
+  "png": null
+}
