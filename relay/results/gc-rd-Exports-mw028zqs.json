@@ -1,0 +1,2015 @@
+{
+  "id": "gc-rd-Exports-mw028zqs",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "path": "res://Exports/FBX/Anvil.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Anvil_Log.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Axe_Bronze.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Bag.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Banner_1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Banner_1_Cloth.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Banner_2.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Banner_2_Cloth.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Barrel.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Barrel_Apples.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Barrel_Holder.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Bed_Twin1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Bed_Twin2.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Bench.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Bookcase_2.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/BookGroup_Medium_1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/BookGroup_Medium_2.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/BookGroup_Medium_3.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/BookGroup_Small_1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/BookGroup_Small_2.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/BookGroup_Small_3.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/BookStand.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Book_5.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Book_7.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Book_Simplified_Single.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Book_Stack_1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Book_Stack_2.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Bottle_1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Bucket_Metal.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Bucket_Wooden_1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Cabinet.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Cage_Small.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/CandleStick.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/CandleStick_Stand.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/CandleStick_Triple.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Candle_1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Candle_2.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Carrot.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Cauldron.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Chain_Coil.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Chair_1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Chalice.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Chandelier.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Chest_Wood.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Coin.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Coin_Pile.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Coin_Pile_2.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Crate_Metal.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Crate_Wooden.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Dummy.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/FarmCrate_Apple.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/FarmCrate_Carrot.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/FarmCrate_Empty.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Key_Gold.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Key_Metal.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Lantern_Wall.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Mug.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Nightstand_Shelf.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Peg_Rack.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Pickaxe_Bronze.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Potion_1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Potion_2.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Potion_4.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Pot_1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Pot_1_Lid.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Pouch_Large.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Rope_1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Rope_2.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Rope_3.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Scroll_1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Scroll_2.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Shelf_Arch.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Shelf_Simple.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Shelf_Small_Bottles.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Shield_Wooden.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/SmallBottle.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/SmallBottles_1.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Stall_Cart_Empty.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Stall_Empty.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Stool.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Sword_Bronze.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Table_Fork.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Table_Knife.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Table_Large.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Table_Plate.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Table_Spoon.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Torch_Metal.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Vase_2.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Vase_4.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Vase_Rubble_Medium.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/WeaponStand.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Whetstone.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Workbench.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/FBX/Workbench_Drawers.fbx",
+              "type": "file"
+            }
+          ],
+          "path": "res://Exports/FBX",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Exports/glTF/Anvil.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Anvil.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Anvil_Log.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Anvil_Log.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Axe_Bronze.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Axe_Bronze.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bag.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bag.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Banner_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Banner_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Banner_1_Cloth.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Banner_1_Cloth.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Banner_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Banner_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Banner_2_Cloth.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Banner_2_Cloth.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Barrel.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Barrel.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Barrel_Apples.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Barrel_Apples.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Barrel_Holder.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Barrel_Holder.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bed_Twin1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bed_Twin1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bed_Twin2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bed_Twin2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bench.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bench.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bookcase_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bookcase_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookGroup_Medium_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookGroup_Medium_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookGroup_Medium_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookGroup_Medium_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookGroup_Medium_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookGroup_Medium_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookGroup_Small_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookGroup_Small_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookGroup_Small_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookGroup_Small_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookGroup_Small_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookGroup_Small_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookStand.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/BookStand.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Book_5.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Book_5.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Book_7.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Book_7.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Book_Simplified_Single.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Book_Simplified_Single.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Book_Stack_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Book_Stack_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Book_Stack_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Book_Stack_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bottle_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bottle_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bucket_Metal.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bucket_Metal.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bucket_Wooden_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Bucket_Wooden_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Cabinet.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Cabinet.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Cage_Small.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Cage_Small.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/CandleStick.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/CandleStick.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/CandleStick_Stand.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/CandleStick_Stand.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/CandleStick_Triple.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/CandleStick_Triple.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Candle_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Candle_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Candle_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Candle_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Carrot.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Carrot.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Cauldron.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Cauldron.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Chain_Coil.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Chain_Coil.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Chair_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Chair_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Chalice.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Chalice.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Chandelier.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Chandelier.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Chest_Wood.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Chest_Wood.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Coin.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Coin.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Coin_Pile.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Coin_Pile.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Coin_Pile_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Coin_Pile_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Crate_Metal.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Crate_Metal.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Crate_Wooden.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Crate_Wooden.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Dummy.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Dummy.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/FarmCrate_Apple.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/FarmCrate_Apple.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/FarmCrate_Carrot.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/FarmCrate_Carrot.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/FarmCrate_Empty.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/FarmCrate_Empty.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Key_Gold.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Key_Gold.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Key_Metal.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Key_Metal.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Lantern_Wall.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Lantern_Wall.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Mug.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Mug.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Nightstand_Shelf.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Nightstand_Shelf.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Peg_Rack.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Peg_Rack.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Pickaxe_Bronze.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Pickaxe_Bronze.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Potion_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Potion_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Potion_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Potion_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Potion_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Potion_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Pot_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Pot_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Pot_1_Lid.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Pot_1_Lid.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Pouch_Large.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Pouch_Large.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Rope_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Rope_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Rope_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Rope_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Rope_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Rope_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Scroll_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Scroll_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Scroll_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Scroll_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Shelf_Arch.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Shelf_Arch.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Shelf_Simple.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Shelf_Simple.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Shelf_Small_Bottles.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Shelf_Small_Bottles.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Shield_Wooden.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Shield_Wooden.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/SmallBottle.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/SmallBottle.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/SmallBottles_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/SmallBottles_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Stall_Cart_Empty.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Stall_Cart_Empty.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Stall_Empty.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Stall_Empty.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Stool.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Stool.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Sword_Bronze.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Sword_Bronze.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Table_Fork.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Table_Fork.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Table_Knife.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Table_Knife.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Table_Large.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Table_Large.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Table_Plate.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Table_Plate.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Table_Spoon.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Table_Spoon.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Torch_Metal.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Torch_Metal.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/T_Page_Noise.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/T_Trim_Cloth_BaseColor.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/T_Trim_Cloth_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/T_Trim_Cloth_ORM.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/T_Trim_Furniture_BaseColor.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/T_Trim_Furniture_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/T_Trim_Furniture_ORM.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/T_Trim_Metal_BaseColor.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/T_Trim_Metal_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/T_Trim_Metal_ORM.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/T_Trim_Props_BaseColor.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/T_Trim_Props_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/T_Trim_Props_ORM.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Vase_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Vase_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Vase_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Vase_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Vase_Rubble_Medium.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Vase_Rubble_Medium.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/WeaponStand.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/WeaponStand.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Whetstone.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Whetstone.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Workbench.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Workbench.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Workbench_Drawers.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/glTF/Workbench_Drawers.gltf",
+              "type": "file"
+            }
+          ],
+          "path": "res://Exports/glTF",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Exports/OBJ/Anvil.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Anvil.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Anvil_Log.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Anvil_Log.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Axe_Bronze.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Axe_Bronze.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bag.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bag.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Banner_1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Banner_1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Banner_1_Cloth.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Banner_1_Cloth.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Banner_2.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Banner_2.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Banner_2_Cloth.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Banner_2_Cloth.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Barrel.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Barrel.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Barrel_Apples.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Barrel_Apples.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Barrel_Holder.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Barrel_Holder.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bed_Twin1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bed_Twin1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bed_Twin2.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bed_Twin2.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bench.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bench.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bookcase_2.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bookcase_2.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookGroup_Medium_1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookGroup_Medium_1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookGroup_Medium_2.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookGroup_Medium_2.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookGroup_Medium_3.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookGroup_Medium_3.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookGroup_Small_1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookGroup_Small_1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookGroup_Small_2.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookGroup_Small_2.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookGroup_Small_3.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookGroup_Small_3.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookStand.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/BookStand.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Book_5.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Book_5.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Book_7.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Book_7.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Book_Simplified_Single.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Book_Simplified_Single.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Book_Stack_1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Book_Stack_1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Book_Stack_2.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Book_Stack_2.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bottle_1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bottle_1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bucket_Metal.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bucket_Metal.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bucket_Wooden_1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Bucket_Wooden_1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Cabinet.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Cabinet.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Cage_Small.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Cage_Small.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/CandleStick.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/CandleStick.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/CandleStick_Stand.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/CandleStick_Stand.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/CandleStick_Triple.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/CandleStick_Triple.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Candle_1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Candle_1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Candle_2.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Candle_2.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Carrot.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Carrot.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Cauldron.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Cauldron.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Chain_Coil.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Chain_Coil.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Chair_1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Chair_1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Chalice.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Chalice.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Chandelier.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Chandelier.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Chest_Legendary.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Chest_Wood.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Coin.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Coin.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Coin_Pile.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Coin_Pile.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Coin_Pile_2.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Coin_Pile_2.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Crate_Metal.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Crate_Metal.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Crate_Wooden.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Crate_Wooden.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Dummy.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Dummy.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/FarmCrate_Apple.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/FarmCrate_Apple.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/FarmCrate_Carrot.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/FarmCrate_Carrot.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/FarmCrate_Empty.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/FarmCrate_Empty.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Key_Gold.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Key_Gold.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Key_Metal.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Key_Metal.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Lantern_Wall.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Lantern_Wall.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Mug.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Mug.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Nightstand_Shelf.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Nightstand_Shelf.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Peg_Rack.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Peg_Rack.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Pickaxe_Bronze.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Pickaxe_Bronze.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Potion_1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Potion_1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Potion_2.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Potion_2.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Potion_4.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Potion_4.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Pot_1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Pot_1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Pot_1_Lid.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Pot_1_Lid.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Pouch_Large.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Pouch_Large.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Rope_1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Rope_1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Rope_2.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Rope_2.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Rope_3.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Rope_3.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Scroll_1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Scroll_1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Scroll_2.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Scroll_2.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Shelf_Arch.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Shelf_Arch.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Shelf_Simple.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Shelf_Simple.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Shelf_Small_Bottles.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Shelf_Small_Bottles.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Shield_Wooden.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Shield_Wooden.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/SmallBottle.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/SmallBottle.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/SmallBottles_1.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/SmallBottles_1.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Stall_Cart_Empty.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Stall_Cart_Empty.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Stall_Empty.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Stall_Empty.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Stool.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Stool.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Sword_Bronze.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Sword_Bronze.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Table_Fork.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Table_Fork.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Table_Knife.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Table_Knife.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Table_Large.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Table_Large.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Table_Plate.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Table_Plate.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Table_Spoon.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Table_Spoon.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Torch_Metal.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Torch_Metal.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/T_Page_Noise.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/T_Trim_Cloth_BaseColor.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/T_Trim_Cloth_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/T_Trim_Cloth_ORM.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/T_Trim_Furniture_BaseColor.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/T_Trim_Furniture_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/T_Trim_Furniture_ORM.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/T_Trim_Metal_BaseColor.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/T_Trim_Metal_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/T_Trim_Metal_ORM.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/T_Trim_Props_BaseColor.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/T_Trim_Props_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/T_Trim_Props_ORM.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Vase_2.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Vase_2.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Vase_4.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Vase_4.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Vase_Rubble_Medium.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Vase_Rubble_Medium.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/WeaponStand.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/WeaponStand.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Whetstone.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Whetstone.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Workbench.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Workbench.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Workbench_Drawers.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Exports/OBJ/Workbench_Drawers.obj",
+              "type": "file"
+            }
+          ],
+          "path": "res://Exports/OBJ",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Exports",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
