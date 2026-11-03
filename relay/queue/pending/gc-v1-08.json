@@ -1,1 +1,0 @@
-{"id":"gc-v1-08","method":"execute_editor_script","params":{"code":"load(\"res://tests/bridge_smoke_runner.gd\").new().run()"}}
