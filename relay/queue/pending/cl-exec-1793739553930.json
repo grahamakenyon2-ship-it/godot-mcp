@@ -1,0 +1,1 @@
+{"id":"cl-exec-1793739553930","method":"execute_editor_script","params":{"code":"load(\"res://tools/gc_fs_tool.gd\").new().run(\"res://tools/gc_cleanup_ops.json\")"}}
