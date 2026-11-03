@@ -1,0 +1,9 @@
+{
+  "id": "gc-write-tm-mvzzb8hb",
+  "ok": true,
+  "result": {
+    "script_path": "res://scripts/battle/turn_manager.gd",
+    "updated": true
+  },
+  "png": null
+}
