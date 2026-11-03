@@ -1,0 +1,95 @@
+{
+  "id": "gc-pk-0-mw020pgv",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "path": "res://Quaternius/Universal Animation Library 2[Standard]/Female Mannequin/Mannequin_F.blend",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Universal Animation Library 2[Standard]/Female Mannequin/README.txt",
+              "type": "file"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/Universal Animation Library 2[Standard]/Female Mannequin/Unity/Mannequin_F.fbx",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Universal Animation Library 2[Standard]/Female Mannequin/Unity",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/Universal Animation Library 2[Standard]/Female Mannequin/Unreal-Godot/Mannequin_F.glb",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/Universal Animation Library 2[Standard]/Female Mannequin/Unreal-Godot",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Quaternius/Universal Animation Library 2[Standard]/Female Mannequin",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Universal Animation Library 2[Standard]/Godot_Setup.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Universal Animation Library 2[Standard]/License.txt",
+          "type": "file"
+        },
+        {
+          "path": "res://Quaternius/Universal Animation Library 2[Standard]/README.txt",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Quaternius/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx",
+              "type": "file"
+            }
+          ],
+          "path": "res://Quaternius/Universal Animation Library 2[Standard]/Unity",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Universal Animation Library 2[Standard]/Unity_Setup.png",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Quaternius/Universal Animation Library 2[Standard]/Unreal-Godot/UAL2_Standard.glb",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/Universal Animation Library 2[Standard]/Unreal-Godot/UAL2_Standard_RM.glb",
+              "type": "file"
+            }
+          ],
+          "path": "res://Quaternius/Universal Animation Library 2[Standard]/Unreal-Godot",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/Universal Animation Library 2[Standard]/Unreal_Setup.png",
+          "type": "file"
+        }
+      ],
+      "path": "res://Quaternius/Universal Animation Library 2[Standard]",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
