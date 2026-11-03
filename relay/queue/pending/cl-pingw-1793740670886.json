@@ -1,0 +1,1 @@
+{"id":"cl-pingw-1793740670886","method":"create_script","params":{"script_path":"res://tools/gc_ping.gd","content":"@tool\nextends Node\n\nfunc ping() -> String:\n\treturn \"pong\"\n","overwrite":true}}
