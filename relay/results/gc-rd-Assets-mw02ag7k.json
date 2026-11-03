@@ -1,0 +1,85 @@
+{
+  "id": "gc-rd-Assets-mw02ag7k",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "path": "res://Assets/Buildings.aseprite",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Buildings.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Buildings.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Hive.aseprite",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Hive.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Hive.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Interior-01.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Interior-01.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Props-Rocks.aseprite",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Props-Rocks.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Props-Rocks.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Sprite-0011.aseprite",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Tiles.aseprite",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Tiles.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Tiles.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Tree-Assets.aseprite",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Tree-Assets.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Assets/Tree-Assets.png.import",
+          "type": "file"
+        }
+      ],
+      "path": "res://Assets",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
