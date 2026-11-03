@@ -1,0 +1,45 @@
+{
+  "id": "gc-rd-MysticalSp-mw02cb81",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "path": "res://Mystical & Space Ambient/Mystical Ambient #1.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://Mystical & Space Ambient/Mystical Ambient #1.wav.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Mystical & Space Ambient/Mystical Ambient #2.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://Mystical & Space Ambient/Mystical Ambient #2.wav.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Mystical & Space Ambient/Space Ambient #1.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://Mystical & Space Ambient/Space Ambient #1.wav.import",
+          "type": "file"
+        },
+        {
+          "path": "res://Mystical & Space Ambient/Space Ambient #2.wav",
+          "type": "file"
+        },
+        {
+          "path": "res://Mystical & Space Ambient/Space Ambient #2.wav.import",
+          "type": "file"
+        }
+      ],
+      "path": "res://Mystical & Space Ambient",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
