@@ -1,0 +1,1245 @@
+{
+  "id": "q-exp-1793749734804",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "path": "res://assets/exports/glTF/Anvil.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Anvil.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Anvil.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Anvil_Log.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Anvil_Log.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Anvil_Log.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Axe_Bronze.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Axe_Bronze.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Axe_Bronze.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bag.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bag.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bag.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Banner_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Banner_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Banner_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Banner_1_Cloth.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Banner_1_Cloth.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Banner_1_Cloth.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Banner_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Banner_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Banner_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Banner_2_Cloth.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Banner_2_Cloth.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Banner_2_Cloth.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Barrel.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Barrel.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Barrel.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Barrel_Apples.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Barrel_Apples.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Barrel_Apples.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Barrel_Holder.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Barrel_Holder.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Barrel_Holder.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bed_Twin1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bed_Twin1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bed_Twin1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bed_Twin2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bed_Twin2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bed_Twin2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bench.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bench.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bench.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bookcase_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bookcase_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bookcase_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Medium_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Medium_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Medium_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Medium_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Medium_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Medium_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Medium_3.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Medium_3.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Medium_3.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Small_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Small_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Small_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Small_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Small_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Small_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Small_3.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Small_3.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookGroup_Small_3.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookStand.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookStand.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/BookStand.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_5.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_5.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_5.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_7.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_7.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_7.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_Simplified_Single.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_Simplified_Single.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_Simplified_Single.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_Stack_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_Stack_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_Stack_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_Stack_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_Stack_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Book_Stack_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bottle_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bottle_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bottle_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bucket_Metal.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bucket_Metal.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bucket_Metal.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bucket_Wooden_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bucket_Wooden_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Bucket_Wooden_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Cabinet.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Cabinet.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Cabinet.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Cage_Small.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Cage_Small.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Cage_Small.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/CandleStick.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/CandleStick.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/CandleStick.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/CandleStick_Stand.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/CandleStick_Stand.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/CandleStick_Stand.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/CandleStick_Triple.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/CandleStick_Triple.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/CandleStick_Triple.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Candle_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Candle_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Candle_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Candle_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Candle_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Candle_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Carrot.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Carrot.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Carrot.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Cauldron.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Cauldron.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Cauldron.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chain_Coil.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chain_Coil.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chain_Coil.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chair_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chair_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chair_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chalice.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chalice.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chalice.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chandelier.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chandelier.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chandelier.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chest_Wood.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chest_Wood.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Chest_Wood.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Coin.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Coin.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Coin.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Coin_Pile.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Coin_Pile.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Coin_Pile.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Coin_Pile_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Coin_Pile_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Coin_Pile_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Crate_Metal.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Crate_Metal.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Crate_Metal.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Crate_Wooden.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Crate_Wooden.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Crate_Wooden.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Dummy.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Dummy.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Dummy.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/FarmCrate_Apple.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/FarmCrate_Apple.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/FarmCrate_Apple.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/FarmCrate_Carrot.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/FarmCrate_Carrot.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/FarmCrate_Carrot.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/FarmCrate_Empty.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/FarmCrate_Empty.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/FarmCrate_Empty.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Key_Gold.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Key_Gold.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Key_Gold.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Key_Metal.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Key_Metal.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Key_Metal.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Lantern_Wall.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Lantern_Wall.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Lantern_Wall.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Mug.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Mug.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Mug.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Nightstand_Shelf.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Nightstand_Shelf.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Nightstand_Shelf.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Peg_Rack.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Peg_Rack.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Peg_Rack.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Pickaxe_Bronze.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Pickaxe_Bronze.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Pickaxe_Bronze.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Potion_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Potion_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Potion_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Potion_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Potion_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Potion_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Potion_4.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Potion_4.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Potion_4.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Pot_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Pot_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Pot_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Pot_1_Lid.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Pot_1_Lid.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Pot_1_Lid.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Pouch_Large.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Pouch_Large.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Pouch_Large.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Rope_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Rope_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Rope_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Rope_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Rope_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Rope_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Rope_3.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Rope_3.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Rope_3.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Scroll_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Scroll_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Scroll_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Scroll_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Scroll_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Scroll_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Shelf_Arch.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Shelf_Arch.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Shelf_Arch.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Shelf_Simple.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Shelf_Simple.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Shelf_Simple.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Shelf_Small_Bottles.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Shelf_Small_Bottles.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Shelf_Small_Bottles.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Shield_Wooden.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Shield_Wooden.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Shield_Wooden.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/SmallBottle.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/SmallBottle.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/SmallBottle.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/SmallBottles_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/SmallBottles_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/SmallBottles_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Stall_Cart_Empty.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Stall_Cart_Empty.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Stall_Cart_Empty.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Stall_Empty.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Stall_Empty.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Stall_Empty.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Stool.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Stool.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Stool.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Sword_Bronze.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Sword_Bronze.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Sword_Bronze.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Fork.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Fork.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Fork.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Knife.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Knife.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Knife.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Large.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Large.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Large.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Plate.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Plate.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Plate.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Spoon.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Spoon.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Table_Spoon.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Torch_Metal.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Torch_Metal.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Torch_Metal.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Page_Noise.png",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Page_Noise.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Cloth_BaseColor.png",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Cloth_BaseColor.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Cloth_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Cloth_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Cloth_ORM.png",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Cloth_ORM.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Furniture_BaseColor.png",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Furniture_BaseColor.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Furniture_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Furniture_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Furniture_ORM.png",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Furniture_ORM.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Metal_BaseColor.png",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Metal_BaseColor.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Metal_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Metal_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Metal_ORM.png",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Metal_ORM.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Props_BaseColor.png",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Props_BaseColor.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Props_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Props_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Props_ORM.png",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/T_Trim_Props_ORM.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Vase_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Vase_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Vase_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Vase_4.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Vase_4.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Vase_4.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Vase_Rubble_Medium.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Vase_Rubble_Medium.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Vase_Rubble_Medium.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/WeaponStand.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/WeaponStand.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/WeaponStand.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Whetstone.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Whetstone.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Whetstone.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Workbench.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Workbench.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Workbench.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Workbench_Drawers.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Workbench_Drawers.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/exports/glTF/Workbench_Drawers.gltf.import",
+          "type": "file"
+        }
+      ],
+      "path": "res://assets/exports/glTF",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
