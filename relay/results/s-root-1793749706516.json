@@ -1,0 +1,121 @@
+{
+  "id": "s-root-1793749706516",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [],
+          "path": "res://addons",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://assets",
+          "type": "directory"
+        },
+        {
+          "path": "res://CHANGELOG.md",
+          "type": "file"
+        },
+        {
+          "path": "res://Custom_Commercial_License.txt",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://data",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://Documentation",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://example",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://ghost-kit",
+          "type": "directory"
+        },
+        {
+          "path": "res://LICENSE",
+          "type": "file"
+        },
+        {
+          "path": "res://License.md",
+          "type": "file"
+        },
+        {
+          "path": "res://LICENSE.txt",
+          "type": "file"
+        },
+        {
+          "path": "res://License_Standard.txt",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://materials",
+          "type": "directory"
+        },
+        {
+          "path": "res://MIT License.txt",
+          "type": "file"
+        },
+        {
+          "path": "res://project.godot",
+          "type": "file"
+        },
+        {
+          "path": "res://README.md",
+          "type": "file"
+        },
+        {
+          "children": [],
+          "path": "res://scenes",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://scripts",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://shaders",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://tests",
+          "type": "directory"
+        },
+        {
+          "children": [],
+          "path": "res://tools",
+          "type": "directory"
+        },
+        {
+          "path": "res://transition.gdshader",
+          "type": "file"
+        },
+        {
+          "path": "res://transition.gdshader.uid",
+          "type": "file"
+        },
+        {
+          "path": "res://_License.txt",
+          "type": "file"
+        }
+      ],
+      "path": "res://",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
