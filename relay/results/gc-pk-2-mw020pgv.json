@@ -1,0 +1,391 @@
+{
+  "id": "gc-pk-2-mw020pgv",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Blends/Cleric.blend",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Blends/Monk.blend",
+              "type": "file"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Blends/Only Weapons/Cleric_Staff.blend",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Blends/Only Weapons/Ranger_Bow.blend",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Blends/Only Weapons/Rogue_Dagger.blend",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Blends/Only Weapons/Warrior_Sword.blend",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Blends/Only Weapons/Wizard_Staff.blend",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Blends/Only Weapons",
+              "type": "directory"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Blends/Ranger.blend",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Blends/Rogue.blend",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Blends/Warrior.blend",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Blends/Wizard.blend",
+              "type": "file"
+            }
+          ],
+          "path": "res://Quaternius/RPG Characters - Nov 2020/Blends",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/FBX/Cleric.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/FBX/Monk.fbx",
+              "type": "file"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/FBX/Only Weapons/Cleric_Staff.fbx",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/FBX/Only Weapons/Ranger_Arrow.fbx",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/FBX/Only Weapons/Ranger_Bow.fbx",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/FBX/Only Weapons/Rogue_Dagger.fbx",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/FBX/Only Weapons/Warrior_Sword.fbx",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/FBX/Only Weapons/Wizard_Staff.fbx",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/RPG Characters - Nov 2020/FBX/Only Weapons",
+              "type": "directory"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/FBX/Ranger.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/FBX/Rogue.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/FBX/Warrior.fbx",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/FBX/Wizard.fbx",
+              "type": "file"
+            }
+          ],
+          "path": "res://Quaternius/RPG Characters - Nov 2020/FBX",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/glTF/Cleric.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/glTF/Monk.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/glTF/Ranger.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/glTF/Rogue.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/glTF/Warrior.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/glTF/Wizard.gltf",
+              "type": "file"
+            }
+          ],
+          "path": "res://Quaternius/RPG Characters - Nov 2020/glTF",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/Blends/Cleric.blend",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/Blends/Monk.blend",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/Blends/Ranger.blend",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/Blends/Rogue.blend",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/Blends/Warrior.blend",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/Blends/Wizard.blend",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/Blends",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/FBX/Cleric.fbx",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/FBX/Monk.fbx",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/FBX/Ranger.fbx",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/FBX/Rogue.fbx",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/FBX/Warrior.fbx",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/FBX/Wizard.fbx",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions/FBX",
+              "type": "directory"
+            }
+          ],
+          "path": "res://Quaternius/RPG Characters - Nov 2020/Humanoid Rig Versions",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/RPG Characters - Nov 2020/License.txt",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Cleric.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Cleric.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Monk.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Monk.obj",
+              "type": "file"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Only Weapons/Cleric_Staff.mtl",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Only Weapons/Cleric_Staff.obj",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Only Weapons/Ranger_Arrow.mtl",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Only Weapons/Ranger_Arrow.obj",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Only Weapons/Ranger_Bow.mtl",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Only Weapons/Ranger_Bow.obj",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Only Weapons/Rogue_Dagger.mtl",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Only Weapons/Rogue_Dagger.obj",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Only Weapons/Warrior_Sword.mtl",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Only Weapons/Warrior_Sword.obj",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Only Weapons/Wizard_Staff.mtl",
+                  "type": "file"
+                },
+                {
+                  "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Only Weapons/Wizard_Staff.obj",
+                  "type": "file"
+                }
+              ],
+              "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Only Weapons",
+              "type": "directory"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Ranger.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Ranger.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Rogue.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Rogue.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Warrior.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Warrior.obj",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Wizard.mtl",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ/Wizard.obj",
+              "type": "file"
+            }
+          ],
+          "path": "res://Quaternius/RPG Characters - Nov 2020/OBJ",
+          "type": "directory"
+        },
+        {
+          "path": "res://Quaternius/RPG Characters - Nov 2020/Preview.jpg",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Textures/Cleric_Staff_Texture.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Textures/Cleric_Texture.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Textures/Monk_Texture.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Textures/Ranger_Bow_Texture.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Textures/Ranger_Texture.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Textures/Rogue_Dagger_Texture.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Textures/Rogue_Texture.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Textures/Warrior_Sword_Texture.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Textures/Warrior_Texture.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Textures/Wizard_Staff_Texture.png",
+              "type": "file"
+            },
+            {
+              "path": "res://Quaternius/RPG Characters - Nov 2020/Textures/Wizard_Texture.png",
+              "type": "file"
+            }
+          ],
+          "path": "res://Quaternius/RPG Characters - Nov 2020/Textures",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Quaternius/RPG Characters - Nov 2020",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
