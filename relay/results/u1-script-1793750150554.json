@@ -1,0 +1,9 @@
+{
+  "id": "u1-script-1793750150554",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://scripts/showcase.gd"
+  },
+  "png": null
+}
