@@ -1,0 +1,25 @@
+{
+  "id": "gc-rd-Background-mw02ag7k",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "path": "res://Background/Background.aseprite",
+          "type": "file"
+        },
+        {
+          "path": "res://Background/Background.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Background/Background.png.import",
+          "type": "file"
+        }
+      ],
+      "path": "res://Background",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
