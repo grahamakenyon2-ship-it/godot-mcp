@@ -1,0 +1,4714 @@
+{
+  "id": "gc-list-mvzzs53i",
+  "ok": true,
+  "result": {
+    "count": 1176,
+    "scripts": [
+      {
+        "class_name": "",
+        "path": "res://addons/afterimage_node2D/afterimage_node2D.gd"
+      },
+      {
+        "class_name": "AfterImage2D",
+        "path": "res://addons/afterimage_node2D/data/AfterImage2D.gd"
+      },
+      {
+        "class_name": "AfterImage2DFrame",
+        "path": "res://addons/afterimage_node2D/data/after_image_frame_2d.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/aseprite/aseprite.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/aseprite/file_exporter.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/config/config.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/config/config_dialog.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/config/logger.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/config/result_codes.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/config/wizard_config.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/creators/animation_player/animation_creator.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/creators/animation_player/sprite_animation_creator.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/creators/animation_player/texture_rect_animation_creator.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/creators/base_sprite_resource_creator.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/creators/sprite_frames/sprite_frames_creator.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/creators/static_texture/texture_creator.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/export/export_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/files/file_lifecycle_listeners.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/importers/helpers/bakery.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/importers/helpers/file_system_helper.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/importers/multiple_import_plugin_base.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/importers/noop_import_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/importers/split_layer_importers/layer_import_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/importers/split_layer_importers/layer_texture_import_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/importers/sprite_frames_import_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/importers/sprite_frames_multiple_import_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/importers/static_texture_import_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/importers/static_texture_import_plugin_base.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/importers/static_texture_multiple_import_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/importers/tileset_texture_import_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/animated_sprite/animated_sprite_inspector_dock.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/animated_sprite/inspector_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/base_inspector_dock.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/dock_fields.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/layer_select_field.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/multi_layer_select_field.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/sprite/inspector_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/sprite/sprite_inspector_dock.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/wizard/as_wizard_dock_container.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/wizard/as_wizard_window.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/wizard/imported_sprite_frames.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/wizard/resource_tree_multiple_items.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/wizard/resource_tree_single_item.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/wizard/sprite_frames_import_history.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/wizard/wizard_import_helper.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/wizard/wizard_nodes/details.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/wizard/wizard_nodes/import_date.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/wizard/wizard_nodes/list_actions.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/docks/wizard/wizard_nodes/source_path.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/imports_manager/aseprite_imports_manager.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/imports_manager/dock_imports_panel.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/imports_manager/import_helper.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/imports_manager/import_panels.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/imports_manager/tree_filter_field.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/imports_manager/tree_selection_multiple_items.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/imports_manager/tree_selection_single_item.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/shared/animation_player_drop_button.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/shared/dir_drop_button.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/shared/source_drop_button.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/shared/tree/inline_warning_panel.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/shared/tree/resource_tree.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/interface/shared/tree/tree_selection_confirmation_warning.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/AsepriteWizard/plugin.gd"
+      },
+      {
+        "class_name": "BallisticSolutions",
+        "path": "res://addons/ballistic_solutions/ballistic_solutions.gd"
+      },
+      {
+        "class_name": "BsSolution",
+        "path": "res://addons/ballistic_solutions/bs_solutions/bs_solution.gd"
+      },
+      {
+        "class_name": "BsSolution2D",
+        "path": "res://addons/ballistic_solutions/bs_solutions/bs_solution_2d.gd"
+      },
+      {
+        "class_name": "BsSolution3D",
+        "path": "res://addons/ballistic_solutions/bs_solutions/bs_solution_3d.gd"
+      },
+      {
+        "class_name": "BsSolution4D",
+        "path": "res://addons/ballistic_solutions/bs_solutions/bs_solution_4d.gd"
+      },
+      {
+        "class_name": "BsEquations4D",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_equations_4d.gd"
+      },
+      {
+        "class_name": "BsPosition",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_position/bs_position.gd"
+      },
+      {
+        "class_name": "BsPosition2D",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_position/bs_position_2d.gd"
+      },
+      {
+        "class_name": "BsPosition3D",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_position/bs_position_3d.gd"
+      },
+      {
+        "class_name": "BsPosition4D",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_position/bs_position_4d.gd"
+      },
+      {
+        "class_name": "BsSolvers",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_solvers.gd"
+      },
+      {
+        "class_name": "BsTime",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_time/bs_time.gd"
+      },
+      {
+        "class_name": "BsTime2D",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_time/bs_time_2d.gd"
+      },
+      {
+        "class_name": "BsTime3D",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_time/bs_time_3d.gd"
+      },
+      {
+        "class_name": "BsTime4D",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_time/bs_time_4d.gd"
+      },
+      {
+        "class_name": "BsVelocity",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_velocity/bs_velocity.gd"
+      },
+      {
+        "class_name": "BsVelocity2D",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_velocity/bs_velocity_2d.gd"
+      },
+      {
+        "class_name": "BsVelocity3D",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_velocity/bs_velocity_3d.gd"
+      },
+      {
+        "class_name": "BsVelocity4D",
+        "path": "res://addons/ballistic_solutions/bs_solvers/bs_velocity/bs_velocity_4d.gd"
+      },
+      {
+        "class_name": "BsVector2Extensions",
+        "path": "res://addons/ballistic_solutions/bs_vector_extensions/bs_vector2_extensions.gd"
+      },
+      {
+        "class_name": "BsVector3Extensions",
+        "path": "res://addons/ballistic_solutions/bs_vector_extensions/bs_vector3_extensions.gd"
+      },
+      {
+        "class_name": "BsVector4Extensions",
+        "path": "res://addons/ballistic_solutions/bs_vector_extensions/bs_vector4_extensions.gd"
+      },
+      {
+        "class_name": "BsVectorExtensions",
+        "path": "res://addons/ballistic_solutions/bs_vector_extensions/bs_vector_extensions.gd"
+      },
+      {
+        "class_name": "_BsLogger",
+        "path": "res://addons/ballistic_solutions/_bs_utils/_bs_logger.gd"
+      },
+      {
+        "class_name": "_BsUtils",
+        "path": "res://addons/ballistic_solutions/_bs_utils/_bs_utils.gd"
+      },
+      {
+        "class_name": "AdaptableVectorShape3D",
+        "path": "res://addons/curved_lines_2d/adaptable_vector_shape_3d.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/advanced_tab.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/arc_settings_popup_panel.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/assign_collision_inspector_form.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/assign_collision_object_inspector_form.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/assign_fill_inspector_form.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/assign_navigation_region_inspector_form.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/assign_path_inspector_form.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/assign_stroke_inspector_form.gd"
+      },
+      {
+        "class_name": "BasicFit",
+        "path": "res://addons/curved_lines_2d/basic_fit.gd"
+      },
+      {
+        "class_name": "BasicVector2Input",
+        "path": "res://addons/curved_lines_2d/basic_vector_2_input.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/batch_insert_curve_point_key_frames_inspector_form.gd"
+      },
+      {
+        "class_name": "ClosestPointOnCurveMeta",
+        "path": "res://addons/curved_lines_2d/closest_point_on_curve_meta.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/collision_object_type_option_button.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/create_tab.gd"
+      },
+      {
+        "class_name": "CurvedLines2D",
+        "path": "res://addons/curved_lines_2d/curved_lines_2d.gd"
+      },
+      {
+        "class_name": "DrawablePath2D",
+        "path": "res://addons/curved_lines_2d/drawable_path_2d.gd"
+      },
+      {
+        "class_name": "DynamicOutline2D",
+        "path": "res://addons/curved_lines_2d/dynamic_outline_2d.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/examples/add_shapes_programmatically/click_ellipse.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/examples/add_shapes_programmatically/label.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/examples/cloud.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/examples/fan_art_with_clip_paths/eye.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/examples/fan_art_with_clip_paths/fan_art.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/examples/heart_icon.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/examples/import_svg_at_runtime/import_svg_at_runtime.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/examples/pinball/chasing_light.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/examples/pinball/flipper.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/examples/pinball/game.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/examples/pinball/pinball.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/examples/rat/rat.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/examples/rat/rats_return.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/external_video_button.gd"
+      },
+      {
+        "class_name": "Geometry2DUtil",
+        "path": "res://addons/curved_lines_2d/geometry_2d_util.gd"
+      },
+      {
+        "class_name": "GUIDebugUtil",
+        "path": "res://addons/curved_lines_2d/gui_debug_util.gd"
+      },
+      {
+        "class_name": "KeyframeButtonCapableInspectorFormBase",
+        "path": "res://addons/curved_lines_2d/keyframe_button_capable_inspector_form_base.gd"
+      },
+      {
+        "class_name": "Line2DGeneratorInspectorPlugin",
+        "path": "res://addons/curved_lines_2d/line_2d_generator_inspector_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/line_cap_editor_property.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/line_cap_toggle_buttons.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/line_joint_editor_property.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/line_joint_toggle_buttons.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/link_button_with_copy_hint.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/project_settings_tab.gd"
+      },
+      {
+        "class_name": "ScalableArc",
+        "path": "res://addons/curved_lines_2d/scalable_arc.gd"
+      },
+      {
+        "class_name": "ScalableArcList",
+        "path": "res://addons/curved_lines_2d/scalable_arc_list.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/scalable_vector_shapes_2d_dock.gd"
+      },
+      {
+        "class_name": "ScalableVectorShape2D",
+        "path": "res://addons/curved_lines_2d/scalable_vector_shape_2d.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/select_mode_container.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/set_global_position_popup_panel.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/stroke_extrusion_editor_property.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/stroke_extrusion_toggle_buttons.gd"
+      },
+      {
+        "class_name": "SVGImporter",
+        "path": "res://addons/curved_lines_2d/svg_importer.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/svg_import_tab.gd"
+      },
+      {
+        "class_name": "SVGTextureHelper",
+        "path": "res://addons/curved_lines_2d/svg_texture_helper.gd"
+      },
+      {
+        "class_name": "SVGXMLElement",
+        "path": "res://addons/curved_lines_2d/svg_xml_element.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/curved_lines_2d/svs_edit_buttons.gd"
+      },
+      {
+        "class_name": "SVSSceneExporter",
+        "path": "res://addons/curved_lines_2d/svs_scene_exporter.gd"
+      },
+      {
+        "class_name": "SVSVertexMerge2D",
+        "path": "res://addons/curved_lines_2d/svs_vertex_merge_2d.gd"
+      },
+      {
+        "class_name": "SyncedSVGRoot",
+        "path": "res://addons/curved_lines_2d/synced_svg_root.gd"
+      },
+      {
+        "class_name": "MoveLayerTool",
+        "path": "res://addons/curved_lines_2d/util/move_layer_tool.gd"
+      },
+      {
+        "class_name": "StyleCopier",
+        "path": "res://addons/curved_lines_2d/util/style_copier.gd"
+      },
+      {
+        "class_name": "SVSPropertySync",
+        "path": "res://addons/curved_lines_2d/util/svs_property_sync.gd"
+      },
+      {
+        "class_name": "SVSResourceUnlinker",
+        "path": "res://addons/curved_lines_2d/util/svs_resource_unlinker.gd"
+      },
+      {
+        "class_name": "DMCompilation",
+        "path": "res://addons/dialogue_manager/compiler/compilation.gd"
+      },
+      {
+        "class_name": "DMCompiledLine",
+        "path": "res://addons/dialogue_manager/compiler/compiled_line.gd"
+      },
+      {
+        "class_name": "DMCompiler",
+        "path": "res://addons/dialogue_manager/compiler/compiler.gd"
+      },
+      {
+        "class_name": "DMCompilerRegEx",
+        "path": "res://addons/dialogue_manager/compiler/compiler_regex.gd"
+      },
+      {
+        "class_name": "DMCompilerResult",
+        "path": "res://addons/dialogue_manager/compiler/compiler_result.gd"
+      },
+      {
+        "class_name": "DMExpressionParser",
+        "path": "res://addons/dialogue_manager/compiler/expression_parser.gd"
+      },
+      {
+        "class_name": "DMResolvedGotoData",
+        "path": "res://addons/dialogue_manager/compiler/resolved_goto_data.gd"
+      },
+      {
+        "class_name": "DMResolvedLineData",
+        "path": "res://addons/dialogue_manager/compiler/resolved_line_data.gd"
+      },
+      {
+        "class_name": "DMResolvedTagData",
+        "path": "res://addons/dialogue_manager/compiler/resolved_tag_data.gd"
+      },
+      {
+        "class_name": "DMTreeLine",
+        "path": "res://addons/dialogue_manager/compiler/tree_line.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/components/blank_slate.gd"
+      },
+      {
+        "class_name": "DMCodeEdit",
+        "path": "res://addons/dialogue_manager/components/code_edit.gd"
+      },
+      {
+        "class_name": "DMSyntaxHighlighter",
+        "path": "res://addons/dialogue_manager/components/code_edit_syntax_highlighter.gd"
+      },
+      {
+        "class_name": "DMCueEditorProperty",
+        "path": "res://addons/dialogue_manager/components/cue_editor_property/editor_property.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/components/cue_editor_property/editor_property_control.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/components/cue_list.gd"
+      },
+      {
+        "class_name": "DMDialogueEditorProperty",
+        "path": "res://addons/dialogue_manager/components/dialogue_editor_property/editor_property.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/components/dialogue_editor_property/editor_property_control.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/components/dialogue_editor_property/resource_button.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/components/download_update_panel.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/components/errors_panel.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/components/export_to_csv_dialog.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/components/files_list.gd"
+      },
+      {
+        "class_name": "DMPreviewGenerator",
+        "path": "res://addons/dialogue_manager/components/preview_generator.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/components/search_and_replace.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/components/update_button.gd"
+      },
+      {
+        "class_name": "DMConstants",
+        "path": "res://addons/dialogue_manager/constants.gd"
+      },
+      {
+        "class_name": "DMDebuggerPlugin",
+        "path": "res://addons/dialogue_manager/debugger_plugin.gd"
+      },
+      {
+        "class_name": "DialogueLine",
+        "path": "res://addons/dialogue_manager/dialogue_line.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/dialogue_manager.gd"
+      },
+      {
+        "class_name": "DMDialogueProcessor",
+        "path": "res://addons/dialogue_manager/dialogue_processor.gd"
+      },
+      {
+        "class_name": "DialogueResource",
+        "path": "res://addons/dialogue_manager/dialogue_resource.gd"
+      },
+      {
+        "class_name": "DialogueResponse",
+        "path": "res://addons/dialogue_manager/dialogue_response.gd"
+      },
+      {
+        "class_name": "DMTranslationParserPlugin",
+        "path": "res://addons/dialogue_manager/editor_translation_parser_plugin.gd"
+      },
+      {
+        "class_name": "DialogueManagerExampleBalloon",
+        "path": "res://addons/dialogue_manager/example_balloon/example_balloon.gd"
+      },
+      {
+        "class_name": "DMExportPlugin",
+        "path": "res://addons/dialogue_manager/export_plugin.gd"
+      },
+      {
+        "class_name": "DMImportPlugin",
+        "path": "res://addons/dialogue_manager/import_plugin.gd"
+      },
+      {
+        "class_name": "DMInspectorPlugin",
+        "path": "res://addons/dialogue_manager/inspector_plugin.gd"
+      },
+      {
+        "class_name": "DialogueActionable2D",
+        "path": "res://addons/dialogue_manager/nodes/actionable/dialogue_actionable_2d.gd"
+      },
+      {
+        "class_name": "DialogueActionable3D",
+        "path": "res://addons/dialogue_manager/nodes/actionable/dialogue_actionable_3d.gd"
+      },
+      {
+        "class_name": "DialogueStateContext",
+        "path": "res://addons/dialogue_manager/nodes/context/dialogue_state_context.gd"
+      },
+      {
+        "class_name": "DialogueLabel",
+        "path": "res://addons/dialogue_manager/nodes/dialogue_label/dialogue_label.gd"
+      },
+      {
+        "class_name": "DialogueMarker2D",
+        "path": "res://addons/dialogue_manager/nodes/marker/dialogue_marker_2d.gd"
+      },
+      {
+        "class_name": "DialogueMarker3D",
+        "path": "res://addons/dialogue_manager/nodes/marker/dialogue_marker_3d.gd"
+      },
+      {
+        "class_name": "DialogueResponsesMenu",
+        "path": "res://addons/dialogue_manager/nodes/responses_menu/dialogue_responses_menu.gd"
+      },
+      {
+        "class_name": "DMPlugin",
+        "path": "res://addons/dialogue_manager/plugin.gd"
+      },
+      {
+        "class_name": "DMSettings",
+        "path": "res://addons/dialogue_manager/settings.gd"
+      },
+      {
+        "class_name": "BaseDialogueTestScene",
+        "path": "res://addons/dialogue_manager/test_scene.gd"
+      },
+      {
+        "class_name": "DMBuiltins",
+        "path": "res://addons/dialogue_manager/utilities/builtins.gd"
+      },
+      {
+        "class_name": "DMCache",
+        "path": "res://addons/dialogue_manager/utilities/dialogue_cache.gd"
+      },
+      {
+        "class_name": "DMError",
+        "path": "res://addons/dialogue_manager/utilities/error.gd"
+      },
+      {
+        "class_name": "DMThemeValues",
+        "path": "res://addons/dialogue_manager/utilities/theme_values.gd"
+      },
+      {
+        "class_name": "DMTranslationUtilities",
+        "path": "res://addons/dialogue_manager/utilities/translations.gd"
+      },
+      {
+        "class_name": "DMWaiter",
+        "path": "res://addons/dialogue_manager/utilities/waiter.gd"
+      },
+      {
+        "class_name": "DMDebuggerView",
+        "path": "res://addons/dialogue_manager/views/debugger_view.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/views/find_in_dialogue_view.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/dialogue_manager/views/main_view.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/drag_and_drop/plugin.gd"
+      },
+      {
+        "class_name": "DropAction",
+        "path": "res://addons/drag_and_drop/resources/actions/drop_action.gd"
+      },
+      {
+        "class_name": "ActionEvict",
+        "path": "res://addons/drag_and_drop/resources/actions/evict_action.gd"
+      },
+      {
+        "class_name": "ActionRelocate",
+        "path": "res://addons/drag_and_drop/resources/actions/relocate_action.gd"
+      },
+      {
+        "class_name": "DraggableType",
+        "path": "res://addons/drag_and_drop/resources/draggable_types/draggable_type.gd"
+      },
+      {
+        "class_name": "DropBehavior",
+        "path": "res://addons/drag_and_drop/resources/drop_behaviors/drop_behavior_base.gd"
+      },
+      {
+        "class_name": "DropBehaviorRearrange",
+        "path": "res://addons/drag_and_drop/resources/drop_behaviors/drop_behavior_rearrange.gd"
+      },
+      {
+        "class_name": "DropBehaviorReject",
+        "path": "res://addons/drag_and_drop/resources/drop_behaviors/drop_behavior_reject.gd"
+      },
+      {
+        "class_name": "DropBehaviorReplace",
+        "path": "res://addons/drag_and_drop/resources/drop_behaviors/drop_behavior_replace.gd"
+      },
+      {
+        "class_name": "DropPlan",
+        "path": "res://addons/drag_and_drop/resources/drop_plan.gd"
+      },
+      {
+        "class_name": "Draggable",
+        "path": "res://addons/drag_and_drop/scripts/draggable.gd"
+      },
+      {
+        "class_name": "DropUtils",
+        "path": "res://addons/drag_and_drop/scripts/drop_utils.gd"
+      },
+      {
+        "class_name": "DropZone",
+        "path": "res://addons/drag_and_drop/scripts/drop_zone.gd"
+      },
+      {
+        "class_name": "DropTargetResult",
+        "path": "res://addons/drag_and_drop/scripts/refcounted/drop_target_result.gd"
+      },
+      {
+        "class_name": "SnappingSpot",
+        "path": "res://addons/drag_and_drop/scripts/refcounted/snapping_spot.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/fightengine/assets/gdquest_gobot/gobot_skin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/fightengine/examples/2d/fighter_anim_node/dummy.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/fightengine/examples/2d/fighter_anim_node/figher.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/fightengine/examples/2d/platformer/player.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/fightengine/examples/2d/platformer/toggle_debug.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/fightengine/examples/3d/3d_demo/fighter_3d.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/fightengine/fightengine.gd"
+      },
+      {
+        "class_name": "CollisionBox2D",
+        "path": "res://addons/fightengine/scripts/2d/collision_box_2d.gd"
+      },
+      {
+        "class_name": "HitBox2D",
+        "path": "res://addons/fightengine/scripts/2d/hit_box_2d.gd"
+      },
+      {
+        "class_name": "HurtBox2D",
+        "path": "res://addons/fightengine/scripts/2d/hurt_box_2d.gd"
+      },
+      {
+        "class_name": "CollisionBox3D",
+        "path": "res://addons/fightengine/scripts/3d/collision_box_3d.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/fightengine/scripts/3d/collision_box_3d_gizmo.gd"
+      },
+      {
+        "class_name": "HitBox3D",
+        "path": "res://addons/fightengine/scripts/3d/hit_box_3d.gd"
+      },
+      {
+        "class_name": "HurtBox3D",
+        "path": "res://addons/fightengine/scripts/3d/hurt_box_3d.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/fightengine/scripts/tick_manager.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/GD-Sync.gd"
+      },
+      {
+        "class_name": "MultiplayerClient",
+        "path": "res://addons/GD-Sync/MultiplayerClient.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/Scripts/ConnectionController.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/Scripts/DataController.gd"
+      },
+      {
+        "class_name": "ENUMS",
+        "path": "res://addons/GD-Sync/Scripts/Enums/Enums.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/Scripts/HTTPSController.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/Scripts/InterestManager.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/Scripts/KeyStore.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/Scripts/LocalServer.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/Scripts/Logger.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/Scripts/MatchmakingController.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/Scripts/NodeTracker.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/Scripts/RequestProcessor.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/Scripts/ServerSwitchController.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/Scripts/SessionController.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/Scripts/Steam.gd"
+      },
+      {
+        "class_name": "InterestObject",
+        "path": "res://addons/GD-Sync/Scripts/Types/InterestObject.gd"
+      },
+      {
+        "class_name": "InterestViewer",
+        "path": "res://addons/GD-Sync/Scripts/Types/InterestViewer.gd"
+      },
+      {
+        "class_name": "MatchmakingRequest",
+        "path": "res://addons/GD-Sync/Scripts/Types/MatchmakingRequest.gd"
+      },
+      {
+        "class_name": "NodeInstantiator",
+        "path": "res://addons/GD-Sync/Scripts/Types/NodeInstantiator.gd"
+      },
+      {
+        "class_name": "PropertySynchronizer",
+        "path": "res://addons/GD-Sync/Scripts/Types/PropertySynchronizer.gd"
+      },
+      {
+        "class_name": "SynchronizedAnimatedSprite2D",
+        "path": "res://addons/GD-Sync/Scripts/Types/SynchronizedAnimatedSprite2D.gd"
+      },
+      {
+        "class_name": "SynchronizedAnimationPlayer",
+        "path": "res://addons/GD-Sync/Scripts/Types/SynchronizedAnimationPlayer.gd"
+      },
+      {
+        "class_name": "SynchronizedAnimationTree",
+        "path": "res://addons/GD-Sync/Scripts/Types/SynchronizedAnimationTree.gd"
+      },
+      {
+        "class_name": "SynchronizedAudioStreamPlayer",
+        "path": "res://addons/GD-Sync/Scripts/Types/SynchronizedAudioStreamPlayer.gd"
+      },
+      {
+        "class_name": "SynchronizedAudioStreamPlayer2D",
+        "path": "res://addons/GD-Sync/Scripts/Types/SynchronizedAudioStreamPlayer2D.gd"
+      },
+      {
+        "class_name": "SynchronizedAudioStreamPlayer3D",
+        "path": "res://addons/GD-Sync/Scripts/Types/SynchronizedAudioStreamPlayer3D.gd"
+      },
+      {
+        "class_name": "SynchronizedGPUParticles2D",
+        "path": "res://addons/GD-Sync/Scripts/Types/SynchronizedGPUParticles2D.gd"
+      },
+      {
+        "class_name": "SynchronizedGPUParticles3D",
+        "path": "res://addons/GD-Sync/Scripts/Types/SynchronizedGPUParticles3D.gd"
+      },
+      {
+        "class_name": "SynchronizedRigidBody2D",
+        "path": "res://addons/GD-Sync/Scripts/Types/SynchronizedRigidBody2D.gd"
+      },
+      {
+        "class_name": "SynchronizedRigidBody3D",
+        "path": "res://addons/GD-Sync/Scripts/Types/SynchronizedRigidBody3D.gd"
+      },
+      {
+        "class_name": "VoiceChat",
+        "path": "res://addons/GD-Sync/Scripts/Types/VoiceChat.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/UI/ConfigMenu/ConfigMenu.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/UI/Messages/ToastMessage.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/UI/Profiler/GDSyncProfiler.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/UI/Profiler/ProfilerConnectionMonitor.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/UI/Profiler/ProfilerDetailsBar.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/UI/Profiler/ProfilerDetailsDisplay.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/UI/Profiler/ProfilerGraph.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GD-Sync/UI/Profiler/ProfilerLabel.gd"
+      },
+      {
+        "class_name": "Updater",
+        "path": "res://addons/GD-Sync/Updater.gd"
+      },
+      {
+        "class_name": "QuickSetupWindow",
+        "path": "res://addons/GDQuest_GDScript_formatter/editor/quick_setup_window.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GDQuest_GDScript_formatter/install_and_update.gd"
+      },
+      {
+        "class_name": "FormatterMenu",
+        "path": "res://addons/GDQuest_GDScript_formatter/menu.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/GDQuest_GDScript_formatter/plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/bin/GdUnitCmdTool.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/bin/GdUnitCopyLog.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/plugin.gd"
+      },
+      {
+        "class_name": "CallBackValueProvider",
+        "path": "res://addons/gdUnit4/src/asserts/CallBackValueProvider.gd"
+      },
+      {
+        "class_name": "DefaultValueProvider",
+        "path": "res://addons/gdUnit4/src/asserts/DefaultValueProvider.gd"
+      },
+      {
+        "class_name": "GdAssertMessages",
+        "path": "res://addons/gdUnit4/src/asserts/GdAssertMessages.gd"
+      },
+      {
+        "class_name": "GdAssertReports",
+        "path": "res://addons/gdUnit4/src/asserts/GdAssertReports.gd"
+      },
+      {
+        "class_name": "GdUnitArrayAssertImpl",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitArrayAssertImpl.gd"
+      },
+      {
+        "class_name": "GdUnitAssertImpl",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitAssertImpl.gd"
+      },
+      {
+        "class_name": "GdUnitAssertions",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitAssertions.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitBoolAssertImpl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitDictionaryAssertImpl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitFailureAssertImpl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitFileAssertImpl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitFloatAssertImpl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitFuncAssertImpl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitGodotErrorAssertImpl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitIntAssertImpl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitObjectAssertImpl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitResultAssertImpl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitSignalAssertImpl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitStringAssertImpl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/asserts/GdUnitVectorAssertImpl.gd"
+      },
+      {
+        "class_name": "ValueProvider",
+        "path": "res://addons/gdUnit4/src/asserts/ValueProvider.gd"
+      },
+      {
+        "class_name": "CmdArgumentParser",
+        "path": "res://addons/gdUnit4/src/cmd/CmdArgumentParser.gd"
+      },
+      {
+        "class_name": "CmdCommand",
+        "path": "res://addons/gdUnit4/src/cmd/CmdCommand.gd"
+      },
+      {
+        "class_name": "CmdCommandHandler",
+        "path": "res://addons/gdUnit4/src/cmd/CmdCommandHandler.gd"
+      },
+      {
+        "class_name": "CmdOption",
+        "path": "res://addons/gdUnit4/src/cmd/CmdOption.gd"
+      },
+      {
+        "class_name": "CmdOptions",
+        "path": "res://addons/gdUnit4/src/cmd/CmdOptions.gd"
+      },
+      {
+        "class_name": "Comparator",
+        "path": "res://addons/gdUnit4/src/Comparator.gd"
+      },
+      {
+        "class_name": "TestCaseAttribute",
+        "path": "res://addons/gdUnit4/src/core/attributes/TestCaseAttribute.gd"
+      },
+      {
+        "class_name": "GdUnitBaseCommand",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitBaseCommand.gd"
+      },
+      {
+        "class_name": "GdUnitCommandFileSystem",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandFileSystem.gd"
+      },
+      {
+        "class_name": "GdUnitCommandFileSystemDebugTests",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandFileSystemDebugTests.gd"
+      },
+      {
+        "class_name": "GdUnitCommandFileSystemRunTests",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandFileSystemRunTests.gd"
+      },
+      {
+        "class_name": "GdUnitCommandHandler",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandHandler.gd"
+      },
+      {
+        "class_name": "GdUnitCommandInspectorDebugTests",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandInspectorDebugTests.gd"
+      },
+      {
+        "class_name": "GdUnitCommandInspectorRerunTestsUntilFailure",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandInspectorRerunTestsUntilFailure.gd"
+      },
+      {
+        "class_name": "GdUnitCommandInspectorRunTests",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandInspectorRunTests.gd"
+      },
+      {
+        "class_name": "GdUnitCommandInspectorTreeCollapse",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandInspectorTreeCollapse.gd"
+      },
+      {
+        "class_name": "GdUnitCommandInspectorTreeExpand",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandInspectorTreeExpand.gd"
+      },
+      {
+        "class_name": "GdUnitCommandRunTestsOverall",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandRunTestsOverall.gd"
+      },
+      {
+        "class_name": "GdUnitCommandScriptEditor",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandScriptEditor.gd"
+      },
+      {
+        "class_name": "GdUnitCommandScriptEditorCreateTest",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandScriptEditorCreateTest.gd"
+      },
+      {
+        "class_name": "GdUnitCommandScriptEditorDebugTests",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandScriptEditorDebugTests.gd"
+      },
+      {
+        "class_name": "GdUnitCommandScriptEditorRunTests",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandScriptEditorRunTests.gd"
+      },
+      {
+        "class_name": "GdUnitCommandStopTestSession",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandStopTestSession.gd"
+      },
+      {
+        "class_name": "GdUnitCommandTestSession",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitCommandTestSession.gd"
+      },
+      {
+        "class_name": "GdUnitShortcut",
+        "path": "res://addons/gdUnit4/src/core/command/GdUnitShortcut.gd"
+      },
+      {
+        "class_name": "GdUnitGUID",
+        "path": "res://addons/gdUnit4/src/core/discovery/GdUnitGUID.gd"
+      },
+      {
+        "class_name": "GdUnitTestCase",
+        "path": "res://addons/gdUnit4/src/core/discovery/GdUnitTestCase.gd"
+      },
+      {
+        "class_name": "GdUnitTestDiscoverer",
+        "path": "res://addons/gdUnit4/src/core/discovery/GdUnitTestDiscoverer.gd"
+      },
+      {
+        "class_name": "GdUnitTestDiscoverGuard",
+        "path": "res://addons/gdUnit4/src/core/discovery/GdUnitTestDiscoverGuard.gd"
+      },
+      {
+        "class_name": "GdUnitTestDiscoverSink",
+        "path": "res://addons/gdUnit4/src/core/discovery/GdUnitTestDiscoverSink.gd"
+      },
+      {
+        "class_name": "GdUnitEvent",
+        "path": "res://addons/gdUnit4/src/core/event/GdUnitEvent.gd"
+      },
+      {
+        "class_name": "GdUnitInit",
+        "path": "res://addons/gdUnit4/src/core/event/GdUnitEventInit.gd"
+      },
+      {
+        "class_name": "GdUnitStop",
+        "path": "res://addons/gdUnit4/src/core/event/GdUnitEventStop.gd"
+      },
+      {
+        "class_name": "GdUnitEventTestDiscoverEnd",
+        "path": "res://addons/gdUnit4/src/core/event/GdUnitEventTestDiscoverEnd.gd"
+      },
+      {
+        "class_name": "GdUnitEventTestDiscoverStart",
+        "path": "res://addons/gdUnit4/src/core/event/GdUnitEventTestDiscoverStart.gd"
+      },
+      {
+        "class_name": "GdUnitSessionClose",
+        "path": "res://addons/gdUnit4/src/core/event/GdUnitSessionClose.gd"
+      },
+      {
+        "class_name": "GdUnitSessionStart",
+        "path": "res://addons/gdUnit4/src/core/event/GdUnitSessionStart.gd"
+      },
+      {
+        "class_name": "GdUnitExecutionContext",
+        "path": "res://addons/gdUnit4/src/core/execution/GdUnitExecutionContext.gd"
+      },
+      {
+        "class_name": "GdUnitMemoryObserver",
+        "path": "res://addons/gdUnit4/src/core/execution/GdUnitMemoryObserver.gd"
+      },
+      {
+        "class_name": "GdUnitProjectSettingsSnapshot",
+        "path": "res://addons/gdUnit4/src/core/execution/GdUnitProjectSettingsSnapshot.gd"
+      },
+      {
+        "class_name": "GdUnitTestReportCollector",
+        "path": "res://addons/gdUnit4/src/core/execution/GdUnitTestReportCollector.gd"
+      },
+      {
+        "class_name": "GdUnitTestSuiteExecutor",
+        "path": "res://addons/gdUnit4/src/core/execution/GdUnitTestSuiteExecutor.gd"
+      },
+      {
+        "class_name": "GdUnitTestCaseFuzzedExecutionStage",
+        "path": "res://addons/gdUnit4/src/core/execution/stages/fuzzed/GdUnitTestCaseFuzzedExecutionStage.gd"
+      },
+      {
+        "class_name": "GdUnitTestCaseFuzzedTestStage",
+        "path": "res://addons/gdUnit4/src/core/execution/stages/fuzzed/GdUnitTestCaseFuzzedTestStage.gd"
+      },
+      {
+        "class_name": "GdUnitTestCaseAfterStage",
+        "path": "res://addons/gdUnit4/src/core/execution/stages/GdUnitTestCaseAfterStage.gd"
+      },
+      {
+        "class_name": "GdUnitTestCaseBeforeStage",
+        "path": "res://addons/gdUnit4/src/core/execution/stages/GdUnitTestCaseBeforeStage.gd"
+      },
+      {
+        "class_name": "GdUnitTestCaseExecutionStage",
+        "path": "res://addons/gdUnit4/src/core/execution/stages/GdUnitTestCaseExecutionStage.gd"
+      },
+      {
+        "class_name": "GdUnitTestSuiteAfterStage",
+        "path": "res://addons/gdUnit4/src/core/execution/stages/GdUnitTestSuiteAfterStage.gd"
+      },
+      {
+        "class_name": "GdUnitTestSuiteBeforeStage",
+        "path": "res://addons/gdUnit4/src/core/execution/stages/GdUnitTestSuiteBeforeStage.gd"
+      },
+      {
+        "class_name": "GdUnitTestSuiteExecutionStage",
+        "path": "res://addons/gdUnit4/src/core/execution/stages/GdUnitTestSuiteExecutionStage.gd"
+      },
+      {
+        "class_name": "IGdUnitExecutionStage",
+        "path": "res://addons/gdUnit4/src/core/execution/stages/IGdUnitExecutionStage.gd"
+      },
+      {
+        "class_name": "GdUnitTestCaseSingleExecutionStage",
+        "path": "res://addons/gdUnit4/src/core/execution/stages/single/GdUnitTestCaseSingleExecutionStage.gd"
+      },
+      {
+        "class_name": "GdUnitTestCaseSingleTestStage",
+        "path": "res://addons/gdUnit4/src/core/execution/stages/single/GdUnitTestCaseSingleTestStage.gd"
+      },
+      {
+        "class_name": "GdArrayTools",
+        "path": "res://addons/gdUnit4/src/core/GdArrayTools.gd"
+      },
+      {
+        "class_name": "GdDiffTool",
+        "path": "res://addons/gdUnit4/src/core/GdDiffTool.gd"
+      },
+      {
+        "class_name": "GdObjects",
+        "path": "res://addons/gdUnit4/src/core/GdObjects.gd"
+      },
+      {
+        "class_name": "GdUnit4Version",
+        "path": "res://addons/gdUnit4/src/core/GdUnit4Version.gd"
+      },
+      {
+        "class_name": "GdUnitFileAccess",
+        "path": "res://addons/gdUnit4/src/core/GdUnitFileAccess.gd"
+      },
+      {
+        "class_name": "GdUnitProperty",
+        "path": "res://addons/gdUnit4/src/core/GdUnitProperty.gd"
+      },
+      {
+        "class_name": "GdUnitResult",
+        "path": "res://addons/gdUnit4/src/core/GdUnitResult.gd"
+      },
+      {
+        "class_name": "GdUnitRunnerConfig",
+        "path": "res://addons/gdUnit4/src/core/GdUnitRunnerConfig.gd"
+      },
+      {
+        "class_name": "GdUnitSceneRunnerImpl",
+        "path": "res://addons/gdUnit4/src/core/GdUnitSceneRunnerImpl.gd"
+      },
+      {
+        "class_name": "GdUnitSettings",
+        "path": "res://addons/gdUnit4/src/core/GdUnitSettings.gd"
+      },
+      {
+        "class_name": "GdUnitSignalAwaiter",
+        "path": "res://addons/gdUnit4/src/core/GdUnitSignalAwaiter.gd"
+      },
+      {
+        "class_name": "GdUnitSignalCollector",
+        "path": "res://addons/gdUnit4/src/core/GdUnitSignalCollector.gd"
+      },
+      {
+        "class_name": "GdUnitSignals",
+        "path": "res://addons/gdUnit4/src/core/GdUnitSignals.gd"
+      },
+      {
+        "class_name": "GdUnitSingleton",
+        "path": "res://addons/gdUnit4/src/core/GdUnitSingleton.gd"
+      },
+      {
+        "class_name": "GdUnitStackTrace",
+        "path": "res://addons/gdUnit4/src/core/GdUnitStackTrace.gd"
+      },
+      {
+        "class_name": "GdUnitStackTraceElement",
+        "path": "res://addons/gdUnit4/src/core/GdUnitStackTraceElement.gd"
+      },
+      {
+        "class_name": "GdUnitTestResourceLoader",
+        "path": "res://addons/gdUnit4/src/core/GdUnitTestResourceLoader.gd"
+      },
+      {
+        "class_name": "GdUnitTestSuiteBuilder",
+        "path": "res://addons/gdUnit4/src/core/GdUnitTestSuiteBuilder.gd"
+      },
+      {
+        "class_name": "GdUnitTestSuiteScanner",
+        "path": "res://addons/gdUnit4/src/core/GdUnitTestSuiteScanner.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/core/GdUnitTools.gd"
+      },
+      {
+        "class_name": "GodotVersionFixures",
+        "path": "res://addons/gdUnit4/src/core/GodotVersionFixures.gd"
+      },
+      {
+        "class_name": "GdUnitBaseReporterTestSessionHook",
+        "path": "res://addons/gdUnit4/src/core/hooks/GdUnitBaseReporterTestSessionHook.gd"
+      },
+      {
+        "class_name": "GdUnitHtmlReporterTestSessionHook",
+        "path": "res://addons/gdUnit4/src/core/hooks/GdUnitHtmlReporterTestSessionHook.gd"
+      },
+      {
+        "class_name": "GdUnitTestSessionHook",
+        "path": "res://addons/gdUnit4/src/core/hooks/GdUnitTestSessionHook.gd"
+      },
+      {
+        "class_name": "GdUnitTestSessionHookService",
+        "path": "res://addons/gdUnit4/src/core/hooks/GdUnitTestSessionHookService.gd"
+      },
+      {
+        "class_name": "GdUnitXMLReporterTestSessionHook",
+        "path": "res://addons/gdUnit4/src/core/hooks/GdUnitXMLReporterTestSessionHook.gd"
+      },
+      {
+        "class_name": "LocalTime",
+        "path": "res://addons/gdUnit4/src/core/LocalTime.gd"
+      },
+      {
+        "class_name": "GdBuiltinConstants",
+        "path": "res://addons/gdUnit4/src/core/parameters/GdBuiltinConstants.gd"
+      },
+      {
+        "class_name": "GdCallableParameterSetResolver",
+        "path": "res://addons/gdUnit4/src/core/parameters/GdCallableParameterSetResolver.gd"
+      },
+      {
+        "class_name": "GdInlineParameterSetResolver",
+        "path": "res://addons/gdUnit4/src/core/parameters/GdInlineParameterSetResolver.gd"
+      },
+      {
+        "class_name": "GdParameterSetResolver",
+        "path": "res://addons/gdUnit4/src/core/parameters/GdParameterSetResolver.gd"
+      },
+      {
+        "class_name": "GdParameterSetResolverFactory",
+        "path": "res://addons/gdUnit4/src/core/parameters/GdParameterSetResolverFactory.gd"
+      },
+      {
+        "class_name": "GdPropertyParameterSetResolver",
+        "path": "res://addons/gdUnit4/src/core/parameters/GdPropertyParameterSetResolver.gd"
+      },
+      {
+        "class_name": "GdClassDescriptor",
+        "path": "res://addons/gdUnit4/src/core/parse/GdClassDescriptor.gd"
+      },
+      {
+        "class_name": "GdDefaultValueDecoder",
+        "path": "res://addons/gdUnit4/src/core/parse/GdDefaultValueDecoder.gd"
+      },
+      {
+        "class_name": "GdFunctionArgument",
+        "path": "res://addons/gdUnit4/src/core/parse/GdFunctionArgument.gd"
+      },
+      {
+        "class_name": "GdFunctionDescriptor",
+        "path": "res://addons/gdUnit4/src/core/parse/GdFunctionDescriptor.gd"
+      },
+      {
+        "class_name": "GdScriptParser",
+        "path": "res://addons/gdUnit4/src/core/parse/GdScriptParser.gd"
+      },
+      {
+        "class_name": "GdUnitExpressionRunner",
+        "path": "res://addons/gdUnit4/src/core/parse/GdUnitExpressionRunner.gd"
+      },
+      {
+        "class_name": "GdUnitError",
+        "path": "res://addons/gdUnit4/src/core/report/GdUnitError.gd"
+      },
+      {
+        "class_name": "GdUnitReport",
+        "path": "res://addons/gdUnit4/src/core/report/GdUnitReport.gd"
+      },
+      {
+        "class_name": "GdUnitScriptErrorCollector",
+        "path": "res://addons/gdUnit4/src/core/runners/GdUnitScriptErrorCollector.gd"
+      },
+      {
+        "class_name": "GdUnitTestCIRunner",
+        "path": "res://addons/gdUnit4/src/core/runners/GdUnitTestCIRunner.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/core/runners/GdUnitTestRunner.gd"
+      },
+      {
+        "class_name": "GdUnitTestSession",
+        "path": "res://addons/gdUnit4/src/core/runners/GdUnitTestSession.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/core/runners/GdUnitTestSessionRunner.gd"
+      },
+      {
+        "class_name": "GdUnitTestSuiteDefaultTemplate",
+        "path": "res://addons/gdUnit4/src/core/templates/test_suite/GdUnitTestSuiteDefaultTemplate.gd"
+      },
+      {
+        "class_name": "GdUnitTestSuiteTemplate",
+        "path": "res://addons/gdUnit4/src/core/templates/test_suite/GdUnitTestSuiteTemplate.gd"
+      },
+      {
+        "class_name": "GdUnitThreadContext",
+        "path": "res://addons/gdUnit4/src/core/thread/GdUnitThreadContext.gd"
+      },
+      {
+        "class_name": "GdUnitThreadManager",
+        "path": "res://addons/gdUnit4/src/core/thread/GdUnitThreadManager.gd"
+      },
+      {
+        "class_name": "GdUnitCSIMessageWriter",
+        "path": "res://addons/gdUnit4/src/core/writers/GdUnitCSIMessageWriter.gd"
+      },
+      {
+        "class_name": "GdUnitMessageWriter",
+        "path": "res://addons/gdUnit4/src/core/writers/GdUnitMessageWriter.gd"
+      },
+      {
+        "class_name": "GdUnitRichTextMessageWriter",
+        "path": "res://addons/gdUnit4/src/core/writers/GdUnitRichTextMessageWriter.gd"
+      },
+      {
+        "class_name": "_TestCase",
+        "path": "res://addons/gdUnit4/src/core/_TestCase.gd"
+      },
+      {
+        "class_name": "GdUnit4CSharpApiLoader",
+        "path": "res://addons/gdUnit4/src/dotnet/GdUnit4CSharpApiLoader.gd"
+      },
+      {
+        "class_name": "CallableDoubler",
+        "path": "res://addons/gdUnit4/src/doubler/CallableDoubler.gd"
+      },
+      {
+        "class_name": "GdFunctionDoubler",
+        "path": "res://addons/gdUnit4/src/doubler/GdFunctionDoubler.gd"
+      },
+      {
+        "class_name": "GdUnitClassDoubler",
+        "path": "res://addons/gdUnit4/src/doubler/GdUnitClassDoubler.gd"
+      },
+      {
+        "class_name": "GdUnitFunctionDoublerBuilder",
+        "path": "res://addons/gdUnit4/src/doubler/GdUnitFunctionDoublerBuilder.gd"
+      },
+      {
+        "class_name": "GdUnitMockFunctionDoubler",
+        "path": "res://addons/gdUnit4/src/doubler/GdUnitMockFunctionDoubler.gd"
+      },
+      {
+        "class_name": "GdUnitObjectInteractions",
+        "path": "res://addons/gdUnit4/src/doubler/GdUnitObjectInteractions.gd"
+      },
+      {
+        "class_name": "GdUnitObjectInteractionsVerifier",
+        "path": "res://addons/gdUnit4/src/doubler/GdUnitObjectInteractionsVerifier.gd"
+      },
+      {
+        "class_name": "GdUnitSpyFunctionDoubler",
+        "path": "res://addons/gdUnit4/src/doubler/GdUnitSpyFunctionDoubler.gd"
+      },
+      {
+        "class_name": "GdUnitFuncValueExtractor",
+        "path": "res://addons/gdUnit4/src/extractors/GdUnitFuncValueExtractor.gd"
+      },
+      {
+        "class_name": "BoolFuzzer",
+        "path": "res://addons/gdUnit4/src/fuzzers/BoolFuzzer.gd"
+      },
+      {
+        "class_name": "FloatFuzzer",
+        "path": "res://addons/gdUnit4/src/fuzzers/FloatFuzzer.gd"
+      },
+      {
+        "class_name": "Fuzzer",
+        "path": "res://addons/gdUnit4/src/fuzzers/Fuzzer.gd"
+      },
+      {
+        "class_name": "IntFuzzer",
+        "path": "res://addons/gdUnit4/src/fuzzers/IntFuzzer.gd"
+      },
+      {
+        "class_name": "StringFuzzer",
+        "path": "res://addons/gdUnit4/src/fuzzers/StringFuzzer.gd"
+      },
+      {
+        "class_name": "Vector2Fuzzer",
+        "path": "res://addons/gdUnit4/src/fuzzers/Vector2Fuzzer.gd"
+      },
+      {
+        "class_name": "Vector3Fuzzer",
+        "path": "res://addons/gdUnit4/src/fuzzers/Vector3Fuzzer.gd"
+      },
+      {
+        "class_name": "Fuzzers",
+        "path": "res://addons/gdUnit4/src/Fuzzers.gd"
+      },
+      {
+        "class_name": "GdUnitArrayAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitArrayAssert.gd"
+      },
+      {
+        "class_name": "GdUnitAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitAssert.gd"
+      },
+      {
+        "class_name": "GdUnitAwaiter",
+        "path": "res://addons/gdUnit4/src/GdUnitAwaiter.gd"
+      },
+      {
+        "class_name": "GdUnitBoolAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitBoolAssert.gd"
+      },
+      {
+        "class_name": "GdUnitConstants",
+        "path": "res://addons/gdUnit4/src/GdUnitConstants.gd"
+      },
+      {
+        "class_name": "GdUnitDictionaryAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitDictionaryAssert.gd"
+      },
+      {
+        "class_name": "GdUnitFailureAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitFailureAssert.gd"
+      },
+      {
+        "class_name": "GdUnitFileAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitFileAssert.gd"
+      },
+      {
+        "class_name": "GdUnitFloatAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitFloatAssert.gd"
+      },
+      {
+        "class_name": "GdUnitFuncAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitFuncAssert.gd"
+      },
+      {
+        "class_name": "GdUnitGodotErrorAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitGodotErrorAssert.gd"
+      },
+      {
+        "class_name": "GdUnitIntAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitIntAssert.gd"
+      },
+      {
+        "class_name": "GdUnitObjectAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitObjectAssert.gd"
+      },
+      {
+        "class_name": "GdUnitResultAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitResultAssert.gd"
+      },
+      {
+        "class_name": "GdUnitSceneRunner",
+        "path": "res://addons/gdUnit4/src/GdUnitSceneRunner.gd"
+      },
+      {
+        "class_name": "GdUnitSignalAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitSignalAssert.gd"
+      },
+      {
+        "class_name": "GdUnitStringAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitStringAssert.gd"
+      },
+      {
+        "class_name": "GdUnitTestSuite",
+        "path": "res://addons/gdUnit4/src/GdUnitTestSuite.gd"
+      },
+      {
+        "class_name": "GdUnitTuple",
+        "path": "res://addons/gdUnit4/src/GdUnitTuple.gd"
+      },
+      {
+        "class_name": "GdUnitValueExtractor",
+        "path": "res://addons/gdUnit4/src/GdUnitValueExtractor.gd"
+      },
+      {
+        "class_name": "GdUnitVectorAssert",
+        "path": "res://addons/gdUnit4/src/GdUnitVectorAssert.gd"
+      },
+      {
+        "class_name": "AnyArgumentMatcher",
+        "path": "res://addons/gdUnit4/src/matchers/AnyArgumentMatcher.gd"
+      },
+      {
+        "class_name": "AnyBuildInTypeArgumentMatcher",
+        "path": "res://addons/gdUnit4/src/matchers/AnyBuildInTypeArgumentMatcher.gd"
+      },
+      {
+        "class_name": "AnyClazzArgumentMatcher",
+        "path": "res://addons/gdUnit4/src/matchers/AnyClazzArgumentMatcher.gd"
+      },
+      {
+        "class_name": "ChainedArgumentMatcher",
+        "path": "res://addons/gdUnit4/src/matchers/ChainedArgumentMatcher.gd"
+      },
+      {
+        "class_name": "EqualsArgumentMatcher",
+        "path": "res://addons/gdUnit4/src/matchers/EqualsArgumentMatcher.gd"
+      },
+      {
+        "class_name": "GdUnitArgumentMatcher",
+        "path": "res://addons/gdUnit4/src/matchers/GdUnitArgumentMatcher.gd"
+      },
+      {
+        "class_name": "GdUnitArgumentMatchers",
+        "path": "res://addons/gdUnit4/src/matchers/GdUnitArgumentMatchers.gd"
+      },
+      {
+        "class_name": "GdUnitMock",
+        "path": "res://addons/gdUnit4/src/mocking/GdUnitMock.gd"
+      },
+      {
+        "class_name": "GdUnitMockBuilder",
+        "path": "res://addons/gdUnit4/src/mocking/GdUnitMockBuilder.gd"
+      },
+      {
+        "class_name": "DoubledMockClassSourceClassName",
+        "path": "res://addons/gdUnit4/src/mocking/GdUnitMockImpl.gd"
+      },
+      {
+        "class_name": "ErrorLogEntry",
+        "path": "res://addons/gdUnit4/src/monitor/ErrorLogEntry.gd"
+      },
+      {
+        "class_name": "GdUnitMonitor",
+        "path": "res://addons/gdUnit4/src/monitor/GdUnitMonitor.gd"
+      },
+      {
+        "class_name": "GdUnitOrphanNodeInfo",
+        "path": "res://addons/gdUnit4/src/monitor/GdUnitOrphanNodeInfo.gd"
+      },
+      {
+        "class_name": "GdUnitOrphanNodesMonitor",
+        "path": "res://addons/gdUnit4/src/monitor/GdUnitOrphanNodesMonitor.gd"
+      },
+      {
+        "class_name": "GodotGdErrorMonitor",
+        "path": "res://addons/gdUnit4/src/monitor/GodotGdErrorMonitor.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/network/GdUnitServer.gd"
+      },
+      {
+        "class_name": "GdUnitServerConstants",
+        "path": "res://addons/gdUnit4/src/network/GdUnitServerConstants.gd"
+      },
+      {
+        "class_name": "GdUnitTask",
+        "path": "res://addons/gdUnit4/src/network/GdUnitTask.gd"
+      },
+      {
+        "class_name": "GdUnitTcpClient",
+        "path": "res://addons/gdUnit4/src/network/GdUnitTcpClient.gd"
+      },
+      {
+        "class_name": "GdUnitTcpNode",
+        "path": "res://addons/gdUnit4/src/network/GdUnitTcpNode.gd"
+      },
+      {
+        "class_name": "GdUnitTcpServer",
+        "path": "res://addons/gdUnit4/src/network/GdUnitTcpServer.gd"
+      },
+      {
+        "class_name": "RPC",
+        "path": "res://addons/gdUnit4/src/network/rpc/RPC.gd"
+      },
+      {
+        "class_name": "RPCClientConnect",
+        "path": "res://addons/gdUnit4/src/network/rpc/RPCClientConnect.gd"
+      },
+      {
+        "class_name": "RPCClientDisconnect",
+        "path": "res://addons/gdUnit4/src/network/rpc/RPCClientDisconnect.gd"
+      },
+      {
+        "class_name": "RPCGdUnitEvent",
+        "path": "res://addons/gdUnit4/src/network/rpc/RPCGdUnitEvent.gd"
+      },
+      {
+        "class_name": "RPCMessage",
+        "path": "res://addons/gdUnit4/src/network/rpc/RPCMessage.gd"
+      },
+      {
+        "class_name": "GdUnitConsoleTestReporter",
+        "path": "res://addons/gdUnit4/src/reporters/console/GdUnitConsoleTestReporter.gd"
+      },
+      {
+        "class_name": "GdUnitReportSummary",
+        "path": "res://addons/gdUnit4/src/reporters/GdUnitReportSummary.gd"
+      },
+      {
+        "class_name": "GdUnitReportWriter",
+        "path": "res://addons/gdUnit4/src/reporters/GdUnitReportWriter.gd"
+      },
+      {
+        "class_name": "GdUnitTestCaseReport",
+        "path": "res://addons/gdUnit4/src/reporters/GdUnitTestCaseReport.gd"
+      },
+      {
+        "class_name": "GdUnitTestReporter",
+        "path": "res://addons/gdUnit4/src/reporters/GdUnitTestReporter.gd"
+      },
+      {
+        "class_name": "GdUnitTestSuiteReport",
+        "path": "res://addons/gdUnit4/src/reporters/GdUnitTestSuiteReport.gd"
+      },
+      {
+        "class_name": "GdUnitByPathReport",
+        "path": "res://addons/gdUnit4/src/reporters/html/GdUnitByPathReport.gd"
+      },
+      {
+        "class_name": "GdUnitHtmlEncoder",
+        "path": "res://addons/gdUnit4/src/reporters/html/GdUnitHtmlEncoder.gd"
+      },
+      {
+        "class_name": "GdUnitHtmlPatterns",
+        "path": "res://addons/gdUnit4/src/reporters/html/GdUnitHtmlPatterns.gd"
+      },
+      {
+        "class_name": "GdUnitHtmlReportWriter",
+        "path": "res://addons/gdUnit4/src/reporters/html/GdUnitHtmlReportWriter.gd"
+      },
+      {
+        "class_name": "JUnitXmlReportWriter",
+        "path": "res://addons/gdUnit4/src/reporters/xml/JUnitXmlReportWriter.gd"
+      },
+      {
+        "class_name": "XmlElement",
+        "path": "res://addons/gdUnit4/src/reporters/xml/XmlElement.gd"
+      },
+      {
+        "class_name": "GdUnitSpyBuilder",
+        "path": "res://addons/gdUnit4/src/spy/GdUnitSpyBuilder.gd"
+      },
+      {
+        "class_name": "DoubledSpyClassSourceClassName",
+        "path": "res://addons/gdUnit4/src/spy/GdUnitSpyImpl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/ui/GdUnitConsole.gd"
+      },
+      {
+        "class_name": "GdUnitFonts",
+        "path": "res://addons/gdUnit4/src/ui/GdUnitFonts.gd"
+      },
+      {
+        "class_name": "GdUnitInspecor",
+        "path": "res://addons/gdUnit4/src/ui/GdUnitInspector.gd"
+      },
+      {
+        "class_name": "GdUnitInspectorTreeConstants",
+        "path": "res://addons/gdUnit4/src/ui/GdUnitInspectorTreeConstants.gd"
+      },
+      {
+        "class_name": "GdUnitScriptEditorControls",
+        "path": "res://addons/gdUnit4/src/ui/GdUnitScriptEditorControls.gd"
+      },
+      {
+        "class_name": "GdUnitUiTools",
+        "path": "res://addons/gdUnit4/src/ui/GdUnitUiTools.gd"
+      },
+      {
+        "class_name": "GdUnitContextMenuItem",
+        "path": "res://addons/gdUnit4/src/ui/menu/GdUnitContextMenuItem.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/ui/menu/GdUnitEditorFileSystemContextMenuHandler.gd"
+      },
+      {
+        "class_name": "GdUnitInspectorContextMenu",
+        "path": "res://addons/gdUnit4/src/ui/menu/GdUnitInspectorContextMenu.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/ui/menu/GdUnitScriptEditorContextMenuHandler.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/ui/parts/GdUnitInspectorProgressBar.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/ui/parts/GdUnitInspectorStatusBar.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/ui/parts/GdUnitInspectorToolBar.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/ui/parts/GdUnitInspectorTreeMainPanel.gd"
+      },
+      {
+        "class_name": "GdUnitReportPanel",
+        "path": "res://addons/gdUnit4/src/ui/parts/GdUnitReportPanel.gd"
+      },
+      {
+        "class_name": "GdUnitInputCapture",
+        "path": "res://addons/gdUnit4/src/ui/settings/GdUnitInputCapture.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/ui/settings/GdUnitSettingsDialog.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/ui/settings/GdUnitSettingsTabHooks.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/ui/templates/GdUnitTestSuiteTemplatePanel.gd"
+      },
+      {
+        "class_name": "GdUnitEditorColorTheme",
+        "path": "res://addons/gdUnit4/src/ui/utils/GdUnitEditorColorTheme.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/update/GdMarkDownReader.gd"
+      },
+      {
+        "class_name": "GdUnitPatch",
+        "path": "res://addons/gdUnit4/src/update/GdUnitPatch.gd"
+      },
+      {
+        "class_name": "GdUnitPatcher",
+        "path": "res://addons/gdUnit4/src/update/GdUnitPatcher.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/update/GdUnitUpdate.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/update/GdUnitUpdateClient.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/gdUnit4/src/update/GdUnitUpdateNotify.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/ghost_trail/ghost_trail.gd"
+      },
+      {
+        "class_name": "GhostTrailData",
+        "path": "res://addons/ghost_trail/ghost_trail_data.gd"
+      },
+      {
+        "class_name": "GhostTrailDataEntry",
+        "path": "res://addons/ghost_trail/ghost_trail_data_entry.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/ghost_trail/ghost_trail_init.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/ghost_trail/ghost_trail_recorder.gd"
+      },
+      {
+        "class_name": "RapierAnimatableBody2D",
+        "path": "res://addons/godot-rapier2d/custom_nodes/rapier_animatable_body_2d.gd"
+      },
+      {
+        "class_name": "RapierArea2D",
+        "path": "res://addons/godot-rapier2d/custom_nodes/rapier_area_2d.gd"
+      },
+      {
+        "class_name": "RapierCharacterBody2D",
+        "path": "res://addons/godot-rapier2d/custom_nodes/rapier_character_body_2d.gd"
+      },
+      {
+        "class_name": "RapierDampedSpringJoint2D",
+        "path": "res://addons/godot-rapier2d/custom_nodes/rapier_damped_spring_joint_2d.gd"
+      },
+      {
+        "class_name": "RapierFixedJoint2D",
+        "path": "res://addons/godot-rapier2d/custom_nodes/rapier_fixed_joint_2d.gd"
+      },
+      {
+        "class_name": "RapierGrooveJoint2D",
+        "path": "res://addons/godot-rapier2d/custom_nodes/rapier_groove_joint_2d.gd"
+      },
+      {
+        "class_name": "RapierPhysicalBone2D",
+        "path": "res://addons/godot-rapier2d/custom_nodes/rapier_physical_bone_2d.gd"
+      },
+      {
+        "class_name": "RapierPinJoint2D",
+        "path": "res://addons/godot-rapier2d/custom_nodes/rapier_pin_joint_2d.gd"
+      },
+      {
+        "class_name": "RapierRigidBody2D",
+        "path": "res://addons/godot-rapier2d/custom_nodes/rapier_rigid_body_2d.gd"
+      },
+      {
+        "class_name": "RapierRopeJoint2D",
+        "path": "res://addons/godot-rapier2d/custom_nodes/rapier_rope_joint_2d.gd"
+      },
+      {
+        "class_name": "RapierStaticBody2D",
+        "path": "res://addons/godot-rapier2d/custom_nodes/rapier_static_body_2d.gd"
+      },
+      {
+        "class_name": "Faucet2D",
+        "path": "res://addons/godot-rapier2d/faucet_2d.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot-rapier2d/fluid_2d_circle.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot-rapier2d/fluid_2d_rectangle.gd"
+      },
+      {
+        "class_name": "Fluid2DRenderer",
+        "path": "res://addons/godot-rapier2d/fluid_2d_renderer.gd"
+      },
+      {
+        "class_name": "Fluid2DShaderRenderer",
+        "path": "res://addons/godot-rapier2d/fluid_2d_shader_renderer.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godotsteam/editor/updating.gd"
+      },
+      {
+        "class_name": "GodotSteamPlugin",
+        "path": "res://addons/godotsteam/godotsteam_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/analysis_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/android_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/animation_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/animation_tree_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/audio_commands.gd"
+      },
+      {
+        "class_name": "MCPBaseCommands",
+        "path": "res://addons/godot_mcp/commands/base_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/batch_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/editor_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/export_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/input_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/navigation_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/node_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/particle_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/physics_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/profiling_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/project_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/resource_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/runtime_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/scene_3d_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/scene_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/script_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/shader_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/test_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/theme_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/commands/tilemap_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/command_router.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/services/mcp_input_bridge.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/services/mcp_runtime_bridge.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/services/mcp_screenshot_bridge.gd"
+      },
+      {
+        "class_name": "MCPNodeUtils",
+        "path": "res://addons/godot_mcp/utils/node_utils.gd"
+      },
+      {
+        "class_name": "MCPResourceUtils",
+        "path": "res://addons/godot_mcp/utils/resource_utils.gd"
+      },
+      {
+        "class_name": "MCPTypeParser",
+        "path": "res://addons/godot_mcp/utils/type_parser.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp/websocket_client.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/3d_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/animation_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/asset_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/audiobus_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/classdb_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/debug_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/editor/editor_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/editor/editor_execute.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/editor/editor_log_reader.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/editor/editor_rescan.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/editor/editor_screenshot.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/editor_helpers.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/file_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/folder_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/input_map/input_action_settings.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/input_map/input_event_codec.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/input_map/input_event_equivalence.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/input_map/input_map_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/meta_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/navigation_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/node_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/particle_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/path_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/playtest/playtest_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/playtest/playtest_control.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/playtest_log_reader.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/procedural_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/project_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/resource_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/save_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/scene_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/script_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/signal_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/sound_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/spatial_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/spriteframes_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/texture_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/theme_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/tilemap_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/tileset/tileset_alternatives.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/tileset/tileset_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/tileset/tileset_io.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/tileset/tileset_structure.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/commands/tileset/tileset_tile_data.gd"
+      },
+      {
+        "class_name": "MCPToolkitNotesExample",
+        "path": "res://addons/godot_mcp_toolkit/CompanionSkills/mcp-extension-creator/references/example-extension.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/contract/bare_path_check.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/contract/coerce.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/contract/declared_type_fitter.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/contract/execute_hints.gd"
+      },
+      {
+        "class_name": "MCPToolkitCommandOptions",
+        "path": "res://addons/godot_mcp_toolkit/contract/mcp_toolkit_command_options.gd"
+      },
+      {
+        "class_name": "MCPToolkitError",
+        "path": "res://addons/godot_mcp_toolkit/contract/mcp_toolkit_error.gd"
+      },
+      {
+        "class_name": "MCPToolkitSuccess",
+        "path": "res://addons/godot_mcp_toolkit/contract/mcp_toolkit_success.gd"
+      },
+      {
+        "class_name": "MCPToolkitToolContext",
+        "path": "res://addons/godot_mcp_toolkit/contract/mcp_toolkit_tool_context.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/contract/pagination.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/contract/property_set_check.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/contract/screenshot_response.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/autoload_identity.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/autoload_registration.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/compile_probe.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/consent.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/disable_cleanup_coordinator.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/dock_host.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/editor_access.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/export_strip.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/gdscript_scanner.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/gdscript_source.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/http_identity.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/modules.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/playtest_end_detector.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/plugin_composer.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/remote_deploy_detector.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/response_limits.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/script_reload.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/settings_registration.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/setup_steps.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/setup_step_tracker.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/tool_menu.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/unfocused_backup.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/core/unfocused_sleep_controller.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/extensions/extension_loader.gd"
+      },
+      {
+        "class_name": "MCPToolkitExtension",
+        "path": "res://addons/godot_mcp_toolkit/extensions/mcp_toolkit_extension.gd"
+      },
+      {
+        "class_name": "MCPToolkitExtensionOptions",
+        "path": "res://addons/godot_mcp_toolkit/extensions/mcp_toolkit_extension_options.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/extensions/services/extension_discovery.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/extensions/services/extension_meta_commands.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/extensions/services/extension_support.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/extensions/services/extension_watcher.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/logging/log_buffer.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/logging/log_helpers.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/paths/lsp_publisher.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/paths/project_key.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/paths/project_paths.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/paths/user_json_store.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/paths/user_path_monitor.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/registry/registry_client.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/registry/store/file_lock.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/registry/store/registry_entry_file.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/registry/store/registry_paths.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/registry/store/registry_projection.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/runtime/mcp_runtime_server.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/runtime/runtime_opt_out.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/runtime/text_input_synth.gd"
+      },
+      {
+        "class_name": "MCPToolkitSafeSceneOps",
+        "path": "res://addons/godot_mcp_toolkit/scene/mcp_toolkit_safe_scene_ops.gd"
+      },
+      {
+        "class_name": "MCPToolkitUndoRedoAction",
+        "path": "res://addons/godot_mcp_toolkit/scene/mcp_toolkit_undo_redo_action.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/scene/scene_lease.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/scene/signal_pair_resolver.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/scene/undo_redo_helpers.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/security/audit.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/security/auth.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/security/file_guard.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/security/scrubber.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/security/untrusted.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/transport/builtin_command_registration.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/transport/debug_bridge.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/transport/debug_session_tracker.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/transport/dispatch/dispatch_lane.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/transport/dispatch/mutation_watchdog.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/transport/dispatch/server_request_router.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/transport/mcp_server.gd"
+      },
+      {
+        "class_name": "MCPToolkitCommandRegistry",
+        "path": "res://addons/godot_mcp_toolkit/transport/mcp_toolkit_command_registry.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/transport/notifier.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/transport/peer_compat.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/transport/port_config.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/transport/ws_transport.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/dock.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/dock_confirm.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/dock_section_card.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/dock_theme_override.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/ext/extension_catalog.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/ext/extension_catalog_dialog.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/ext/extension_catalog_fetcher.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/ext/info_dialog.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/limits/dock_limits_section.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/limits/dock_optional_steps_control.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/limits/dock_unfocused_control.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/mcp/dock_mcp_json_panel.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/security/audit_log_dialog.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/security/dock_audit_section.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/status/dock_status_panel.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/dock/update/dock_update_badge.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/editor_popup.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/mcp_json/server_pin_policy.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/mcp_json_enable_prompt.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/mcp_json_sync.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/mcp_json_write_flow.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/onboarding_wizard.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/settings_navigator.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/setup_step_settings.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/setup_wizard/step_specs.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/ui/toolkit_dialog_presenter.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/versioning/engine_setting_names.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/versioning/mcp_version_utils.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/versioning/nodejs_check.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/versioning/stale_instance_hint.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/versioning/update_check.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/godot_mcp_toolkit/versioning/update_check_runner.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/grid_tactics_lite/plugin.gd"
+      },
+      {
+        "class_name": "TacticsController",
+        "path": "res://addons/grid_tactics_lite/tactics_controller.gd"
+      },
+      {
+        "class_name": "TacticsGrid",
+        "path": "res://addons/grid_tactics_lite/tactics_grid.gd"
+      },
+      {
+        "class_name": "TacticsUnit",
+        "path": "res://addons/grid_tactics_lite/tactics_unit.gd"
+      },
+      {
+        "class_name": "TacticsUnitData",
+        "path": "res://addons/grid_tactics_lite/tactics_unit_data.gd"
+      },
+      {
+        "class_name": "BasicHitBox2D",
+        "path": "res://addons/health_hitbox_hurtbox/2d/hit_box_2d/basic_hit_box_2d.gd"
+      },
+      {
+        "class_name": "HitBox2D",
+        "path": "res://addons/health_hitbox_hurtbox/2d/hit_box_2d/hit_box_2d.gd"
+      },
+      {
+        "class_name": "BasicHitScan2D",
+        "path": "res://addons/health_hitbox_hurtbox/2d/hit_scan_2d/basic_hit_scan_2d.gd"
+      },
+      {
+        "class_name": "HitScan2D",
+        "path": "res://addons/health_hitbox_hurtbox/2d/hit_scan_2d/hit_scan_2d.gd"
+      },
+      {
+        "class_name": "BasicHurtBox2D",
+        "path": "res://addons/health_hitbox_hurtbox/2d/hurt_box_2d/basic_hurt_box_2d.gd"
+      },
+      {
+        "class_name": "HurtBox2D",
+        "path": "res://addons/health_hitbox_hurtbox/2d/hurt_box_2d/hurt_box_2d.gd"
+      },
+      {
+        "class_name": "BasicHitBox3D",
+        "path": "res://addons/health_hitbox_hurtbox/3d/hit_box_3d/basic_hit_box_3d.gd"
+      },
+      {
+        "class_name": "HitBox3D",
+        "path": "res://addons/health_hitbox_hurtbox/3d/hit_box_3d/hit_box_3d.gd"
+      },
+      {
+        "class_name": "BasicHitScan3D",
+        "path": "res://addons/health_hitbox_hurtbox/3d/hit_scan_3d/basic_hit_scan_3d.gd"
+      },
+      {
+        "class_name": "HitScan3D",
+        "path": "res://addons/health_hitbox_hurtbox/3d/hit_scan_3d/hit_scan_3d.gd"
+      },
+      {
+        "class_name": "BasicHurtBox3D",
+        "path": "res://addons/health_hitbox_hurtbox/3d/hurt_box_3d/basic_hurt_box_3d.gd"
+      },
+      {
+        "class_name": "HurtBox3D",
+        "path": "res://addons/health_hitbox_hurtbox/3d/hurt_box_3d/hurt_box_3d.gd"
+      },
+      {
+        "class_name": "Health",
+        "path": "res://addons/health_hitbox_hurtbox/health/health.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/health_hitbox_hurtbox/plugin.gd"
+      },
+      {
+        "class_name": "HealthAction",
+        "path": "res://addons/health_hitbox_hurtbox/resources/health_action.gd"
+      },
+      {
+        "class_name": "HealthActionType",
+        "path": "res://addons/health_hitbox_hurtbox/resources/health_action_type.gd"
+      },
+      {
+        "class_name": "HealthModifiedAction",
+        "path": "res://addons/health_hitbox_hurtbox/resources/health_modified_action.gd"
+      },
+      {
+        "class_name": "HealthModifier",
+        "path": "res://addons/health_hitbox_hurtbox/resources/health_modifier.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/level_authoring/editor/level_authoring_dock.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/level_authoring/editor/level_authoring_map_graph.gd"
+      },
+      {
+        "class_name": "LevelAuthoringMapValidator",
+        "path": "res://addons/level_authoring/editor/level_authoring_map_validator.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/level_authoring/editor/level_authoring_task_editor.gd"
+      },
+      {
+        "class_name": "LevelAuthoringTaskValidator",
+        "path": "res://addons/level_authoring/editor/level_authoring_task_validator.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/level_authoring/plugin.gd"
+      },
+      {
+        "class_name": "LevelAuthoringBarrier",
+        "path": "res://addons/level_authoring/runtime/level_authoring_barrier.gd"
+      },
+      {
+        "class_name": "LevelAuthoringCheckpoint",
+        "path": "res://addons/level_authoring/runtime/level_authoring_checkpoint.gd"
+      },
+      {
+        "class_name": "LevelAuthoringChest",
+        "path": "res://addons/level_authoring/runtime/level_authoring_chest.gd"
+      },
+      {
+        "class_name": "LevelAuthoringDialogueDefinition",
+        "path": "res://addons/level_authoring/runtime/level_authoring_dialogue_definition.gd"
+      },
+      {
+        "class_name": "LevelAuthoringEncounter",
+        "path": "res://addons/level_authoring/runtime/level_authoring_encounter.gd"
+      },
+      {
+        "class_name": "LevelAuthoringEnemySpawn",
+        "path": "res://addons/level_authoring/runtime/level_authoring_enemy_spawn.gd"
+      },
+      {
+        "class_name": "LevelAuthoringEntity",
+        "path": "res://addons/level_authoring/runtime/level_authoring_entity.gd"
+      },
+      {
+        "class_name": "LevelAuthoringFlowZone",
+        "path": "res://addons/level_authoring/runtime/level_authoring_flow_zone.gd"
+      },
+      {
+        "class_name": "LevelAuthoringHazard",
+        "path": "res://addons/level_authoring/runtime/level_authoring_hazard.gd"
+      },
+      {
+        "class_name": "LevelAuthoringMap",
+        "path": "res://addons/level_authoring/runtime/level_authoring_map.gd"
+      },
+      {
+        "class_name": "LevelAuthoringMapMarker",
+        "path": "res://addons/level_authoring/runtime/level_authoring_map_marker.gd"
+      },
+      {
+        "class_name": "LevelAuthoringMechanism",
+        "path": "res://addons/level_authoring/runtime/level_authoring_mechanism.gd"
+      },
+      {
+        "class_name": "LevelAuthoringMovingPlatform",
+        "path": "res://addons/level_authoring/runtime/level_authoring_moving_platform.gd"
+      },
+      {
+        "class_name": "LevelAuthoringNpcService",
+        "path": "res://addons/level_authoring/runtime/level_authoring_npc_service.gd"
+      },
+      {
+        "class_name": "LevelAuthoringPatrolRoute",
+        "path": "res://addons/level_authoring/runtime/level_authoring_patrol_route.gd"
+      },
+      {
+        "class_name": "LevelAuthoringPickup",
+        "path": "res://addons/level_authoring/runtime/level_authoring_pickup.gd"
+      },
+      {
+        "class_name": "LevelAuthoringPortal",
+        "path": "res://addons/level_authoring/runtime/level_authoring_portal.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/level_authoring/runtime/level_authoring_project_paths.gd"
+      },
+      {
+        "class_name": "LevelAuthoringPushBlock",
+        "path": "res://addons/level_authoring/runtime/level_authoring_push_block.gd"
+      },
+      {
+        "class_name": "LevelAuthoringQuestDefinition",
+        "path": "res://addons/level_authoring/runtime/level_authoring_quest_definition.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/level_authoring/runtime/level_authoring_showcase_tiles.gd"
+      },
+      {
+        "class_name": "LevelAuthoringSpawnPoint",
+        "path": "res://addons/level_authoring/runtime/level_authoring_spawn_point.gd"
+      },
+      {
+        "class_name": "LevelAuthoringStation",
+        "path": "res://addons/level_authoring/runtime/level_authoring_station.gd"
+      },
+      {
+        "class_name": "LevelAuthoringTraversal",
+        "path": "res://addons/level_authoring/runtime/level_authoring_traversal.gd"
+      },
+      {
+        "class_name": "LevelAuthoringTrigger",
+        "path": "res://addons/level_authoring/runtime/level_authoring_trigger.gd"
+      },
+      {
+        "class_name": "LevelAuthoringWorldDefinition",
+        "path": "res://addons/level_authoring/runtime/level_authoring_world_definition.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/level_authoring/runtime/level_authoring_world_manager.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/level_authoring/runtime/metroidvania_showcase.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/level_authoring/tools/generate_placeholder_tileset.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_export_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_port_tool/conversion_maps.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_port_tool/receiver_materials.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_port_tool/report_writer.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_port_tool/scan_classifier.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_port_tool/scene_converter.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_port_tool/scene_scan.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_port_tool/script_rewriter.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_port_tool/script_scan.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_port_tool.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_post_inspector.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_precompile_config.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_receiver_inspector.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_update_tool/migrations/baseline_schema.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_update_tool/migrations/migration.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_update_tool/migrations/migration_registry.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/editor/lit_update_tool.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/lit_plugin.gd"
+      },
+      {
+        "class_name": "LitAnimatedSprite2D",
+        "path": "res://addons/lit/nodes/lit_animated_sprite_2d.gd"
+      },
+      {
+        "class_name": "LitCanvasModulate",
+        "path": "res://addons/lit/nodes/lit_canvas_modulate.gd"
+      },
+      {
+        "class_name": "LitDirectionalLight2D",
+        "path": "res://addons/lit/nodes/lit_directional_light_2d.gd"
+      },
+      {
+        "class_name": "LitPointLight2D",
+        "path": "res://addons/lit/nodes/lit_point_light_2d.gd"
+      },
+      {
+        "class_name": "LitPostProcess",
+        "path": "res://addons/lit/nodes/lit_post_process.gd"
+      },
+      {
+        "class_name": "LitPrecompileOverlay",
+        "path": "res://addons/lit/nodes/lit_precompile_overlay.gd"
+      },
+      {
+        "class_name": "LitSplashScreen",
+        "path": "res://addons/lit/nodes/lit_splash_screen.gd"
+      },
+      {
+        "class_name": "LitSpotLight2D",
+        "path": "res://addons/lit/nodes/lit_spot_light_2d.gd"
+      },
+      {
+        "class_name": "LitSprite2D",
+        "path": "res://addons/lit/nodes/lit_sprite_2d.gd"
+      },
+      {
+        "class_name": "LitTileMapLayer",
+        "path": "res://addons/lit/nodes/lit_tile_map_layer.gd"
+      },
+      {
+        "class_name": "LitPostAberration",
+        "path": "res://addons/lit/nodes/post/lit_post_aberration.gd"
+      },
+      {
+        "class_name": "LitPostAutoExposure",
+        "path": "res://addons/lit/nodes/post/lit_post_auto_exposure.gd"
+      },
+      {
+        "class_name": "LitPostBloom",
+        "path": "res://addons/lit/nodes/post/lit_post_bloom.gd"
+      },
+      {
+        "class_name": "LitPostColorGrade",
+        "path": "res://addons/lit/nodes/post/lit_post_color_grade.gd"
+      },
+      {
+        "class_name": "LitPostCrt",
+        "path": "res://addons/lit/nodes/post/lit_post_crt.gd"
+      },
+      {
+        "class_name": "LitPostDither",
+        "path": "res://addons/lit/nodes/post/lit_post_dither.gd"
+      },
+      {
+        "class_name": "LitPostEffect",
+        "path": "res://addons/lit/nodes/post/lit_post_effect.gd"
+      },
+      {
+        "class_name": "LitPostFilmGrain",
+        "path": "res://addons/lit/nodes/post/lit_post_film_grain.gd"
+      },
+      {
+        "class_name": "LitPostFocus",
+        "path": "res://addons/lit/nodes/post/lit_post_focus.gd"
+      },
+      {
+        "class_name": "LitPostGlitch",
+        "path": "res://addons/lit/nodes/post/lit_post_glitch.gd"
+      },
+      {
+        "class_name": "LitPostHalation",
+        "path": "res://addons/lit/nodes/post/lit_post_halation.gd"
+      },
+      {
+        "class_name": "LitPostHalftone",
+        "path": "res://addons/lit/nodes/post/lit_post_halftone.gd"
+      },
+      {
+        "class_name": "LitPostLensDistortion",
+        "path": "res://addons/lit/nodes/post/lit_post_lens_distortion.gd"
+      },
+      {
+        "class_name": "LitPostLetterbox",
+        "path": "res://addons/lit/nodes/post/lit_post_letterbox.gd"
+      },
+      {
+        "class_name": "LitPostLightLeaks",
+        "path": "res://addons/lit/nodes/post/lit_post_light_leaks.gd"
+      },
+      {
+        "class_name": "LitPostLut",
+        "path": "res://addons/lit/nodes/post/lit_post_lut.gd"
+      },
+      {
+        "class_name": "LitPostOutline",
+        "path": "res://addons/lit/nodes/post/lit_post_outline.gd"
+      },
+      {
+        "class_name": "LitPostPixelate",
+        "path": "res://addons/lit/nodes/post/lit_post_pixelate.gd"
+      },
+      {
+        "class_name": "LitPostPosterize",
+        "path": "res://addons/lit/nodes/post/lit_post_posterize.gd"
+      },
+      {
+        "class_name": "LitPostThreshold",
+        "path": "res://addons/lit/nodes/post/lit_post_threshold.gd"
+      },
+      {
+        "class_name": "LitPostVhs",
+        "path": "res://addons/lit/nodes/post/lit_post_vhs.gd"
+      },
+      {
+        "class_name": "LitPostVignette",
+        "path": "res://addons/lit/nodes/post/lit_post_vignette.gd"
+      },
+      {
+        "class_name": "LitCookieAtlas",
+        "path": "res://addons/lit/runtime/lit_cookie_atlas.gd"
+      },
+      {
+        "class_name": "LitLightRegistry",
+        "path": "res://addons/lit/runtime/lit_light_registry.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/lit_manager.gd"
+      },
+      {
+        "class_name": "LitReceiverHelper",
+        "path": "res://addons/lit/runtime/lit_receiver_helper.gd"
+      },
+      {
+        "class_name": "LitShaderLibrary",
+        "path": "res://addons/lit/runtime/lit_shader_library.gd"
+      },
+      {
+        "class_name": "LitShaderPrecompiler",
+        "path": "res://addons/lit/runtime/lit_shader_precompiler.gd"
+      },
+      {
+        "class_name": "LitVersionStamp",
+        "path": "res://addons/lit/runtime/lit_version_stamp.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/lit_worker_loop.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/registry/editor_live.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/registry/exclusions.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/registry/frame_context.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/registry/light_cache.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/registry/light_packer.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/registry/luminance.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/registry/material_pool.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/registry/occluder_tiles.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/registry/receiver_driver.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/registry/rx_registry.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/registry/screen_tiles.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/lit/runtime/registry/world_sdf.gd"
+      },
+      {
+        "class_name": "Log",
+        "path": "res://addons/log/log.gd"
+      },
+      {
+        "class_name": "LogColorTheme",
+        "path": "res://addons/log/log_color_theme.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/log/plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/examples/scripts/2D/2d_room_limit_tween.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/examples/scripts/2D/2d_trigger_area.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/examples/scripts/2D/player_character_body_2d.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/examples/scripts/3D/3d_trigger_area.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/examples/scripts/3D/npc.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/examples/scripts/3D/path_follow.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/examples/scripts/3D/player_controller.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/examples/scripts/3D/player_controller_first_person.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/examples/scripts/3D/player_controller_third_person.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/inspector/phantom_camera_inspector_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/scripts/gizmos/phantom_camera_3d_gizmo.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/scripts/gizmos/phantom_camera_3d_gizmo_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/scripts/gizmos/phantom_camera_noise_emitter_gizmo_plugin_3d.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/scripts/managers/phantom_camera_manager.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/scripts/panel/editor.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/scripts/panel/updater/download_update_panel.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/scripts/panel/updater/updater_constants.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/scripts/panel/updater/update_button.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/scripts/panel/viewfinder/host_list.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/scripts/panel/viewfinder/host_list_item.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/scripts/panel/viewfinder/viewfinder.gd"
+      },
+      {
+        "class_name": "PhantomCamera2D",
+        "path": "res://addons/phantom_camera/scripts/phantom_camera/phantom_camera_2d.gd"
+      },
+      {
+        "class_name": "PhantomCamera3D",
+        "path": "res://addons/phantom_camera/scripts/phantom_camera/phantom_camera_3d.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/phantom_camera/scripts/phantom_camera/phantom_camera_constants.gd"
+      },
+      {
+        "class_name": "PhantomCameraNoiseEmitter2D",
+        "path": "res://addons/phantom_camera/scripts/phantom_camera/phantom_camera_noise_emitter_2d.gd"
+      },
+      {
+        "class_name": "PhantomCameraNoiseEmitter3D",
+        "path": "res://addons/phantom_camera/scripts/phantom_camera/phantom_camera_noise_emitter_3d.gd"
+      },
+      {
+        "class_name": "PhantomCameraTweenDirector",
+        "path": "res://addons/phantom_camera/scripts/phantom_camera/phantom_camera_tween_director.gd"
+      },
+      {
+        "class_name": "PhantomCameraHost",
+        "path": "res://addons/phantom_camera/scripts/phantom_camera_host/phantom_camera_host.gd"
+      },
+      {
+        "class_name": "Camera3DResource",
+        "path": "res://addons/phantom_camera/scripts/resources/camera_3d_resource.gd"
+      },
+      {
+        "class_name": "PhantomCameraNoise2D",
+        "path": "res://addons/phantom_camera/scripts/resources/phantom_camera_noise_2d.gd"
+      },
+      {
+        "class_name": "PhantomCameraNoise3D",
+        "path": "res://addons/phantom_camera/scripts/resources/phantom_camera_noise_3d.gd"
+      },
+      {
+        "class_name": "TweenDirectorResource",
+        "path": "res://addons/phantom_camera/scripts/resources/tween_director_resource.gd"
+      },
+      {
+        "class_name": "PhantomCameraTween",
+        "path": "res://addons/phantom_camera/scripts/resources/tween_resource.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/quest_authoring/plugin.gd"
+      },
+      {
+        "class_name": "RealEquationSolver",
+        "path": "res://addons/real_equation_solver/real_equation_solver.gd"
+      },
+      {
+        "class_name": "ResGenerator",
+        "path": "res://addons/real_equation_solver/res_generator.gd"
+      },
+      {
+        "class_name": "ResMath",
+        "path": "res://addons/real_equation_solver/res_math.gd"
+      },
+      {
+        "class_name": "ResSolver",
+        "path": "res://addons/real_equation_solver/res_solver.gd"
+      },
+      {
+        "class_name": "_ResLogger",
+        "path": "res://addons/real_equation_solver/_res_logger.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/reload_current_scene/plugin.gd"
+      },
+      {
+        "class_name": "SS2D_Action",
+        "path": "res://addons/rmsmartshape/actions/action.gd"
+      },
+      {
+        "class_name": "SS2D_ActionAddCollisionNodes",
+        "path": "res://addons/rmsmartshape/actions/action_add_collision_nodes.gd"
+      },
+      {
+        "class_name": "SS2D_ActionAddPoint",
+        "path": "res://addons/rmsmartshape/actions/action_add_point.gd"
+      },
+      {
+        "class_name": "SS2D_ActionCloseShape",
+        "path": "res://addons/rmsmartshape/actions/action_close_shape.gd"
+      },
+      {
+        "class_name": "SS2D_ActionCutEdge",
+        "path": "res://addons/rmsmartshape/actions/action_cut_edge.gd"
+      },
+      {
+        "class_name": "SS2D_ActionDeleteControlPoint",
+        "path": "res://addons/rmsmartshape/actions/action_delete_control_point.gd"
+      },
+      {
+        "class_name": "SS2D_ActionDeletePoint",
+        "path": "res://addons/rmsmartshape/actions/action_delete_point.gd"
+      },
+      {
+        "class_name": "SS2D_ActionDeletePoints",
+        "path": "res://addons/rmsmartshape/actions/action_delete_points.gd"
+      },
+      {
+        "class_name": "SS2D_ActionInvertOrientation",
+        "path": "res://addons/rmsmartshape/actions/action_invert_orientation.gd"
+      },
+      {
+        "class_name": "SS2D_ActionMakeShapeUnique",
+        "path": "res://addons/rmsmartshape/actions/action_make_shape_unique.gd"
+      },
+      {
+        "class_name": "SS2D_ActionMoveControlPoints",
+        "path": "res://addons/rmsmartshape/actions/action_move_control_points.gd"
+      },
+      {
+        "class_name": "SS2D_ActionMoveVerticies",
+        "path": "res://addons/rmsmartshape/actions/action_move_verticies.gd"
+      },
+      {
+        "class_name": "SS2D_ActionOpenShape",
+        "path": "res://addons/rmsmartshape/actions/action_open_shape.gd"
+      },
+      {
+        "class_name": "SS2D_ActionSetPivot",
+        "path": "res://addons/rmsmartshape/actions/action_set_pivot.gd"
+      },
+      {
+        "class_name": "SS2D_ActionSplitCurve",
+        "path": "res://addons/rmsmartshape/actions/action_split_curve.gd"
+      },
+      {
+        "class_name": "SS2D_ActionSplitShape",
+        "path": "res://addons/rmsmartshape/actions/action_split_shape.gd"
+      },
+      {
+        "class_name": "SS2D_CollisionGen",
+        "path": "res://addons/rmsmartshape/collision_gen.gd"
+      },
+      {
+        "class_name": "SS2D_Common_Functions",
+        "path": "res://addons/rmsmartshape/common_functions.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/rmsmartshape/editors/action_property_inspector_plugin.gd"
+      },
+      {
+        "class_name": "SS2D_NormalRangeEditor",
+        "path": "res://addons/rmsmartshape/editors/NormalRangeEditor/NormalRangeEditor.gd"
+      },
+      {
+        "class_name": "SS2D_NormalRangeEditorProperty",
+        "path": "res://addons/rmsmartshape/editors/NormalRangeEditor/NormalRangeEditorProperty.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/rmsmartshape/editors/normal_range_inspector_plugin.gd"
+      },
+      {
+        "class_name": "SS2D_TesselationVertexMapping",
+        "path": "res://addons/rmsmartshape/lib/tesselation_vertex_mapping.gd"
+      },
+      {
+        "class_name": "SS2D_IndexTuple",
+        "path": "res://addons/rmsmartshape/lib/tuple.gd"
+      },
+      {
+        "class_name": "SS2D_Material_Edge",
+        "path": "res://addons/rmsmartshape/materials/edge_material.gd"
+      },
+      {
+        "class_name": "SS2D_Material_Edge_Metadata",
+        "path": "res://addons/rmsmartshape/materials/edge_material_metadata.gd"
+      },
+      {
+        "class_name": "SS2D_Material_Shape",
+        "path": "res://addons/rmsmartshape/materials/shape_material.gd"
+      },
+      {
+        "class_name": "SS2D_NormalRange",
+        "path": "res://addons/rmsmartshape/normal_range.gd"
+      },
+      {
+        "class_name": "SS2D_Plugin",
+        "path": "res://addons/rmsmartshape/plugin.gd"
+      },
+      {
+        "class_name": "SS2D_PluginFunctionality",
+        "path": "res://addons/rmsmartshape/plugin_functionality.gd"
+      },
+      {
+        "class_name": "SS2D_EdgeInfoPanel",
+        "path": "res://addons/rmsmartshape/scenes/GUI_Edge_InfoPanel.gd"
+      },
+      {
+        "class_name": "SS2D_PointInfoPanel",
+        "path": "res://addons/rmsmartshape/scenes/GUI_InfoPanel.gd"
+      },
+      {
+        "class_name": "SS2D_SnapPopup",
+        "path": "res://addons/rmsmartshape/scenes/SnapPopup.gd"
+      },
+      {
+        "class_name": "SS2D_Edge",
+        "path": "res://addons/rmsmartshape/shapes/edge.gd"
+      },
+      {
+        "class_name": "SS2D_IndexMap",
+        "path": "res://addons/rmsmartshape/shapes/index_map.gd"
+      },
+      {
+        "class_name": "SS2D_Mesh",
+        "path": "res://addons/rmsmartshape/shapes/mesh.gd"
+      },
+      {
+        "class_name": "SS2D_MeshCache",
+        "path": "res://addons/rmsmartshape/shapes/mesh_cache.gd"
+      },
+      {
+        "class_name": "SS2D_Point",
+        "path": "res://addons/rmsmartshape/shapes/point.gd"
+      },
+      {
+        "class_name": "SS2D_Point_Array",
+        "path": "res://addons/rmsmartshape/shapes/point_array.gd"
+      },
+      {
+        "class_name": "SS2D_Quad",
+        "path": "res://addons/rmsmartshape/shapes/quad.gd"
+      },
+      {
+        "class_name": "SS2D_Shape",
+        "path": "res://addons/rmsmartshape/shapes/shape.gd"
+      },
+      {
+        "class_name": "SS2D_Shape_Anchor",
+        "path": "res://addons/rmsmartshape/shapes/shape_anchor.gd"
+      },
+      {
+        "class_name": "SS2D_Shape_Closed",
+        "path": "res://addons/rmsmartshape/shapes/shape_closed.gd"
+      },
+      {
+        "class_name": "SS2D_Shape_Open",
+        "path": "res://addons/rmsmartshape/shapes/shape_open.gd"
+      },
+      {
+        "class_name": "SS2D_Renderer",
+        "path": "res://addons/rmsmartshape/shape_renderer.gd"
+      },
+      {
+        "class_name": "SS2D_Strings",
+        "path": "res://addons/rmsmartshape/strings.gd"
+      },
+      {
+        "class_name": "SS2D_CollisionEditorTool",
+        "path": "res://addons/rmsmartshape/tools/collision_tool.gd"
+      },
+      {
+        "class_name": "SS2D_EditorTool",
+        "path": "res://addons/rmsmartshape/tools/editor_tool.gd"
+      },
+      {
+        "class_name": "SS2D_VersionTransition",
+        "path": "res://addons/rmsmartshape/version_transition.gd"
+      },
+      {
+        "class_name": "SS2D_VertexProperties",
+        "path": "res://addons/rmsmartshape/vertex_properties.gd"
+      },
+      {
+        "class_name": "RoadTerrain3DConnector",
+        "path": "res://addons/road-generator/connectors/terrain3d_road_connector.gd"
+      },
+      {
+        "class_name": "RoadContainer",
+        "path": "res://addons/road-generator/nodes/road_container.gd"
+      },
+      {
+        "class_name": "RoadGraphNode",
+        "path": "res://addons/road-generator/nodes/road_graph_node.gd"
+      },
+      {
+        "class_name": "RoadIntersection",
+        "path": "res://addons/road-generator/nodes/road_intersection.gd"
+      },
+      {
+        "class_name": "RoadLane",
+        "path": "res://addons/road-generator/nodes/road_lane.gd"
+      },
+      {
+        "class_name": "RoadLaneAgent",
+        "path": "res://addons/road-generator/nodes/road_lane_agent.gd"
+      },
+      {
+        "class_name": "RoadManager",
+        "path": "res://addons/road-generator/nodes/road_manager.gd"
+      },
+      {
+        "class_name": "RoadPoint",
+        "path": "res://addons/road-generator/nodes/road_point.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/nodes/road_segment.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/plugin.gd"
+      },
+      {
+        "class_name": "IntersectionNGon",
+        "path": "res://addons/road-generator/procgen/intersection_ngon.gd"
+      },
+      {
+        "class_name": "IntersectionSettings",
+        "path": "res://addons/road-generator/procgen/intersection_settings.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/procgen/segment_geo.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/ui/connection_tool.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/ui/rc_submenu.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/ui/road_container_edit.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/ui/road_container_panel.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/ui/road_intersection_gizmo.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/ui/road_point_edit.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/ui/road_point_gizmo.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/ui/road_point_panel.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/ui/road_toolbar.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/ui/road_toolbar_create_menu.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/road-generator/ui/road_toolbar_settings_menu.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/script-ide/outline/outline_button.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/script-ide/outline/outline_container.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/script-ide/override/override_popup.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/script-ide/plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/script-ide/quickopen/quick_open_popup.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/script-ide/split/split_code_edit.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/script-ide/tabbar/custom_tab.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/script-ide/tabbar/multiline_tab_bar.gd"
+      },
+      {
+        "class_name": "OrbitalElements",
+        "path": "res://addons/sky_3d/src/OrbitalElements.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/sky_3d/src/Plugin.gd"
+      },
+      {
+        "class_name": "ScatterLib",
+        "path": "res://addons/sky_3d/src/ScatterLib.gd"
+      },
+      {
+        "class_name": "Sky3D",
+        "path": "res://addons/sky_3d/src/Sky3D.gd"
+      },
+      {
+        "class_name": "SkyDome",
+        "path": "res://addons/sky_3d/src/SkyDome.gd"
+      },
+      {
+        "class_name": "TimeOfDay",
+        "path": "res://addons/sky_3d/src/TimeOfDay.gd"
+      },
+      {
+        "class_name": "TOD_Math",
+        "path": "res://addons/sky_3d/src/TOD_Math.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/smartcamera2D/CameraControl.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/smartcamera2D/plugin.gd"
+      },
+      {
+        "class_name": "SmartCamera2D",
+        "path": "res://addons/smartcamera2D/SmartCamera2D.gd"
+      },
+      {
+        "class_name": "SparkBind",
+        "path": "res://addons/spark/binding/binder.gd"
+      },
+      {
+        "class_name": "SparkComputed",
+        "path": "res://addons/spark/core/computed.gd"
+      },
+      {
+        "class_name": "SparkEffect",
+        "path": "res://addons/spark/core/effect.gd"
+      },
+      {
+        "class_name": "SparkReactiveBase",
+        "path": "res://addons/spark/core/reactive_base.gd"
+      },
+      {
+        "class_name": "SparkArray",
+        "path": "res://addons/spark/core/state_array.gd"
+      },
+      {
+        "class_name": "SparkBool",
+        "path": "res://addons/spark/core/state_bool.gd"
+      },
+      {
+        "class_name": "SparkDict",
+        "path": "res://addons/spark/core/state_dict.gd"
+      },
+      {
+        "class_name": "SparkFloat",
+        "path": "res://addons/spark/core/state_float.gd"
+      },
+      {
+        "class_name": "SparkInt",
+        "path": "res://addons/spark/core/state_int.gd"
+      },
+      {
+        "class_name": "SparkResource",
+        "path": "res://addons/spark/core/state_resource.gd"
+      },
+      {
+        "class_name": "SparkString",
+        "path": "res://addons/spark/core/state_string.gd"
+      },
+      {
+        "class_name": "SparkVariant",
+        "path": "res://addons/spark/core/state_variant.gd"
+      },
+      {
+        "class_name": "SparkScope",
+        "path": "res://addons/spark/declare/declare.gd"
+      },
+      {
+        "class_name": "SparkArrayWatcher",
+        "path": "res://addons/spark/each/array_watcher.gd"
+      },
+      {
+        "class_name": "SparkDictWatcher",
+        "path": "res://addons/spark/each/dict_watcher.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/spark/examples/counter/counter_example.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/spark/examples/keyvalue/keyvalue_example.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/spark/examples/todo/todo_example.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/spark/plugin.gd"
+      },
+      {
+        "class_name": "S",
+        "path": "res://addons/spark/s.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/sprite_offset_tools/plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/sprite_offset_tools/sprite_2d_inspector.gd"
+      },
+      {
+        "class_name": "SpriteOffsetDatabase",
+        "path": "res://addons/sprite_offset_tools/sprite_offset_database.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/sprite_offset_tools/sprite_offset_editor.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/extras/3rd_party/import_sgt.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/extras/3rd_party/project_on_terrain3d.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/extras/particle_example/terrain_3D_particles.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/menu/baker.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/menu/bake_lod_dialog.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/menu/channel_packer.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/menu/channel_packer_dragdrop.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/menu/directory_setup.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/menu/terrain_menu.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/src/asset_dock.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/src/asset_dock_45.gd"
+      },
+      {
+        "class_name": "Terrain3DListContainer",
+        "path": "res://addons/terrain_3d/src/asset_dock_list_container.gd"
+      },
+      {
+        "class_name": "Terrain3DListEntry",
+        "path": "res://addons/terrain_3d/src/asset_dock_list_entry.gd"
+      },
+      {
+        "class_name": "DoubleSlider",
+        "path": "res://addons/terrain_3d/src/double_slider.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/src/editor_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/src/export_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/src/gradient_operation_builder.gd"
+      },
+      {
+        "class_name": "Terrain3DLiveInfoPanel",
+        "path": "res://addons/terrain_3d/src/live_info_panel.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/src/multi_picker.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/src/operation_builder.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/src/toolbar.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/src/tool_settings.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/src/ui.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/tools/importer.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/tools/region_mover.gd"
+      },
+      {
+        "class_name": "Terrain3DObjects",
+        "path": "res://addons/terrain_3d/utils/terrain_3d_objects.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/terrain_3d/utils/transform_changed_notifier.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/TimeRewinderDelta/plugin_setup.gd"
+      },
+      {
+        "class_name": "RewindResource",
+        "path": "res://addons/TimeRewinderDelta/rewind_property.gd"
+      },
+      {
+        "class_name": "RewindTrackedNode",
+        "path": "res://addons/TimeRewinderDelta/rewind_tracked_node.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/TimeRewinderDelta/time_rewinder_delta.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/vfx_2d/demo/demo.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/vfx_2d/demo/full_pack.gd"
+      },
+      {
+        "class_name": "VFX2D",
+        "path": "res://addons/vfx_2d/vfx_2d.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/any_icon.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/class_utils.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/compat.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_style.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/bitflags_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/boolean_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/collection_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/color_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/enum_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/multiline_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/numeric_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/path_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/popup_menu_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/range_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/registry_entry_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/resource_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/stringname_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/string_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/cell_types/text_cell_type.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/column_config.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/data_table/data_table.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/editor_icon_controls/editor_icon_button.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/editor_icon_controls/editor_icon_line_edit.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/editor_icon_controls/editor_icon_menu_button.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/editor_icon_controls/editor_icon_popup_menu.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/editor_icon_controls/editor_icon_texture_button.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/editor_theme_utils.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/markdownlabel/h1_format.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/markdownlabel/h2_format.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/markdownlabel/h3_format.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/markdownlabel/h4_format.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/markdownlabel/h5_format.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/markdownlabel/h6_format.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/markdownlabel/markdownlabel.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/shortcut_utils.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/yard_editor_cache.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/yard_fuzzy_search.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/yard_logger.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/classes/yard_settings.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/editor_context_menu_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/editor_export_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/editor_inspector_plugin.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/namespace.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/registry_io.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/components/editor_property_option_wrapper.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/components/footer.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/components/multi_option_editor_property.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/components/new_registry_dialog.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/components/readme_window.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/components/registries_itemlist.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/components/scan_ruleset_editor/scan_ruleset_editor.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/components/scan_ruleset_editor/scan_tab_inputs/class_restriction_input.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/components/scan_ruleset_editor/scan_tab_inputs/scan_directory_input.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/components/scan_ruleset_editor/scan_tab_inputs/scan_inputs_tab_container.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/components/scan_ruleset_editor/scan_tab_inputs/scan_tab_input.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/components/update_install_window/update_install_window.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/components/update_manager/update_manager.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/registry_editor.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/editor_only/ui_scenes/registry_table_view.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://addons/yard/plugin.gd"
+      },
+      {
+        "class_name": "Registry",
+        "path": "res://addons/yard/registry.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://demo/src/CameraManager.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://demo/src/CaveEntrance.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://demo/src/CodeGenerated.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://demo/src/DemoScene.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://demo/src/Enemy.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://demo/src/Player.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://demo/src/RuntimeNavigationBaker.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://demo/src/UI.gd"
+      },
+      {
+        "class_name": "HealingPotion",
+        "path": "res://example/items/events/HealingPotion.gd"
+      },
+      {
+        "class_name": "ExamplePlayer",
+        "path": "res://example/scripts/ExamplePlayer.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://example/scripts/ExampleShowcase.gd"
+      },
+      {
+        "class_name": "HealthComponent",
+        "path": "res://example/scripts/HealthComponent.gd"
+      },
+      {
+        "class_name": "GridIndicators",
+        "path": "res://ghost-kit/grid_indicators.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://road_demos/demo_menu.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://road_demos/demo_resources/actors/road_actor.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://road_demos/demo_resources/demo_ui_common.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://road_demos/demo_resources/road_lane_debug.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://road_demos/navigation/astar_lane_graph.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://road_demos/performance_stress_test/performance_stress_test.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://road_demos/procedural_generator/procedural_generator.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://road_demos/procedural_generator/road_actor_manager.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://road_demos/procedural_generator/road_actor_spawner.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://road_demos/road_museum/sidescroll_camera.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://road_demos/road_museum/test_scene.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://scripts/battle/battle_view.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://scripts/battle/grid_draw.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://scripts/battle/turn_manager.gd"
+      },
+      {
+        "class_name": "UnitToken",
+        "path": "res://scripts/battle/unit_token.gd"
+      },
+      {
+        "class_name": "EquipmentModel",
+        "path": "res://scripts/equipment/EquipmentModel.gd"
+      },
+      {
+        "class_name": "EquipmentSlot",
+        "path": "res://scripts/equipment/EquipmentSlot.gd"
+      },
+      {
+        "class_name": "BaseInventoryModel",
+        "path": "res://scripts/inventory/BaseInventoryModel.gd"
+      },
+      {
+        "class_name": "InventoryConfig",
+        "path": "res://scripts/inventory/InventoryConfig.gd"
+      },
+      {
+        "class_name": "InventoryItem",
+        "path": "res://scripts/inventory/InventoryItem.gd"
+      },
+      {
+        "class_name": "InventoryModel",
+        "path": "res://scripts/inventory/InventoryModel.gd"
+      },
+      {
+        "class_name": "InventorySlot",
+        "path": "res://scripts/inventory/InventorySlot.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://scripts/inventory/InventorySystem.gd"
+      },
+      {
+        "class_name": "InventoryView",
+        "path": "res://scripts/inventory/InventoryView.gd"
+      },
+      {
+        "class_name": "QuantitySelector",
+        "path": "res://scripts/inventory/QuantitySelector.gd"
+      },
+      {
+        "class_name": "AffixDefinition",
+        "path": "res://scripts/itemization/AffixDefinition.gd"
+      },
+      {
+        "class_name": "IncLifeAffix",
+        "path": "res://scripts/itemization/affixes/inc_life.gd"
+      },
+      {
+        "class_name": "MaxLifeAffix",
+        "path": "res://scripts/itemization/affixes/max_life.gd"
+      },
+      {
+        "class_name": "AffixInstance",
+        "path": "res://scripts/itemization/AffixInstance.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://scripts/itemization/AffixPool.gd"
+      },
+      {
+        "class_name": "Item",
+        "path": "res://scripts/itemization/Item.gd"
+      },
+      {
+        "class_name": "ItemBase",
+        "path": "res://scripts/itemization/ItemBase.gd"
+      },
+      {
+        "class_name": "ItemEvent",
+        "path": "res://scripts/itemization/ItemEvent.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://scripts/sim/sim.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://scripts/tooltip/ItemTooltip.gd"
+      },
+      {
+        "class_name": "AffixesSection",
+        "path": "res://scripts/tooltip/sections/AffixesSection.gd"
+      },
+      {
+        "class_name": "BaseStatsSection",
+        "path": "res://scripts/tooltip/sections/BaseStatsSection.gd"
+      },
+      {
+        "class_name": "DescriptionSection",
+        "path": "res://scripts/tooltip/sections/DescriptionSection.gd"
+      },
+      {
+        "class_name": "EquippedSection",
+        "path": "res://scripts/tooltip/sections/EquippedSection.gd"
+      },
+      {
+        "class_name": "NameSection",
+        "path": "res://scripts/tooltip/sections/NameSection.gd"
+      },
+      {
+        "class_name": "PriceSection",
+        "path": "res://scripts/tooltip/sections/PriceSection.gd"
+      },
+      {
+        "class_name": "SlotSection",
+        "path": "res://scripts/tooltip/sections/SlotSection.gd"
+      },
+      {
+        "class_name": "TooltipSection",
+        "path": "res://scripts/tooltip/TooltipSection.gd"
+      },
+      {
+        "class_name": "VendorComponent",
+        "path": "res://scripts/vendor/VendorComponent.gd"
+      },
+      {
+        "class_name": "VendorInventory",
+        "path": "res://scripts/vendor/VendorInventory.gd"
+      },
+      {
+        "class_name": "VendorItem",
+        "path": "res://scripts/vendor/VendorItem.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://tests/bridge_smoke_runner.gd"
+      },
+      {
+        "class_name": "",
+        "path": "res://tests/smoke_test.gd"
+      }
+    ]
+  },
+  "png": null
+}
