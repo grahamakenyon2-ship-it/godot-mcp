@@ -1,0 +1,9 @@
+{
+  "id": "b2-diag-readlog",
+  "ok": true,
+  "result": {
+    "content": "LOGFILE: C:\\Users\\Alex\\AppData\\Roaming/Godot/app_userdata/Ghost Company/logs/godot.log\nGodot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\nOpenGL API 3.3.0 NVIDIA 621.01 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce GTX 1660 SUPER\n\nPHYSICS ENGINE 2D: DEFAULT. Go to Advanced Settings -> Physics -> 2D to change it to Rapier2D.\n\n",
+    "script_path": "res://tools/gc_diag_log.txt"
+  },
+  "png": null
+}
