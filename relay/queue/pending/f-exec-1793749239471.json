@@ -1,1 +1,0 @@
-{"id":"f-exec-1793749239471","method":"execute_editor_script","params":{"code":"load(\"res://tests/toon_setup.gd\").new().setup()"}}
