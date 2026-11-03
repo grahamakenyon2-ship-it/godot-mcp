@@ -1,0 +1,55 @@
+{
+  "id": "gc-search-mvzzslnq",
+  "ok": true,
+  "result": {
+    "count": 9,
+    "matches": [
+      {
+        "file": "res://addons/gdUnit4/src/asserts/GdUnitArrayAssertImpl.gd",
+        "line": 142,
+        "text": "if _is_equals_sorted(current_value, expected_value, false, compare_mode):"
+      },
+      {
+        "file": "res://addons/gdUnit4/src/asserts/GdUnitArrayAssertImpl.gd",
+        "line": 409,
+        "text": "func _is_equals_sorted("
+      },
+      {
+        "file": "res://addons/gdUnit4/src/asserts/GdUnitArrayAssertImpl.gd",
+        "line": 416,
+        "text": "return GdObjects.equals_sorted("
+      },
+      {
+        "file": "res://addons/gdUnit4/src/core/GdObjects.gd",
+        "line": 206,
+        "text": "static func equals_sorted(obj_a: Array[Variant], obj_b: Array[Variant], case_sensitive: bool = false, compare_mode: COMPARE_MODE = COMPARE_MODE.PARAMETER_DEEP_TEST) -> bool:"
+      },
+      {
+        "file": "res://addons/script-ide/outline/outline_container.gd",
+        "line": 358,
+        "text": "if (is_sorted()):"
+      },
+      {
+        "file": "res://addons/script-ide/outline/outline_container.gd",
+        "line": 525,
+        "text": "func is_sorted() -> bool:"
+      },
+      {
+        "file": "res://scripts/battle/battle_view.gd",
+        "line": 97,
+        "text": "for id in tm.sim.units.keys().sorted():"
+      },
+      {
+        "file": "res://scripts/sim/sim.gd",
+        "line": 43,
+        "text": "for id in units.keys().sorted():"
+      },
+      {
+        "file": "res://scripts/sim/sim.gd",
+        "line": 89,
+        "text": "for id in units.keys().sorted():"
+      }
+    ]
+  },
+  "png": null
+}
