@@ -1,1 +1,0 @@
-{"id":"gc-fix-view-mvzzuffi","method":"edit_script","params":{"script_path":"res://scripts/battle/battle_view.gd","search":"\tfor id in tm.sim.units.keys().sorted():","replace":"\tvar ids := tm.sim.units.keys()\n\tids.sort()\n\tfor id in ids:"}}
