@@ -1,0 +1,1249 @@
+{
+  "id": "gc-rd-SoundFXSta-mw02cb81",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "path": "res://Sound FX Starter Pack Vol. 1/- Thank You.png",
+          "type": "file"
+        },
+        {
+          "path": "res://Sound FX Starter Pack Vol. 1/- Thank You.png.import",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Abacus.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Abacus.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Air Raid Siren.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Air Raid Siren.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Animal Pain.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Animal Pain.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Dog Yap.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Dog Yap.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Drill.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Drill.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Firework.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Firework.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Hammer Fall.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Hammer Fall.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Magic Effect Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Magic Effect Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Molotov.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Molotov.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Rolling Thunder.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Rolling Thunder.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Stoke Coal Oven.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Stoke Coal Oven.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Wood Lathe.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Community Requests/Wood Lathe.wav.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Sound FX Starter Pack Vol. 1/Community Requests",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Busy City Apartment Interior Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Busy City Apartment Interior Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Busy City Apartment Kitchen Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Busy City Apartment Kitchen Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Dreamscape Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Dreamscape Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Grassy Field Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Grassy Field Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Hail Storm Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Hail Storm Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Nightmare Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Nightmare Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Ocean Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Ocean Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Rain Forest Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Rain Forest Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Rain Urban Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Rain Urban Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Rainy City Alley Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Rainy City Alley Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Suburb Ext Distant Traffic Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Suburb Ext Distant Traffic Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Wind Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Environment/Wind Loop.wav.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Sound FX Starter Pack Vol. 1/Environment",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Bust Door Open.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Bust Door Open.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Deathpunch.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Deathpunch.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Earthquake Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Earthquake Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Heavy Gun Reload.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Heavy Gun Reload.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Karate Punch.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Karate Punch.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Knife Kills.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Knife Kills.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Mega Bomb.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Mega Bomb.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Metal Glass Destruction.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Metal Glass Destruction.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Mini Rocket Shot.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Mini Rocket Shot.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Reward.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Reward.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Titan Handgun.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Titan Handgun.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Wooden Crate Destruction.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Hollywood/Wooden Crate Destruction.wav.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Sound FX Starter Pack Vol. 1/Hollywood",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Bleak Moon Piano.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Bleak Moon Piano.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Dissonance.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Dissonance.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Ghost Cantata.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Ghost Cantata.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Gore And Larvae Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Gore And Larvae Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/It Laughs At You.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/It Laughs At You.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Looney TV.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Looney TV.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Metallic Trembling.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Metallic Trembling.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Noise Wave.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Noise Wave.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Pain Glitch.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Pain Glitch.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Reality Rift.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Reality Rift.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Scrapemare.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Scrapemare.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Wind Of Rotting.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Horror/Wind Of Rotting.wav.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Sound FX Starter Pack Vol. 1/Horror",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Area Discovered.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Area Discovered.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Count Down.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Count Down.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Fail.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Fail.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Full Heal.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Full Heal.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Game Over.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Game Over.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Health Low.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Health Low.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Level Up.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Level Up.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Load In.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Load In.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Log Off.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Log Off.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Milestone.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Milestone.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Success.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Success.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Welcome.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers/Welcome.wav.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Sound FX Starter Pack Vol. 1/Jingles & Stingers",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Acid Attack.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Acid Attack.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Air Attack.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Air Attack.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Earth Attack.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Earth Attack.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Fire Attack.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Fire Attack.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Holy Healing.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Holy Healing.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Holy Missile.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Holy Missile.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Ice Attack.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Ice Attack.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Magic Seal.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Magic Seal.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Necromantic Attack.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Necromantic Attack.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Necromantic Healing.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Necromantic Healing.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Resurrection.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Resurrection.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Water Attack.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Magic/Water Attack.wav.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Sound FX Starter Pack Vol. 1/Magic",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Arrow Hit.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Arrow Hit.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Bow Shoot.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Bow Shoot.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Channel Power Up Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Channel Power Up Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Equip.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Equip.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Horse Gallop Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Horse Gallop Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Loot Gold.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Loot Gold.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Metal Twang.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Metal Twang.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Parry.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Parry.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Power Up.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Power Up.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Shield Block.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Shield Block.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Weapon Upgrade.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Weapon Upgrade.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Weapon Whoosh.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Medieval/Weapon Whoosh.wav.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Sound FX Starter Pack Vol. 1/Medieval",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Impact Axe Fall.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Impact Axe Fall.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Impact Metal Hatch.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Impact Metal Hatch.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Impact Redwood.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Impact Redwood.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Impact Vox Hammer.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Impact Vox Hammer.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Riser Distorted Wave.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Riser Distorted Wave.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Swoosh Machines.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Swoosh Machines.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Swoosh Pirate Ship.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Swoosh Pirate Ship.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Swoosh Thunder.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Swoosh Thunder.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Transition Solemn.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Transition Solemn.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Whoosh Cyberwave.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Whoosh Cyberwave.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Whoosh Gong.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Whoosh Gong.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Whoosh Medieval.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts/Whoosh Medieval.wav.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Sound FX Starter Pack Vol. 1/Motions and Impacts",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Attack.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Attack.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Charge.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Charge.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Combo.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Combo.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Damage.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Damage.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Fail.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Fail.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Heal.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Heal.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Jump.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Jump.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Path Blocked.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Path Blocked.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Power Up.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Power Up.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Slide.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Slide.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Start.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Start.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Success.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Retro/Success.wav.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Sound FX Starter Pack Vol. 1/Retro",
+          "type": "directory"
+        },
+        {
+          "path": "res://Sound FX Starter Pack Vol. 1/Royalty-Free License (Link).pdf",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Alien Speech.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Alien Speech.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Analog Shield Gen Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Analog Shield Gen Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Biobot Move.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Biobot Move.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Force Armor.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Force Armor.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Gravipanzer.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Gravipanzer.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Matrix Flow Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Matrix Flow Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Outer Space Scanner Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Outer Space Scanner Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Phase Missile.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Phase Missile.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Pulse Sniper.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Pulse Sniper.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Turret Reload.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Turret Reload.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Winged Chaser.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Winged Chaser.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Wormhole Drive.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi/Wormhole Drive.wav.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Sound FX Starter Pack Vol. 1/Sci-Fi",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Automaton Activate.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Automaton Activate.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Automaton Move.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Automaton Move.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Crack Turn.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Crack Turn.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Engine Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Engine Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Giant Clock Interior Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Giant Clock Interior Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Mechanism Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Mechanism Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Mechanism Open Close.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Mechanism Open Close.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Rails Loop.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Rails Loop.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Steampunk Drill.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Steampunk Drill.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Steampunk Gas Ignite.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Steampunk Gas Ignite.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Steampunk Gun.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Steampunk Gun.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Steampunk Wheel Activate.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/Steampunk/Steampunk Wheel Activate.wav.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Sound FX Starter Pack Vol. 1/Steampunk",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Achievement.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Achievement.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Click Bounce.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Click Bounce.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Equip.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Equip.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Error.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Error.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Hover Over.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Hover Over.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Inventory.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Inventory.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Map.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Map.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Notification.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Notification.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Quit Out.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Quit Out.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Scroll.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Scroll.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Select.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Select.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Start.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus/Start.wav.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://Sound FX Starter Pack Vol. 1/UI & Menus",
+          "type": "directory"
+        }
+      ],
+      "path": "res://Sound FX Starter Pack Vol. 1",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
