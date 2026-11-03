@@ -1,0 +1,9 @@
+{
+  "id": "gc-v1-01",
+  "ok": true,
+  "result": {
+    "script_path": "res://scripts/battle/turn_manager.gd",
+    "updated": true
+  },
+  "png": null
+}
