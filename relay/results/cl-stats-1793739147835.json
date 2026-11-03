@@ -1,0 +1,21 @@
+{
+  "id": "cl-stats-1793739147835",
+  "ok": true,
+  "result": {
+    "godot_version": {
+      "build": "official",
+      "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+      "hex": 263938,
+      "major": 4,
+      "minor": 7,
+      "patch": 2,
+      "status": "stable",
+      "string": "4.7.2-stable (official)",
+      "timestamp": 0
+    },
+    "resources": 76,
+    "scenes": 273,
+    "scripts": 1189
+  },
+  "png": null
+}
