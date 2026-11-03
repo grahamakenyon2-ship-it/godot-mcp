@@ -1,0 +1,21 @@
+{
+  "id": "gc-rd-Godot-mw02cb81",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "path": "res://Godot/AnimationLibrary_Godot_Standard.glb",
+          "type": "file"
+        },
+        {
+          "path": "res://Godot/AnimationLibrary_Godot_Standard.glb.import",
+          "type": "file"
+        }
+      ],
+      "path": "res://Godot",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
