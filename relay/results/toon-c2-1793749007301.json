@@ -1,0 +1,10 @@
+{
+  "id": "toon-c2-1793749007301",
+  "ok": true,
+  "result": {
+    "created": true,
+    "root_type": "Node3D",
+    "scene_path": "res://tests/toon_test.tscn"
+  },
+  "png": null
+}
