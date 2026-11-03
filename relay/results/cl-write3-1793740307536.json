@@ -1,0 +1,9 @@
+{
+  "id": "cl-write3-1793740307536",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://tools/gc_cleanup_runner.gd"
+  },
+  "png": null
+}
