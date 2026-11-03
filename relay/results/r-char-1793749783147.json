@@ -1,0 +1,39 @@
+{
+  "id": "r-char-1793749783147",
+  "ok": true,
+  "result": {
+    "count": 29,
+    "files": [
+      "res://assets/quaternius/Audio/choose_your_character.ogg",
+      "res://assets/quaternius/Audio/choose_your_character.ogg.import",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/Blends/Character_Enemy.blend",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/Blends/Character_Enemy.blend.import",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/Blends/Character_Hazmat.blend",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/Blends/Character_Hazmat.blend.import",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/Blends/Character_Soldier.blend",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/Blends/Character_Soldier.blend.import",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/FBX/Character_Enemy.fbx",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/FBX/Character_Enemy.fbx.import",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/FBX/Character_Hazmat.fbx",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/FBX/Character_Hazmat.fbx.import",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/FBX/Character_Soldier.fbx",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/FBX/Character_Soldier.fbx.import",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/glTF/Character_Enemy.gltf",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/glTF/Character_Enemy.gltf.import",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/glTF/Character_Hazmat.gltf",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/glTF/Character_Hazmat.gltf.import",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/glTF/Character_Soldier.gltf",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/glTF/Character_Soldier.gltf.import",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/OBJ/Character_Enemy.mtl",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/OBJ/Character_Enemy.obj",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/OBJ/Character_Enemy.obj.import",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/OBJ/Character_Hazmat.mtl",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/OBJ/Character_Hazmat.obj",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/OBJ/Character_Hazmat.obj.import",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/OBJ/Character_Soldier.mtl",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/OBJ/Character_Soldier.obj",
+      "res://assets/quaternius/Toon Shooter Game Kit - Dec 2022/Characters/OBJ/Character_Soldier.obj.import"
+    ]
+  },
+  "png": null
+}
