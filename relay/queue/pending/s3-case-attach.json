@@ -1,1 +1,0 @@
-{"id":"s3-case-attach","method":"attach_script","params":{"node_path":"GCCase","script_path":"res://tools/gc_case_scan.gd"}}
