@@ -1,0 +1,8 @@
+{
+  "id": "a4-diag-exec",
+  "ok": true,
+  "result": {
+    "result": "DIAG rc=0 files=23686 imports=9696 stale=2 missing=10 logs=12"
+  },
+  "png": null
+}
