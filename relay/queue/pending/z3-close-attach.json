@@ -1,0 +1,1 @@
+{"id":"z3-close-attach","method":"attach_script","params":{"node_path":"GCClose","script_path":"res://tools/gc_closeout.gd"}}
