@@ -1,0 +1,3309 @@
+{
+  "id": "gc-rd-glTF-mw028zqs",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "path": "res://glTF/Aliens/Alien_Cyclop.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Aliens/Alien_Cyclop.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Aliens/Alien_Cyclop.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Aliens/Alien_Oculichrysalis.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Aliens/Alien_Oculichrysalis.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Aliens/Alien_Oculichrysalis.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Aliens/Alien_Scolitex.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Aliens/Alien_Scolitex.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Aliens/Alien_Scolitex.gltf.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://glTF/Aliens",
+          "type": "directory"
+        },
+        {
+          "path": "res://glTF/Bark_DeadTree.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bark_DeadTree.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bark_DeadTree_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bark_DeadTree_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bark_NormalTree.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bark_NormalTree.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bark_NormalTree_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bark_NormalTree_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bark_TwistedTree.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bark_TwistedTree.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bark_TwistedTree_Normal.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bark_TwistedTree_Normal.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bush_Common.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bush_Common.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bush_Common.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bush_Common_Flowers.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bush_Common_Flowers.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Bush_Common_Flowers.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Clover_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Clover_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Clover_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Clover_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Clover_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Clover_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://glTF/Columns/Column_Astra.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Astra.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Astra.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Hollow.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Hollow.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Hollow.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Large_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Large_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Large_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_MetalSupport.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_MetalSupport.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_MetalSupport.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_MetalSupport_Curve.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_MetalSupport_Curve.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_MetalSupport_Curve.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Pipes.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Pipes.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Pipes.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Round.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Round.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Round.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Simple.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Simple.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Columns/Column_Simple.gltf.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://glTF/Columns",
+          "type": "directory"
+        },
+        {
+          "path": "res://glTF/CommonTree_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_3.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_3.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_3.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_4.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_4.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_4.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_5.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_5.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/CommonTree_5.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_3.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_3.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_3.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_4.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_4.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_4.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_5.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_5.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/DeadTree_5.gltf.import",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://glTF/Decals/Decal_0.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_0.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_0.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_1.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_2.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_3.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_4.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_5.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_5.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_5.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_6.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_6.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_6.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_7.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_7.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_7.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_8.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_8.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_8.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_9.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_9.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_9.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_A.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_A.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_A.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Dashes.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Dashes.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Dashes.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_K.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_K.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_K.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_90.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_90.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_90.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_90_Round.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_90_Round.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_90_Round.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_90_Round_Large.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_90_Round_Large.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_90_Round_Large.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Bend1_L.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Bend1_L.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Bend1_L.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Bend1_R.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Bend1_R.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Bend1_R.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Bend2_L.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Bend2_L.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Bend2_L.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Bend2_R.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Bend2_R.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Bend2_R.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Line_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Logo.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Logo.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Logo.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Logo_Letters.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Logo_Letters.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Logo_Letters.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Logo_Small.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Logo_Small.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Logo_Small.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Sign.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Sign.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Sign.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_V.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_V.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_V.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_X.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_X.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_X.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_XSign.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_XSign.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_XSign.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Z.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Z.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Decals/Decal_Z.gltf.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://glTF/Decals",
+          "type": "directory"
+        },
+        {
+          "path": "res://glTF/desktop.ini",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Fern_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Fern_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Fern_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flowers.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flowers.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flower_3_Group.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flower_3_Group.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flower_3_Group.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flower_3_Single.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flower_3_Single.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flower_3_Single.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flower_4_Group.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flower_4_Group.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flower_4_Group.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flower_4_Single.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flower_4_Single.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Flower_4_Single.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass_Common_Short.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass_Common_Short.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass_Common_Short.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass_Common_Tall.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass_Common_Tall.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass_Common_Tall.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass_Wispy_Short.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass_Wispy_Short.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass_Wispy_Short.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass_Wispy_Tall.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass_Wispy_Tall.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Grass_Wispy_Tall.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaf_Pine.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaf_Pine.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaf_Pine_C.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaf_Pine_C.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaves.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaves.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaves_GiantPine_C.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaves_GiantPine_C.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaves_NormalTree.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaves_NormalTree.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaves_NormalTree_C.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaves_NormalTree_C.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaves_TwistedTree.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaves_TwistedTree.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaves_TwistedTree_C.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Leaves_TwistedTree_C.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Mushrooms.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Mushrooms.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Mushroom_Common.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Mushroom_Common.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Mushroom_Common.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Mushroom_Laetiporus.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Mushroom_Laetiporus.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Mushroom_Laetiporus.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/PathRocks_Diffuse.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/PathRocks_Diffuse.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_3.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_3.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_3.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_4.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_4.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_4.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_5.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_5.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Round_5.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_3.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_3.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_3.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_4.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_4.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_4.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_5.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_5.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_5.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_6.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_6.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pebble_Square_6.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_3.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_3.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_3.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_4.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_4.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_4.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_5.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_5.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Petal_5.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_3.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_3.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_3.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_4.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_4.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_4.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_5.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_5.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Pine_5.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Plant_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Plant_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Plant_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Plant_1_Big.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Plant_1_Big.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Plant_1_Big.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Plant_7.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Plant_7.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Plant_7.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Plant_7_Big.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Plant_7_Big.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Plant_7_Big.gltf.import",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://glTF/Platforms/Door_DarkMetal.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_DarkMetal.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_DarkMetal.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Frame_A.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Frame_A.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Frame_A.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Frame_Square.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Frame_Square.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Frame_Square.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Frame_SquareTall.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Frame_SquareTall.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Frame_SquareTall.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Frame_Square_Blocked.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Frame_Square_Blocked.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Frame_Square_Blocked.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Metal.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Metal.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Metal.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Simple.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Simple.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Door_Simple.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_3Plates.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_3Plates.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_3Plates.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_CenterPlate.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_CenterPlate.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_CenterPlate.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_CenterPlate_Curve.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_CenterPlate_Curve.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_CenterPlate_Curve.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_DarkPlates.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_DarkPlates.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_DarkPlates.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_DarkPlates_Curves.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_DarkPlates_Curves.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_DarkPlates_Curves.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Metal.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Metal.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Metal.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Metal2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Metal2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Metal2.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Metal2_Curve.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Metal2_Curve.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Metal2_Curve.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Metal_Curve.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Metal_Curve.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Metal_Curve.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Rails_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Rails_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Rails_2.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Rails_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Rails_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Rails_4.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Rails_4Wide.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Rails_4Wide.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Rails_4Wide.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Rails_4WideTall.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Rails_4WideTall.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Rails_4WideTall.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Ramp_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Ramp_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Ramp_2.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Ramp_2Short.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Ramp_2Short.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Ramp_2Short.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Ramp_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Ramp_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Ramp_4.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Ramp_4Wide.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Ramp_4Wide.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Ramp_4Wide.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Round1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Round1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Round1.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Simple.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Simple.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Simple.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Simple2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Simple2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Simple2.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Simple2_Curve.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Simple2_Curve.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Simple2_Curve.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Simple_Curve.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Simple_Curve.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Simple_Curve.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Squares.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Squares.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Squares.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Squares_Curve.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Squares_Curve.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Squares_Curve.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Stairs_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Stairs_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Stairs_2.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Stairs_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Stairs_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Stairs_4.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Stairs_4Wide.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Stairs_4Wide.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Stairs_4Wide.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Stairs_4WideTall.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Stairs_4WideTall.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Stairs_4WideTall.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Window_Thin.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Window_Thin.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Window_Thin.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Window_Wide.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Window_Wide.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_Window_Wide.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_X.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_X.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Platforms/Platform_X.gltf.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://glTF/Platforms",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://glTF/Props/Prop_AccessPoint.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_AccessPoint.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_AccessPoint.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Barrel_Large.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Barrel_Large.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Barrel_Large.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Cable_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Cable_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Cable_1.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Cable_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Cable_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Cable_3.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Chest.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Chest.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Chest.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Clamp.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Clamp.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Clamp.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Computer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Computer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Computer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Crate3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Crate3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Crate3.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Crate4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Crate4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Crate4.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Fan_Small.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Fan_Small.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Fan_Small.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_ItemHolder.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_ItemHolder.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_ItemHolder.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Light_Corner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Light_Corner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Light_Corner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Light_Floor.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Light_Floor.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Light_Floor.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Light_Small.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Light_Small.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Light_Small.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Light_Wide.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Light_Wide.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Light_Wide.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_PipeHolder.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_PipeHolder.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_PipeHolder.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_2.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_3.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_4.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Incline_Long_L.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Incline_Long_L.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Incline_Long_L.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Incline_Long_R.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Incline_Long_R.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Incline_Long_R.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Incline_Short_L.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Incline_Short_L.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Incline_Short_L.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Incline_Short_R.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Incline_Short_R.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Incline_Short_R.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Round_Big.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Round_Big.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Round_Big.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Round_Small.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Round_Small.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Rail_Round_Small.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Vent_Big.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Vent_Big.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Vent_Big.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Vent_Small.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Vent_Small.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Vent_Small.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Vent_Wide.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Vent_Wide.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Props/Prop_Vent_Wide.gltf.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://glTF/Props",
+          "type": "directory"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Small_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Small_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Small_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Small_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Small_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Small_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Small_3.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Small_3.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Small_3.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Thin.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Thin.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Thin.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Wide.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Wide.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Round_Wide.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Small_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Small_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Small_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Small_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Small_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Small_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Small_3.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Small_3.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Small_3.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Thin.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Thin.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Thin.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Wide.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Wide.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/RockPath_Square_Wide.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Rocks_Desert_Diffuse.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Rocks_Desert_Diffuse.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Rocks_Diffuse.png",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Rocks_Diffuse.png.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Rock_Medium_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Rock_Medium_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Rock_Medium_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Rock_Medium_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Rock_Medium_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Rock_Medium_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Rock_Medium_3.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Rock_Medium_3.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/Rock_Medium_3.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_1.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_1.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_1.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_2.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_2.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_2.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_3.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_3.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_3.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_4.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_4.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_4.gltf.import",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_5.bin",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_5.gltf",
+          "type": "file"
+        },
+        {
+          "path": "res://glTF/TwistedTree_5.gltf.import",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Round_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Round_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Round_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Round_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Round_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Round_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Square_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Square_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Square_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Square_Outer_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Square_Outer_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Square_Outer_1.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Square_Outer_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Square_Outer_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Corner_Square_Outer_2.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomMetal_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Round_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Round_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Round_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Round_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Round_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Round_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Square_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Square_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Square_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Square_Outer_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Square_Outer_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Square_Outer_1.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Square_Outer_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Square_Outer_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Corner_Square_Outer_2.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/BottomSimple_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_AccentStrip_Corner_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_AccentStrip_Corner_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_AccentStrip_Corner_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_AccentStrip_Corner_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_AccentStrip_Corner_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_AccentStrip_Corner_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_AccentStrip_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_AccentStrip_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_AccentStrip_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Band2_Corner_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Band2_Corner_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Band2_Corner_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Band2_Corner_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Band2_Corner_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Band2_Corner_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Band2_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Band2_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Band2_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkMetal2_Corner_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkMetal2_Corner_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkMetal2_Corner_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkMetal2_Corner_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkMetal2_Corner_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkMetal2_Corner_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkMetal2_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkMetal2_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkMetal2_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkPlastic_Corner_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkPlastic_Corner_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkPlastic_Corner_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkPlastic_Corner_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkPlastic_Corner_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkPlastic_Corner_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkPlastic_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkPlastic_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_DarkPlastic_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Metal2_Corner_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Metal2_Corner_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Metal2_Corner_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Metal2_Corner_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Metal2_Corner_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Metal2_Corner_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Metal2_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Metal2_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Metal2_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_MetalPlates_Corner_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_MetalPlates_Corner_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_MetalPlates_Corner_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_MetalPlates_Corner_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_MetalPlates_Corner_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_MetalPlates_Corner_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_MetalPlates_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_MetalPlates_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_MetalPlates_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple1_Corner_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple1_Corner_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple1_Corner_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple1_Corner_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple1_Corner_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple1_Corner_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple1_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple1_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple1_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple2_Corner_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple2_Corner_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple2_Corner_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple2_Corner_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple2_Corner_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple2_Corner_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple2_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple2_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Simple2_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Triangles_Corner_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Triangles_Corner_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Triangles_Corner_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Triangles_Corner_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Triangles_Corner_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Triangles_Corner_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Triangles_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Triangles_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_Triangles_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_WhitePlate2_Corner_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_WhitePlate2_Corner_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_WhitePlate2_Corner_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_WhitePlate2_Corner_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_WhitePlate2_Corner_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_WhitePlate2_Corner_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_WhitePlate2_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_WhitePlate2_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/ShortWall_WhitePlate2_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopAstra_Corner_Round_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopAstra_Corner_Round_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopAstra_Corner_Round_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopAstra_Curve_Round_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopAstra_Curve_Round_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopAstra_Curve_Round_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopAstra_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopAstra_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopAstra_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Corner_Round_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Corner_Round_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Corner_Round_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Corner_Round_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Corner_Round_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Corner_Round_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Corner_Square_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Corner_Square_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Corner_Square_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Corner_Square_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Corner_Square_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Corner_Square_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Straight_Hanging.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Straight_Hanging.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopCables_Straight_Hanging.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopPlastic_Corner_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopPlastic_Corner_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopPlastic_Corner_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopPlastic_Corner_Round_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopPlastic_Corner_Round_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopPlastic_Corner_Round_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopPlastic_Corner_Round_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopPlastic_Corner_Round_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopPlastic_Corner_Round_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopPlastic_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopPlastic_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopPlastic_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopSimple_Corner_Round_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopSimple_Corner_Round_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopSimple_Corner_Round_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopSimple_Corner_Round_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopSimple_Corner_Round_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopSimple_Corner_Round_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopSimple_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopSimple_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopSimple_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopWindow_Corner_Curve_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopWindow_Corner_Curve_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopWindow_Corner_Curve_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopWindow_Corner_Curve_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopWindow_Corner_Curve_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopWindow_Corner_Curve_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopWindow_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopWindow_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/TopWindow_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Corner_Round_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Corner_Round_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Corner_Round_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Corner_Round_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Corner_Round_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Corner_Round_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Corner_Square_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Corner_Square_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Corner_Square_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Corner_Square_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Corner_Square_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Corner_Square_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Broken.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Broken.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Broken.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Divided.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Divided.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Divided.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Flat.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Flat.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Flat.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Flat_Window.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Flat_Window.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Flat_Window.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Window.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Window.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallAstra_Straight_Window.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Corner_Round_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Corner_Round_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Corner_Round_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Corner_Round_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Corner_Round_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Corner_Round_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Corner_Square_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Corner_Square_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Corner_Square_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Corner_Square_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Corner_Square_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Corner_Square_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Straight.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Straight_Broken.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Straight_Broken.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallBand_Straight_Broken.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Cap_A.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Cap_A.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Cap_A.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Cap_B.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Cap_B.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Cap_B.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Corner_Round_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Corner_Round_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Corner_Round_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Corner_Round_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Corner_Round_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Corner_Round_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Corner_Square_Inner.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Corner_Square_Inner.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Corner_Square_Inner.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Corner_Square_Outer.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Corner_Square_Outer.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Corner_Square_Outer.gltf.import",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Straight.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Straight.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://glTF/Walls/WallWindow_Straight.gltf.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://glTF/Walls",
+          "type": "directory"
+        }
+      ],
+      "path": "res://glTF",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
