@@ -1,0 +1,1 @@
+{"id":"b2-s12bcreate-1793741595821","method":"create_script","params":{"script_path":"res://tools/gc_probe_s12b.gd","content":"@tool\nextends Node\n\nfunc run() -> String:\n\tvar d := DirAccess.open(\"res://\")\n\tvar e1 := d.remove_recursive(\"probe_del\")\n\treturn \"S12b rc=\" + str(e1)\n","overwrite":true}}
