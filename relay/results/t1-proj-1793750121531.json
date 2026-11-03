@@ -1,0 +1,9 @@
+{
+  "id": "t1-proj-1793750121531",
+  "ok": true,
+  "result": {
+    "content": "; Engine configuration file.\n; It's best edited using the editor UI and not directly,\n; since the parameters that go here are not all obvious.\n;\n; Format:\n;   [section] ; section goes between []\n;   param=value ; assign values to parameters\n\nconfig_version=5\n\n[animation]\n\ncompatibility/default_parent_skeleton_in_mesh_instance_3d=true\n\n[application]\n\nconfig/name=\"Ghost Company\"\nconfig/description=\"Turn-based tactics where your past turns fight beside you.\"\nrun/main_scene=\"res://scenes/battle/battle.tscn\"\nconfig/features=PackedStringArray(\"4.7\")\n\n[autoload]\n\nMCPRuntimeBridge=\"*res://addons/godot_mcp/services/mcp_runtime_bridge.gd\"\nMCPInputBridge=\"*res://addons/godot_mcp/services/mcp_input_bridge.gd\"\nMCPScreenshotBridge=\"*res://addons/godot_mcp/services/mcp_screenshot_bridge.gd\"\n\n[display]\n\nwindow/size/viewport_width=1280\nwindow/size/viewport_height=800\nwindow/stretch/mode=\"canvas_items\"\nwindow/stretch/aspect_ratio=\"keep\"\n\n[editor_plugins]\n\nenabled=PackedStringArray(\"res://addons/godot_mcp/plugin.cfg\")\n\n[rendering]\n\ntextures/canvas_textures/default_texture_filter=0\nrenderer/rendering_method=\"gl_compatibility\"\nrenderer/rendering_method.mobile=\"gl_compatibility\"\n",
+    "script_path": "res://project.godot"
+  },
+  "png": null
+}
