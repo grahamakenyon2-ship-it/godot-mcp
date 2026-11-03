@@ -1,0 +1,1 @@
+{"id":"a3-create-1793741027661","method":"create_script","params":{"script_path":"res://tools/gc_probe_s3.gd","content":"@tool\nextends Node\n\nfunc run() -> String:\n\tvar q := \"res://probe_test/sub/dir\"\n\tvar qd := q.get_base_dir()\n\tvar da := DirAccess.new()\n\tif not da.dir_exists(qd):\n\t\tda.make_dir_recursive(qd)\n\treturn \"S3 ok \" + qd\n","overwrite":true}}

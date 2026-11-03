@@ -1,0 +1,1 @@
+{"id":"a5-create-1793741027661","method":"create_script","params":{"script_path":"res://tools/gc_probe_s5.gd","content":"@tool\nextends Node\n\nfunc run() -> String:\n\tvar ops = {\"a\": [1, 2, 3]}\n\tvar n := 0\n\tfor src in ops.get(\"a\", []):\n\t\tn += 1\n\treturn \"S5 ok \" + str(n)\n","overwrite":true}}

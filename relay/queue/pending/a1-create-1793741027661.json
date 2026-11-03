@@ -1,0 +1,1 @@
+{"id":"a1-create-1793741027661","method":"create_script","params":{"script_path":"res://tools/gc_probe_s1.gd","content":"@tool\nextends Node\n\nfunc run() -> String:\n\tvar da := DirAccess.new()\n\tif da.dir_exists(\"E:/ghost-company-main/tools\"):\n\t\treturn \"S1 ok\"\n\treturn \"S1 miss\"\n","overwrite":true}}

@@ -1,0 +1,1 @@
+{"id":"a7-create-1793741027661","method":"create_script","params":{"script_path":"res://tools/gc_probe_s7.gd","content":"@tool\nextends Node\n\nfunc run() -> String:\n\tif FileAccess.file_exists(\"res://nope_probe.txt\"):\n\t\treturn \"S7 has\"\n\treturn \"S7 ok\"\n","overwrite":true}}
