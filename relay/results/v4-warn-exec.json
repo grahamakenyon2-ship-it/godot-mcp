@@ -1,0 +1,8 @@
+{
+  "id": "v4-warn-exec",
+  "ok": true,
+  "result": {
+    "result": "WARN files=5858 stale_hits=1 uids={ \"addons/fightengine/assets/icons/at-icons/2d/box.svg.uid\": \"NO .uid FILE\", \"addons/fightengine/assets/icons/at-icons/3d/box.svg.uid\": \"NO .uid FILE\", \"addons/fightengine/assets/icons/at-icons/2d/box_wireframe.svg.uid\": \"NO .uid FILE\", \"addons/fightengine/assets/icons/at-icons/3d/box_wireframe.svg.uid\": \"NO .uid FILE\" }"
+  },
+  "png": null
+}
