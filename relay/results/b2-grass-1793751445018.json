@@ -1,0 +1,35 @@
+{
+  "id": "b2-grass-1793751445018",
+  "ok": true,
+  "result": {
+    "count": 25,
+    "files": [
+      "res://assets/audio/sound-fx-starter-pack-vol-1/Environment/Grassy Field Loop.wav",
+      "res://assets/audio/sound-fx-starter-pack-vol-1/Environment/Grassy Field Loop.wav.import",
+      "res://assets/gltf/Grass.png",
+      "res://assets/gltf/Grass.png.import",
+      "res://assets/gltf/Grass_Common_Short.bin",
+      "res://assets/gltf/Grass_Common_Short.gltf",
+      "res://assets/gltf/Grass_Common_Short.gltf.import",
+      "res://assets/gltf/Grass_Common_Tall.bin",
+      "res://assets/gltf/Grass_Common_Tall.gltf",
+      "res://assets/gltf/Grass_Common_Tall.gltf.import",
+      "res://assets/gltf/Grass_Wispy_Short.bin",
+      "res://assets/gltf/Grass_Wispy_Short.gltf",
+      "res://assets/gltf/Grass_Wispy_Short.gltf.import",
+      "res://assets/gltf/Grass_Wispy_Tall.bin",
+      "res://assets/gltf/Grass_Wispy_Tall.gltf",
+      "res://assets/gltf/Grass_Wispy_Tall.gltf.import",
+      "res://assets/quaternius/Audio/footstep_grass_000.ogg",
+      "res://assets/quaternius/Audio/footstep_grass_000.ogg.import",
+      "res://assets/quaternius/Audio/footstep_grass_001.ogg",
+      "res://assets/quaternius/Audio/footstep_grass_001.ogg.import",
+      "res://assets/quaternius/Audio/footstep_grass_002.ogg",
+      "res://assets/quaternius/Audio/footstep_grass_002.ogg.import",
+      "res://assets/quaternius/Audio/footstep_grass_003.ogg",
+      "res://assets/quaternius/Audio/footstep_grass_003.ogg.import",
+      "res://assets/quaternius/Audio/footstep_grass_004.ogg"
+    ]
+  },
+  "png": null
+}
