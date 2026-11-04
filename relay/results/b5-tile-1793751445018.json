@@ -1,0 +1,30 @@
+{
+  "id": "b5-tile-1793751445018",
+  "ok": true,
+  "result": {
+    "count": 20,
+    "files": [
+      "res://assets/audio/music/Orchestral Music Themes/Triumphant Orchestral Themes/Short Cinematic Trailer Theme.wav",
+      "res://assets/audio/music/Orchestral Music Themes/Triumphant Orchestral Themes/Short Cinematic Trailer Theme.wav.import",
+      "res://assets/audio/sound-fx-starter-pack-vol-1/Jingles & Stingers/Milestone.wav",
+      "res://assets/audio/sound-fx-starter-pack-vol-1/Jingles & Stingers/Milestone.wav.import",
+      "res://assets/audio/sound-fx-starter-pack-vol-1/Magic/Holy Missile.wav",
+      "res://assets/audio/sound-fx-starter-pack-vol-1/Magic/Holy Missile.wav.import",
+      "res://assets/audio/sound-fx-starter-pack-vol-1/Sci-Fi/Phase Missile.wav",
+      "res://assets/audio/sound-fx-starter-pack-vol-1/Sci-Fi/Phase Missile.wav.import",
+      "res://assets/exports/FBX/Coin_Pile.fbx",
+      "res://assets/exports/FBX/Coin_Pile.fbx.import",
+      "res://assets/exports/FBX/Coin_Pile_2.fbx",
+      "res://assets/exports/FBX/Coin_Pile_2.fbx.import",
+      "res://assets/exports/glTF/Coin_Pile.bin",
+      "res://assets/exports/glTF/Coin_Pile.gltf",
+      "res://assets/exports/glTF/Coin_Pile.gltf.import",
+      "res://assets/exports/glTF/Coin_Pile_2.bin",
+      "res://assets/exports/glTF/Coin_Pile_2.gltf",
+      "res://assets/exports/glTF/Coin_Pile_2.gltf.import",
+      "res://assets/exports/OBJ/Coin_Pile.mtl",
+      "res://assets/exports/OBJ/Coin_Pile.obj"
+    ]
+  },
+  "png": null
+}
