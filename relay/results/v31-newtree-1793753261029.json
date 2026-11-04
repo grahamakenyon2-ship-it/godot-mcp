@@ -1,0 +1,749 @@
+{
+  "id": "v31-newtree-1793753261029",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Bark_DeadTree.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Bark_DeadTree_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Bark_NormalTree.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Bark_NormalTree_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Bark_TwistedTree.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Bark_TwistedTree_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Bush_Common.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Bush_Common.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Bush_Common_Flowers.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Bush_Common_Flowers.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Clover_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Clover_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Clover_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Clover_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/CommonTree_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/CommonTree_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/CommonTree_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/CommonTree_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/CommonTree_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/CommonTree_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/CommonTree_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/CommonTree_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/CommonTree_5.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/CommonTree_5.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/DeadTree_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/DeadTree_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/DeadTree_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/DeadTree_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/DeadTree_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/DeadTree_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/DeadTree_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/DeadTree_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/DeadTree_5.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/DeadTree_5.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/desktop.ini",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Fern_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Fern_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Flowers.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Flower_3_Group.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Flower_3_Group.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Flower_3_Single.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Flower_3_Single.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Flower_4_Group.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Flower_4_Group.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Flower_4_Single.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Flower_4_Single.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Grass.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Grass_Common_Short.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Grass_Common_Short.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Grass_Common_Tall.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Grass_Common_Tall.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Grass_Wispy_Short.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Grass_Wispy_Short.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Grass_Wispy_Tall.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Grass_Wispy_Tall.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Leaf_Pine.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Leaf_Pine_C.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Leaves.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Leaves_GiantPine_C.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Leaves_NormalTree.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Leaves_NormalTree_C.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Leaves_TwistedTree.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Leaves_TwistedTree_C.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Mushrooms.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Mushroom_Common.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Mushroom_Common.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Mushroom_Laetiporus.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Mushroom_Laetiporus.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/PathRocks_Diffuse.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Round_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Round_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Round_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Round_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Round_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Round_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Round_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Round_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Round_5.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Round_5.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Square_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Square_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Square_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Square_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Square_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Square_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Square_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Square_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Square_5.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Square_5.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Square_6.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pebble_Square_6.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Petal_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Petal_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Petal_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Petal_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Petal_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Petal_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Petal_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Petal_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Petal_5.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Petal_5.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pine_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pine_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pine_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pine_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pine_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pine_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pine_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pine_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pine_5.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Pine_5.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Plant_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Plant_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Plant_1_Big.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Plant_1_Big.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Plant_7.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Plant_7.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Plant_7_Big.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Plant_7_Big.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Round_Small_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Round_Small_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Round_Small_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Round_Small_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Round_Small_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Round_Small_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Round_Thin.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Round_Thin.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Round_Wide.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Round_Wide.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Square_Small_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Square_Small_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Square_Small_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Square_Small_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Square_Small_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Square_Small_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Square_Thin.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Square_Thin.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Square_Wide.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/RockPath_Square_Wide.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Rocks_Desert_Diffuse.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Rocks_Diffuse.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Rock_Medium_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Rock_Medium_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Rock_Medium_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Rock_Medium_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Rock_Medium_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/Rock_Medium_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/TwistedTree_1.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/TwistedTree_1.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/TwistedTree_2.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/TwistedTree_2.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/TwistedTree_3.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/TwistedTree_3.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/TwistedTree_4.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/TwistedTree_4.gltf",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/TwistedTree_5.bin",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF/TwistedTree_5.gltf",
+              "type": "file"
+            }
+          ],
+          "path": "res://assets/quaternius/Stylized-Nature-Kit/glTF",
+          "type": "directory"
+        },
+        {
+          "path": "res://assets/quaternius/Stylized-Nature-Kit/Preview_1.jpg",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/quaternius/Stylized-Nature-Kit/Preview_2.jpg",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/quaternius/Stylized-Nature-Kit/Preview_3.jpg",
+          "type": "file"
+        },
+        {
+          "path": "res://assets/quaternius/Stylized-Nature-Kit/Preview_4.jpg",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Bark_DeadTree.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Bark_DeadTree_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Bark_NormalTree.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Bark_NormalTree_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Bark_TwistedTree.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Bark_TwistedTree_Normal.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Flowers.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Grass.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Leaf_Pine.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Leaf_Pine_C.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Leaves.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Leaves_GiantPine_C.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Leaves_NormalTree.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Leaves_NormalTree_C.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Leaves_TwistedTree.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Leaves_TwistedTree_C.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Mushrooms.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/PathRocks_Diffuse.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Rocks_Desert_Diffuse.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/quaternius/Stylized-Nature-Kit/textures/Rocks_Diffuse.png",
+              "type": "file"
+            }
+          ],
+          "path": "res://assets/quaternius/Stylized-Nature-Kit/textures",
+          "type": "directory"
+        }
+      ],
+      "path": "res://assets/quaternius/Stylized-Nature-Kit",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
