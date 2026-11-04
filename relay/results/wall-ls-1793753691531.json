@@ -1,0 +1,20 @@
+{
+  "id": "wall-ls-1793753691531",
+  "ok": true,
+  "result": {
+    "count": 10,
+    "files": [
+      "res://assets/gltf/Walls/BottomMetal_Corner_Round_Inner.gltf",
+      "res://assets/gltf/Walls/BottomMetal_Corner_Round_Outer.gltf",
+      "res://assets/gltf/Walls/BottomMetal_Corner_Square_Inner.gltf",
+      "res://assets/gltf/Walls/BottomMetal_Corner_Square_Outer_1.gltf",
+      "res://assets/gltf/Walls/BottomMetal_Corner_Square_Outer_2.gltf",
+      "res://assets/gltf/Walls/BottomMetal_Straight.gltf",
+      "res://assets/gltf/Walls/BottomSimple_Corner_Round_Inner.gltf",
+      "res://assets/gltf/Walls/BottomSimple_Corner_Round_Outer.gltf",
+      "res://assets/gltf/Walls/BottomSimple_Corner_Square_Inner.gltf",
+      "res://assets/gltf/Walls/BottomSimple_Corner_Square_Outer_1.gltf"
+    ]
+  },
+  "png": null
+}
