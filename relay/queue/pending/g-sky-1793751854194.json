@@ -1,0 +1,1 @@
+{"id":"g-sky-1793751854194","method":"edit_script","params":{"script_path":"res://scripts/showcase.gd","search":"\tsky_mat.sun_disc_scale = 6.0  ## oversized pale disc = séance moon","replace":"\tsky_mat.sun_angle_max = 6.0  ## Godot 4 name (not 3.x sun_disc_scale): crisp big disc\n\tsky_mat.sun_curve = 0.03   ## tight falloff = defined moon edge, not a wide glow"}}
