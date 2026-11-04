@@ -1,1 +1,0 @@
-{"id":"f33-1-1793754123738","method":"edit_script","params":{"script_path":"res://scripts/showcase.gd","search":"const SKY_MINUTES_PER_DAY := 20.0  ## full day/night cycle per 20 real minutes","replace":"const SKY_MINUTES_PER_DAY := 6.0  ## full day/night cycle per 6 real minutes (showcase pace)"}}
