@@ -1,1 +1,0 @@
-{"id":"f33-3-1793754123738","method":"edit_script","params":{"script_path":"res://scripts/showcase.gd","search":"\tsky3d.moon_energy = 0.4","replace":"\tsky3d.moon_energy = 1.2      ## v3.3: night visibility\n\tsky3d.ambient_energy = 2.0    ## v3.3: lifts the pitch-black ambient at night\n\tsky3d.night_sky_contribution = 0.5  ## v3.3: less sky, more ambient at night"}}
