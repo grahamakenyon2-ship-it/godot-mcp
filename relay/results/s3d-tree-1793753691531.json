@@ -1,0 +1,194 @@
+{
+  "id": "s3d-tree-1793753691531",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://addons/sky_3d/assets/resources/SNoise.tres",
+                  "type": "file"
+                },
+                {
+                  "path": "res://addons/sky_3d/assets/resources/SunMoonLightFade.tres",
+                  "type": "file"
+                }
+              ],
+              "path": "res://addons/sky_3d/assets/resources",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://addons/sky_3d/assets/textures/noise.jpg",
+                  "type": "file"
+                },
+                {
+                  "path": "res://addons/sky_3d/assets/textures/noise.jpg.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://addons/sky_3d/assets/textures/noise2.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://addons/sky_3d/assets/textures/noise2.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://addons/sky_3d/assets/textures/noiseClouds.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://addons/sky_3d/assets/textures/noiseClouds.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://addons/sky_3d/assets/textures/SkyIcon.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://addons/sky_3d/assets/textures/SkyIcon.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://addons/sky_3d/assets/textures",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "path": "res://addons/sky_3d/assets/thirdparty/textures",
+                  "type": "directory"
+                }
+              ],
+              "path": "res://addons/sky_3d/assets/thirdparty",
+              "type": "directory"
+            }
+          ],
+          "path": "res://addons/sky_3d/assets",
+          "type": "directory"
+        },
+        {
+          "path": "res://addons/sky_3d/LICENSE.txt",
+          "type": "file"
+        },
+        {
+          "path": "res://addons/sky_3d/plugin.cfg",
+          "type": "file"
+        },
+        {
+          "path": "res://addons/sky_3d/README.md",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://addons/sky_3d/shaders/AtmFog.gdshader",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/shaders/AtmFog.gdshader.uid",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/shaders/Common.gdshaderinc",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/shaders/Common.gdshaderinc.uid",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/shaders/LICENSE",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/shaders/SkyMaterial.gdshader",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/shaders/SkyMaterial.gdshader.uid",
+              "type": "file"
+            }
+          ],
+          "path": "res://addons/sky_3d/shaders",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://addons/sky_3d/src/OrbitalElements.gd",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/src/OrbitalElements.gd.uid",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/src/Plugin.gd",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/src/Plugin.gd.uid",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/src/ScatterLib.gd",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/src/ScatterLib.gd.uid",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/src/Sky3D.gd",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/src/Sky3D.gd.uid",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/src/SkyDome.gd",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/src/SkyDome.gd.uid",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/src/TimeOfDay.gd",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/src/TimeOfDay.gd.uid",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/src/TOD_Math.gd",
+              "type": "file"
+            },
+            {
+              "path": "res://addons/sky_3d/src/TOD_Math.gd.uid",
+              "type": "file"
+            }
+          ],
+          "path": "res://addons/sky_3d/src",
+          "type": "directory"
+        },
+        {
+          "path": "res://addons/sky_3d/ThirdParty.md",
+          "type": "file"
+        }
+      ],
+      "path": "res://addons/sky_3d",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
