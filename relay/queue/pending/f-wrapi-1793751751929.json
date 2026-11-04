@@ -1,0 +1,1 @@
+{"id":"f-wrapi-1793751751929","method":"edit_script","params":{"script_path":"res://scripts/showcase.gd","search":"_play_track(wrapi(track_index + dir_, playlist.size()))","replace":"_play_track(wrapi(track_index + dir_, 0, playlist.size()))"}}
