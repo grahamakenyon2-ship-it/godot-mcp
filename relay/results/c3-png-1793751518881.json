@@ -1,0 +1,30 @@
+{
+  "id": "c3-png-1793751518881",
+  "ok": true,
+  "result": {
+    "count": 20,
+    "files": [
+      "res://assets/gltf/Bark_DeadTree.png",
+      "res://assets/gltf/Bark_DeadTree_Normal.png",
+      "res://assets/gltf/Bark_NormalTree.png",
+      "res://assets/gltf/Bark_NormalTree_Normal.png",
+      "res://assets/gltf/Bark_TwistedTree.png",
+      "res://assets/gltf/Bark_TwistedTree_Normal.png",
+      "res://assets/gltf/Flowers.png",
+      "res://assets/gltf/Grass.png",
+      "res://assets/gltf/Leaf_Pine.png",
+      "res://assets/gltf/Leaf_Pine_C.png",
+      "res://assets/gltf/Leaves.png",
+      "res://assets/gltf/Leaves_GiantPine_C.png",
+      "res://assets/gltf/Leaves_NormalTree.png",
+      "res://assets/gltf/Leaves_NormalTree_C.png",
+      "res://assets/gltf/Leaves_TwistedTree.png",
+      "res://assets/gltf/Leaves_TwistedTree_C.png",
+      "res://assets/gltf/Mushrooms.png",
+      "res://assets/gltf/PathRocks_Diffuse.png",
+      "res://assets/gltf/Rocks_Desert_Diffuse.png",
+      "res://assets/gltf/Rocks_Diffuse.png"
+    ]
+  },
+  "png": null
+}
