@@ -1,1 +1,0 @@
-{"id":"f33-0-1793754123738","method":"edit_script","params":{"script_path":"res://scripts/showcase.gd","search":"const SKY_START_TIME := 21.5   ## séance night — moon + stars up","replace":"const SKY_START_TIME := 16.5   ## late afternoon: sunset → night → sunrise demo fast"}}
