@@ -1,1 +1,0 @@
-{"id":"f33-4-1793754123738","method":"edit_script","params":{"script_path":"res://scripts/showcase.gd","search":"\t_build_environment()\n\t_build_player()","replace":"\t_build_environment()\n\t_build_fires()\n\t_build_player()"}}
