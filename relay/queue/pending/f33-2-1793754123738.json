@@ -1,1 +1,0 @@
-{"id":"f33-2-1793754123738","method":"edit_script","params":{"script_path":"res://scripts/showcase.gd","search":"var sky3d: Node  # Sky3D extends WorldEnvironment (a Node, not Node3D)","replace":"var sky3d: Node  # Sky3D extends WorldEnvironment (a Node, not Node3D)\nvar fire_t := 0.0\nvar fire_lights: Array = []  ## [light, base_energy, flicker_freq, phase]"}}
