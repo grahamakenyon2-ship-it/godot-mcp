@@ -1,1 +1,0 @@
-{"id":"t-fix-1793753899410","method":"edit_script","params":{"script_path":"res://scripts/showcase.gd","search":"var sky3d: Node3D","replace":"var sky3d: Node  # Sky3D extends WorldEnvironment (a Node, not Node3D)"}}
