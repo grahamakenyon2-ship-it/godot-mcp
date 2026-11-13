@@ -1,0 +1,12 @@
+{
+  "id": "tkt-sc6-1794557782994",
+  "method": "add_node",
+  "params": {
+    "type": "Label",
+    "name": "ForecastLabel",
+    "parent_path": ".",
+    "properties": {
+      "position": "Vector2(24, 12)"
+    }
+  }
+}

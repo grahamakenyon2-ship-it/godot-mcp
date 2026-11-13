@@ -1,0 +1,13 @@
+{
+  "id": "tkt-sc3-1794557782991",
+  "method": "add_node",
+  "params": {
+    "type": "Camera2D",
+    "name": "BattleCamera",
+    "parent_path": ".",
+    "properties": {
+      "position": "Vector2(528, 336)",
+      "zoom": "Vector2(0.85, 0.85)"
+    }
+  }
+}
