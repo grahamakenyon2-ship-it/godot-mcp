@@ -1,8 +1,0 @@
-{
-  "id": "tkt-sc8-1794557782996",
-  "method": "set_project_setting",
-  "params": {
-    "key": "application/run/main_scene",
-    "value": "res://scenes/battle01.tscn"
-  }
-}
