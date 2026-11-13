@@ -1,0 +1,30 @@
+{
+  "id": "tkt-tree-1794557963792",
+  "ok": true,
+  "result": {
+    "children": [
+      {
+        "children": [],
+        "name": "BattleCamera",
+        "path": "/root/Battle01/BattleCamera",
+        "type": "Camera2D"
+      },
+      {
+        "children": [],
+        "name": "BattleGrid",
+        "path": "/root/Battle01/BattleGrid",
+        "type": "Node2D"
+      },
+      {
+        "children": [],
+        "name": "ForecastLabel",
+        "path": "/root/Battle01/ForecastLabel",
+        "type": "Label"
+      }
+    ],
+    "name": "Battle01",
+    "path": "/root/Battle01",
+    "type": "Node2D"
+  },
+  "png": null
+}
