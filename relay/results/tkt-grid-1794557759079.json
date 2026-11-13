@@ -1,0 +1,9 @@
+{
+  "id": "tkt-grid-1794557759079",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://scripts/battle/battle_grid.gd"
+  },
+  "png": null
+}
