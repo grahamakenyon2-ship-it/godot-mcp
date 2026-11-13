@@ -1,0 +1,9 @@
+{
+  "id": "tkt-scene-v2-1794557900632",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://scenes/battle01.tscn"
+  },
+  "png": null
+}
