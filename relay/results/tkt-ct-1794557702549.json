@@ -1,0 +1,9 @@
+{
+  "id": "tkt-ct-1794557702549",
+  "ok": true,
+  "result": {
+    "created": true,
+    "script_path": "res://scripts/battle/ct_engine.gd"
+  },
+  "png": null
+}
