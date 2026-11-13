@@ -1,9 +1,0 @@
-{
-  "id": "tkt-sc1-1794557782989",
-  "method": "create_scene",
-  "params": {
-    "scene_path": "res://scenes/battle01.tscn",
-    "root_type": "Node2D",
-    "overwrite": false
-  }
-}
