@@ -1,0 +1,9 @@
+{
+  "id": "tkt-ct-1794557702549",
+  "method": "create_script",
+  "params": {
+    "script_path": "res://scripts/battle/ct_engine.gd",
+    "content": "class_name CTEngine\nextends RefCounted\n## FFT-faithful clocktick engine (Battle 1 slice). All integer math, no RNG.\n## Every tick, each unit gains CT equal to Speed; at CT >= 100 the unit acts,\n## then CT -= 100. Simulated here as a deterministic forecast of upcoming turns.\n\nstatic func forecast(units: Array, count: int) -> Array:\n\tvar ct := {}\n\tfor u in units:\n\t\tct[str(u[\"id\"])] = 0\n\tvar out: Array = []\n\tvar guard := 0\n\twhile out.size() < count and guard < 1000:\n\t\tguard += 1\n\t\tfor u in units:\n\t\t\tct[str(u[\"id\"])] = int(ct[str(u[\"id\"])]) + int(u[\"speed\"])\n\t\tvar ready: Array = []\n\t\tfor u in units:\n\t\t\tif int(ct[str(u[\"id\"])]) >= 100:\n\t\t\t\tready.append(u)\n\t\tready.sort_custom(func(a, b):\n\t\t\tvar ca := int(ct[str(a[\"id\"])])\n\t\t\tvar cb := int(ct[str(b[\"id\"])])\n\t\t\tif ca != cb:\n\t\t\t\treturn ca > cb\n\t\t\treturn int(a[\"speed\"]) > int(b[\"speed\"]))\n\t\tfor u in ready:\n\t\t\tout.append(str(u[\"name\"]))\n\t\t\tct[str(u[\"id\"])] = int(ct[str(u[\"id\"])]) - 100\n\t\t\tif out.size() >= count:\n\t\t\t\tbreak\n\treturn out\n",
+    "overwrite": true
+  }
+}
