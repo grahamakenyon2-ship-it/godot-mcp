@@ -1,7 +1,0 @@
-{
-  "id": "tkt-sc2-1794557782990",
-  "method": "open_scene",
-  "params": {
-    "scene_path": "res://scenes/battle01.tscn"
-  }
-}
