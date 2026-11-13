@@ -1,8 +1,0 @@
-{
-  "id": "tkt-sc5-1794557773415",
-  "method": "attach_script",
-  "params": {
-    "node_path": "./BattleGrid",
-    "script_path": "res://scripts/battle/battle_grid.gd"
-  }
-}
