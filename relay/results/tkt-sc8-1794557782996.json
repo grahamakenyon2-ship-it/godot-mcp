@@ -1,0 +1,9 @@
+{
+  "id": "tkt-sc8-1794557782996",
+  "ok": true,
+  "result": {
+    "key": "application/run/main_scene",
+    "value": "res://scenes/battle01.tscn"
+  },
+  "png": null
+}
