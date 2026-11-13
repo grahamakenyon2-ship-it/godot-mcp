@@ -1,0 +1,10 @@
+{
+  "id": "tkt-sc4-1794557773414",
+  "method": "add_node",
+  "params": {
+    "type": "Node2D",
+    "name": "BattleGrid",
+    "parent_path": ".",
+    "properties": {}
+  }
+}
