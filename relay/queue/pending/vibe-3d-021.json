@@ -1,0 +1,11 @@
+{"id":"vibe-3d-021","method":"edit_script","params":{"script_path":"res://scripts/battle/battle_grid.gd","search":"	st.set_uv(Vector2(u1, v0))
+	st.add_vertex(d)","replace":"	st.set_uv(Vector2(u1, v0))
+	st.add_vertex(d)
+	var i0 := st.get_vertex_count() - 4
+	st.index()
+	st.add_index(i0)
+	st.add_index(i0 + 1)
+	st.add_index(i0 + 2)
+	st.add_index(i0)
+	st.add_index(i0 + 2)
+	st.add_index(i0 + 3)"}}
