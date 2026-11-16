@@ -1,0 +1,25 @@
+{"id":"vibe-3d-062","method":"edit_script","params":{"script_path":"res://scripts/battle/battle_grid.gd","search":"	var i0: int = _vc
+	st.set_normal(n)
+	st.set_color(col)
+	st.set_uv(Vector2(u0, v0))
+	st.add_vertex(a)
+	st.set_uv(Vector2(u0, v1))
+	st.add_vertex(b)
+	st.set_uv(Vector2(u1, v1))
+	st.add_vertex(c)
+	st.set_uv(Vector2(u1, v0))
+	st.add_vertex(d)
+	st.index()
+	st.add_index(i0)
+	st.add_index(i0 + 1)
+	st.add_index(i0 + 2)
+	st.add_index(i0)
+	st.add_index(i0 + 2)
+	st.add_index(i0 + 3)
+	_vc += 4","replace":"	var verts := [a, b, c, a, c, d]
+	var uvs := [Vector2(u0, v0), Vector2(u0, v1), Vector2(u1, v1), Vector2(u0, v0), Vector2(u1, v1), Vector2(u1, v0)]
+	for i in 6:
+		st.set_normal(n)
+		st.set_color(col)
+		st.set_uv(uvs[i])
+		st.add_vertex(verts[i])"}}
