@@ -1,0 +1,180 @@
+{
+  "id": "vibe-app-003",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [],
+                  "path": "res://addons/godot_mcp/commands",
+                  "type": "directory"
+                },
+                {
+                  "path": "res://addons/godot_mcp/command_router.gd",
+                  "type": "file"
+                },
+                {
+                  "path": "res://addons/godot_mcp/command_router.gd.uid",
+                  "type": "file"
+                },
+                {
+                  "path": "res://addons/godot_mcp/plugin.cfg",
+                  "type": "file"
+                },
+                {
+                  "path": "res://addons/godot_mcp/plugin.gd",
+                  "type": "file"
+                },
+                {
+                  "path": "res://addons/godot_mcp/plugin.gd.uid",
+                  "type": "file"
+                },
+                {
+                  "children": [],
+                  "path": "res://addons/godot_mcp/services",
+                  "type": "directory"
+                },
+                {
+                  "children": [],
+                  "path": "res://addons/godot_mcp/utils",
+                  "type": "directory"
+                },
+                {
+                  "path": "res://addons/godot_mcp/websocket_client.gd",
+                  "type": "file"
+                },
+                {
+                  "path": "res://addons/godot_mcp/websocket_client.gd.uid",
+                  "type": "file"
+                }
+              ],
+              "path": "res://addons/godot_mcp",
+              "type": "directory"
+            }
+          ],
+          "path": "res://addons",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://data/battle01.json",
+              "type": "file"
+            }
+          ],
+          "path": "res://data",
+          "type": "directory"
+        },
+        {
+          "path": "res://icon.svg",
+          "type": "file"
+        },
+        {
+          "path": "res://icon.svg.import",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://playable/battle1.html",
+              "type": "file"
+            },
+            {
+              "path": "res://playable/data.js",
+              "type": "file"
+            },
+            {
+              "path": "res://playable/engine.js",
+              "type": "file"
+            },
+            {
+              "path": "res://playable/test-headless.js",
+              "type": "file"
+            }
+          ],
+          "path": "res://playable",
+          "type": "directory"
+        },
+        {
+          "path": "res://project.godot",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://scenes/battle01.tscn",
+              "type": "file"
+            }
+          ],
+          "path": "res://scenes",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://scripts/battle/battle_controller.gd",
+                  "type": "file"
+                },
+                {
+                  "path": "res://scripts/battle/battle_controller.gd.uid",
+                  "type": "file"
+                },
+                {
+                  "path": "res://scripts/battle/battle_grid.gd",
+                  "type": "file"
+                },
+                {
+                  "path": "res://scripts/battle/battle_grid.gd.uid",
+                  "type": "file"
+                },
+                {
+                  "path": "res://scripts/battle/battle_sim.gd",
+                  "type": "file"
+                },
+                {
+                  "path": "res://scripts/battle/battle_sim.gd.uid",
+                  "type": "file"
+                },
+                {
+                  "path": "res://scripts/battle/ct_engine.gd",
+                  "type": "file"
+                },
+                {
+                  "path": "res://scripts/battle/ct_engine.gd.uid",
+                  "type": "file"
+                }
+              ],
+              "path": "res://scripts/battle",
+              "type": "directory"
+            }
+          ],
+          "path": "res://scripts",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://tests/run_tests.gd",
+              "type": "file"
+            },
+            {
+              "path": "res://tests/run_tests.gd.uid",
+              "type": "file"
+            }
+          ],
+          "path": "res://tests",
+          "type": "directory"
+        }
+      ],
+      "path": "res://",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
