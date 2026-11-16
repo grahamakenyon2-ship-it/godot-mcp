@@ -1,0 +1,1 @@
+{"id":"vibe-app-003","method":"get_filesystem_tree","params":{"directory":"res://","max_depth":3}}
