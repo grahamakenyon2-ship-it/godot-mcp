@@ -1,0 +1,61 @@
+{
+  "id": "vibe-app-018",
+  "ok": true,
+  "result": {
+    "children": [
+      {
+        "children": [],
+        "name": "BattleGrid",
+        "path": "/root/Battle01/BattleGrid",
+        "type": "Node2D"
+      },
+      {
+        "children": [],
+        "name": "BattleCamera",
+        "path": "/root/Battle01/BattleCamera",
+        "type": "Camera2D"
+      },
+      {
+        "children": [],
+        "name": "@Node2D@2",
+        "path": "/root/Battle01/@Node2D@2",
+        "type": "Node2D"
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "name": "ForecastLabel",
+            "path": "/root/Battle01/@CanvasLayer@3/ForecastLabel",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "InspectorLabel",
+            "path": "/root/Battle01/@CanvasLayer@3/InspectorLabel",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "LogLabel",
+            "path": "/root/Battle01/@CanvasLayer@3/LogLabel",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "BannerLabel",
+            "path": "/root/Battle01/@CanvasLayer@3/BannerLabel",
+            "type": "Label"
+          }
+        ],
+        "name": "@CanvasLayer@3",
+        "path": "/root/Battle01/@CanvasLayer@3",
+        "type": "CanvasLayer"
+      }
+    ],
+    "name": "Battle01",
+    "path": "/root/Battle01",
+    "type": "Node2D"
+  },
+  "png": null
+}
