@@ -1,1 +1,0 @@
-{"id":"vibe-3d-047","method":"execute_game_script","params":{"code":"str(grid.get_child(2).mesh.get_surface_count()) + \"|verts=\" + str(grid.get_child(2).mesh.surface_get_array_len(0, 0)) + \"|vis=\" + str(grid.get_child(2).visible) + \"|aabb=\" + str(grid.get_child(2).mesh.get_aabb())"}}
