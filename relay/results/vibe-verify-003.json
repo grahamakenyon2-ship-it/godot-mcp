@@ -1,0 +1,734 @@
+{
+  "id": "vibe-verify-003",
+  "ok": true,
+  "result": {
+    "tree": {
+      "children": [
+        {
+          "path": "res://assets/ATTRIBUTION.md",
+          "type": "file"
+        },
+        {
+          "children": [
+            {
+              "path": "res://assets/ghost_kit/echo_tint.gdshader",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/ghost_kit/echo_tint.gdshader.uid",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/ghost_kit/grid_indicator.gdshader",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/ghost_kit/grid_indicator.gdshader.uid",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/ghost_kit/grid_indicators.gd",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/ghost_kit/grid_indicators.gd.uid",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/ghost_kit/LICENSE",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/ghost_kit/README.md",
+              "type": "file"
+            }
+          ],
+          "path": "res://assets/ghost_kit",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://assets/icons/item1.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item1.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item10.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item10.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item11.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item11.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item12.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item12.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item13.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item13.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item14.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item14.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item15.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item15.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item16.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item16.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item17.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item17.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item18.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item18.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item19.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item19.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item2.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item2.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item20.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item20.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item21.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item21.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item22.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item22.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item23.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item23.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item24.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item24.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item25.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item25.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item26.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item26.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item27.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item27.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item28.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item28.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item29.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item29.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item3.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item3.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item30.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item30.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item31.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item31.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item32.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item32.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item33.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item33.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item34.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item34.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item35.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item35.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item36.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item36.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item37.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item37.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item38.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item38.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item39.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item39.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item4.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item4.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item40.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item40.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item41.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item41.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item42.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item42.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item43.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item43.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item44.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item44.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item45.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item45.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item46.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item46.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item47.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item47.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item48.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item48.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item49.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item49.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item5.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item5.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item50.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item50.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item51.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item51.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item52.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item52.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item53.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item53.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item54.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item54.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item55.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item55.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item56.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item56.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item57.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item57.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item58.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item58.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item59.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item59.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item6.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item6.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item60.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item60.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item61.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item61.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item62.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item62.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item63.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item63.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item64.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item64.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item7.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item7.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item8.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item8.png.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item9.png",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/icons/item9.png.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://assets/icons",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://assets/music/intrigue.mp3",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/music/intrigue.mp3.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/music/invasion.mp3",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/music/invasion.mp3.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://assets/music",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "path": "res://assets/sfx/explosion.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/sfx/explosion.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/sfx/hit.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/sfx/hit.wav.import",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/sfx/select.wav",
+              "type": "file"
+            },
+            {
+              "path": "res://assets/sfx/select.wav.import",
+              "type": "file"
+            }
+          ],
+          "path": "res://assets/sfx",
+          "type": "directory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "path": "res://assets/tiny_swords/deco/bush.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://assets/tiny_swords/deco/bush.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://assets/tiny_swords/deco/rock.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://assets/tiny_swords/deco/rock.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://assets/tiny_swords/deco",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://assets/tiny_swords/tileset/shadow.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://assets/tiny_swords/tileset/shadow.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://assets/tiny_swords/tileset/tilemap.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://assets/tiny_swords/tileset/tilemap.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://assets/tiny_swords/tileset",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "path": "res://assets/tiny_swords/ui/bar_base.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://assets/tiny_swords/ui/bar_base.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://assets/tiny_swords/ui/bar_fill.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://assets/tiny_swords/ui/bar_fill.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://assets/tiny_swords/ui/cursor.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://assets/tiny_swords/ui/cursor.png.import",
+                  "type": "file"
+                },
+                {
+                  "path": "res://assets/tiny_swords/ui/paper.png",
+                  "type": "file"
+                },
+                {
+                  "path": "res://assets/tiny_swords/ui/paper.png.import",
+                  "type": "file"
+                }
+              ],
+              "path": "res://assets/tiny_swords/ui",
+              "type": "directory"
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "path": "res://assets/tiny_swords/units/black",
+                  "type": "directory"
+                },
+                {
+                  "children": [],
+                  "path": "res://assets/tiny_swords/units/blue",
+                  "type": "directory"
+                },
+                {
+                  "children": [],
+                  "path": "res://assets/tiny_swords/units/yellow",
+                  "type": "directory"
+                }
+              ],
+              "path": "res://assets/tiny_swords/units",
+              "type": "directory"
+            }
+          ],
+          "path": "res://assets/tiny_swords",
+          "type": "directory"
+        }
+      ],
+      "path": "res://assets",
+      "type": "directory"
+    }
+  },
+  "png": null
+}
