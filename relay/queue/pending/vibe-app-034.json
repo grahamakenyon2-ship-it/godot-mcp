@@ -1,1 +1,0 @@
-{"id": "vibe-app-034", "method": "execute_game_script", "params": {"code": "[debug_press(4194321),debug_press(4194321),debug_press(4194321),debug_press(4194321),debug_press(4194321),debug_press(90),debug_press(88), 'turn=' + str(sim.turn_count) + ' active=' + sim.active_id + ' cursor=' + str(grid.cursor) + ' mode=' + mode + ' liu_pos=' + str(sim.unit_by_id('liu_bei').pos)][7]"}}
