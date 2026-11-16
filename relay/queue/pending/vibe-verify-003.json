@@ -1,0 +1,1 @@
+{"id":"vibe-verify-003","method":"get_filesystem_tree","params":{"directory":"res://assets","max_depth":3}}
