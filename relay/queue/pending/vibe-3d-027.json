@@ -1,1 +1,0 @@
-{"id":"vibe-3d-027","method":"execute_game_script","params":{"code":"str(grid.cam.global_rotation_degrees) + \"|cur=\" + str(grid.cam.current) + \"|same=\" + str(get_viewport().get_camera_3d() == grid.cam) + \"|size=\" + str(grid.cam.size) + \"|proj=\" + str(grid.cam.projection)"}}
