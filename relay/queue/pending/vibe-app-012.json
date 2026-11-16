@@ -1,0 +1,1 @@
+{"id":"vibe-app-012","method":"edit_script","params":{"script_path":"res://scripts/battle/battle_sim.gd","search":"var n := cur + d","replace":"var n: Vector2i = cur + d"}}
