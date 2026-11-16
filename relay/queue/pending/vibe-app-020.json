@@ -1,0 +1,1 @@
+{"id":"vibe-app-020","method":"execute_game_script","params":{"code":"sim.active_id + ' | ' + str(sim.forecast(8)) + ' | turn=' + str(sim.turn_count) + ' | mode=' + mode + ' | cursor=' + str(grid.cursor)"}}
