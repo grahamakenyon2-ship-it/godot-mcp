@@ -1,1 +1,0 @@
-{"id":"vibe-app-051","method":"execute_editor_script","params":{"code":"str(DirAccess.get_files_at('E:/'))"}}
