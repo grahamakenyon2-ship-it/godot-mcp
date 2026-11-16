@@ -1,1 +1,0 @@
-{"id":"vibe-app-023","method":"execute_game_script","params":{"code":"str(grid.cursor) + ' | mode=' + mode + ' | move_tiles=' + str(grid.move_tiles.size())"}}
