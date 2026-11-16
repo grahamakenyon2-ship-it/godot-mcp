@@ -1,0 +1,1 @@
+{"id":"vibe-app-059","method":"execute_game_script","params":{"code":"debug_ls('E:/GameDev/Godot Game Projects') + ' || ' + debug_ls('E:/TKTactics')"}}
