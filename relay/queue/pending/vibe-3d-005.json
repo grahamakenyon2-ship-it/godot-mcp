@@ -1,1 +1,0 @@
-{"id":"vibe-3d-005","method":"execute_game_script","params":{"code":"str(grid is Node3D) + \"|grid2d=\" + str(grid is Node2D) + \"|has_cam3d=\" + str(grid.get(\"cam\") != null) + \"|scene=\" + str(get_tree().current_scene.get_scene_file_path())"}}
