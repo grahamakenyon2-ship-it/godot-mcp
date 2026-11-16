@@ -1,1 +1,0 @@
-{"id":"vibe-app-044","method":"execute_game_script","params":{"code":"str(sim.log) + ' || turn=' + str(sim.turn_count) + ' active=' + sim.active_id + ' ct=' + str(sim.ct)"}}
