@@ -1,0 +1,6 @@
+{
+  "id": "vibe-app-044",
+  "ok": true,
+  "result": "[\"Battle start: Daxing Road Ambush\", \"Liu Bei moves to (5,1)\", \"Cheng Yuanzhi waits\"] || turn=2 active=guan_yu ct={ \"liu_bei\": 72, \"guan_yu\": 108, \"zhang_fei\": 96, \"cheng_yuanzhi\": 60, \"yb_dao_1\": 84, \"yb_dao_2\": 84, \"yb_jian_1\": 84, \"yb_jian_2\": 84, \"yb_spear_1\": 84, \"yb_archer_1\": 84, \"yb_archer_2\": 84 }",
+  "png": null
+}
