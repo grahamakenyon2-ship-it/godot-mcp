@@ -1,1 +1,0 @@
-{"id":"vibe-app-036","method":"edit_script","params":{"script_path":"res://scripts/battle/battle_controller.gd","search":"func _confirm() -> void:","replace":"func debug_click_tile(x: int, y: int) -> void:\n\tgrid.cursor = Vector2i(x, y)\n\t_confirm()\n\n\nfunc _confirm() -> void:"}}
