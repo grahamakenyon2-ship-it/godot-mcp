@@ -1,0 +1,6 @@
+{
+  "id": "vibe-app-049",
+  "ok": true,
+  "result": "[{ \"type\": \"move\", \"id\": \"liu_bei\", \"to\": [5, 1] }, { \"type\": \"wait\", \"id\": \"liu_bei\" }, { \"type\": \"move\", \"id\": \"cheng_yuanzhi\", \"to\": [14, 5] }, { \"type\": \"wait\", \"id\": \"cheng_yuanzhi\" }] || turn=2 active=guan_yu liu_ct=72 mode=select",
+  "png": null
+}
