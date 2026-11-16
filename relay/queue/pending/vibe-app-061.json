@@ -1,1 +1,0 @@
-{"id":"vibe-app-061","method":"execute_game_script","params":{"code":"debug_ls('E:/GameDev/Godot Game Projects/game-asset-vault').left(150) + ' || ' + debug_ls('E:/game-asset-vault').left(150) + ' || ' + debug_ls('E:/GameDev/game-asset-vault').left(150) + ' || ' + debug_ls('E:/Tools/game-asset-vault').left(150) + ' || ' + debug_ls('E:/TKTactics/game-asset-vault').left(150)"}}
