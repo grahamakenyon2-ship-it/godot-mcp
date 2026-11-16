@@ -1,1 +1,0 @@
-{"id":"vibe-3d-054","method":"execute_game_script","params":{"code":"str(grid.get_script().source_code.contains(\"st.add_index\")) + \"|_vc=\" + str(grid.get_script().source_code.contains(\"_vc\")) + \"|gv=\" + str(grid.get_script().source_code.contains(\"get_vertex_count\"))"}}
