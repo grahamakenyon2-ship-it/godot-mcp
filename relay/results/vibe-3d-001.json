@@ -1,0 +1,9 @@
+{
+  "id": "vibe-3d-001",
+  "ok": true,
+  "result": {
+    "script_path": "res://tests/run_tests.gd",
+    "updated": true
+  },
+  "png": null
+}
