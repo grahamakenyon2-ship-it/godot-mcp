@@ -1,1 +1,0 @@
-{"id":"vibe-app-041","method":"execute_game_script","params":{"code":"var c = sim.byId('cheng_yuanzhi'); str(c.pos) + ' move_range=' + str(sim.move_range(c).size()) + ' keys_sample=' + str(sim.move_range(c).keys().slice(0,5))"}}
