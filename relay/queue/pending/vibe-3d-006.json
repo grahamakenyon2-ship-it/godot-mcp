@@ -1,1 +1,0 @@
-{"id":"vibe-3d-006","method":"execute_game_script","params":{"code":"str(grid is Node3D) + \"|2d=\" + str(grid is Node2D) + \"|cam=\" + str(grid.cam != null)"}}
