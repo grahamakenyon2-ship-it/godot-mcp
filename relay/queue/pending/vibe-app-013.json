@@ -1,0 +1,1 @@
+{"id":"vibe-app-013","method":"edit_script","params":{"script_path":"res://scripts/battle/battle_sim.gd","search":"var cornered := chosen.duplicate()","replace":"var cornered: Dictionary = chosen.duplicate()"}}
