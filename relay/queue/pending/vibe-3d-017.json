@@ -1,1 +1,0 @@
-{"id":"vibe-3d-017","method":"execute_game_script","params":{"code":"get_viewport().get_texture().get_image().resize(960, 600, 0).save_png_to_buffer().hex_encode()"}}
