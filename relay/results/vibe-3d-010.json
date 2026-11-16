@@ -1,0 +1,494 @@
+{
+  "id": "vibe-3d-010",
+  "ok": true,
+  "result": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "name": "@WorldEnvironment@2",
+            "path": "/root/Battle01/BattleGrid/@WorldEnvironment@2",
+            "type": "WorldEnvironment"
+          },
+          {
+            "children": [],
+            "name": "@DirectionalLight3D@3",
+            "path": "/root/Battle01/BattleGrid/@DirectionalLight3D@3",
+            "type": "DirectionalLight3D"
+          },
+          {
+            "children": [],
+            "name": "@MeshInstance3D@4",
+            "path": "/root/Battle01/BattleGrid/@MeshInstance3D@4",
+            "type": "MeshInstance3D"
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "name": "@CollisionShape3D@5",
+                "path": "/root/Battle01/BattleGrid/@StaticBody3D@6/@CollisionShape3D@5",
+                "type": "CollisionShape3D"
+              }
+            ],
+            "name": "@StaticBody3D@6",
+            "path": "/root/Battle01/BattleGrid/@StaticBody3D@6",
+            "type": "StaticBody3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@7",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@7",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@8",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@8",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@9",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@9",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@10",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@10",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@11",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@11",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@12",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@12",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@13",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@13",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@14",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@14",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@15",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@15",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@16",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@16",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@17",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@17",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@18",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@18",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@19",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@19",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@20",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@20",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@21",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@21",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@22",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@22",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@23",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@23",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@24",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@24",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@Sprite3D@25",
+            "path": "/root/Battle01/BattleGrid/@Sprite3D@25",
+            "type": "Sprite3D"
+          },
+          {
+            "children": [],
+            "name": "@MeshInstance3D@26",
+            "path": "/root/Battle01/BattleGrid/@MeshInstance3D@26",
+            "type": "MeshInstance3D"
+          },
+          {
+            "children": [],
+            "name": "@MeshInstance3D@27",
+            "path": "/root/Battle01/BattleGrid/@MeshInstance3D@27",
+            "type": "MeshInstance3D"
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "name": "@AnimatedSprite3D@28",
+                "path": "/root/Battle01/BattleGrid/unit_liu_bei/@AnimatedSprite3D@28",
+                "type": "AnimatedSprite3D"
+              },
+              {
+                "children": [],
+                "name": "@Sprite3D@29",
+                "path": "/root/Battle01/BattleGrid/unit_liu_bei/@Sprite3D@29",
+                "type": "Sprite3D"
+              }
+            ],
+            "name": "unit_liu_bei",
+            "path": "/root/Battle01/BattleGrid/unit_liu_bei",
+            "type": "Node3D"
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "name": "@AnimatedSprite3D@30",
+                "path": "/root/Battle01/BattleGrid/unit_guan_yu/@AnimatedSprite3D@30",
+                "type": "AnimatedSprite3D"
+              },
+              {
+                "children": [],
+                "name": "@Sprite3D@31",
+                "path": "/root/Battle01/BattleGrid/unit_guan_yu/@Sprite3D@31",
+                "type": "Sprite3D"
+              }
+            ],
+            "name": "unit_guan_yu",
+            "path": "/root/Battle01/BattleGrid/unit_guan_yu",
+            "type": "Node3D"
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "name": "@AnimatedSprite3D@32",
+                "path": "/root/Battle01/BattleGrid/unit_zhang_fei/@AnimatedSprite3D@32",
+                "type": "AnimatedSprite3D"
+              },
+              {
+                "children": [],
+                "name": "@Sprite3D@33",
+                "path": "/root/Battle01/BattleGrid/unit_zhang_fei/@Sprite3D@33",
+                "type": "Sprite3D"
+              }
+            ],
+            "name": "unit_zhang_fei",
+            "path": "/root/Battle01/BattleGrid/unit_zhang_fei",
+            "type": "Node3D"
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "name": "@AnimatedSprite3D@34",
+                "path": "/root/Battle01/BattleGrid/unit_cheng_yuanzhi/@AnimatedSprite3D@34",
+                "type": "AnimatedSprite3D"
+              },
+              {
+                "children": [],
+                "name": "@Sprite3D@35",
+                "path": "/root/Battle01/BattleGrid/unit_cheng_yuanzhi/@Sprite3D@35",
+                "type": "Sprite3D"
+              }
+            ],
+            "name": "unit_cheng_yuanzhi",
+            "path": "/root/Battle01/BattleGrid/unit_cheng_yuanzhi",
+            "type": "Node3D"
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "name": "@AnimatedSprite3D@36",
+                "path": "/root/Battle01/BattleGrid/unit_yb_dao_1/@AnimatedSprite3D@36",
+                "type": "AnimatedSprite3D"
+              },
+              {
+                "children": [],
+                "name": "@Sprite3D@37",
+                "path": "/root/Battle01/BattleGrid/unit_yb_dao_1/@Sprite3D@37",
+                "type": "Sprite3D"
+              }
+            ],
+            "name": "unit_yb_dao_1",
+            "path": "/root/Battle01/BattleGrid/unit_yb_dao_1",
+            "type": "Node3D"
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "name": "@AnimatedSprite3D@38",
+                "path": "/root/Battle01/BattleGrid/unit_yb_dao_2/@AnimatedSprite3D@38",
+                "type": "AnimatedSprite3D"
+              },
+              {
+                "children": [],
+                "name": "@Sprite3D@39",
+                "path": "/root/Battle01/BattleGrid/unit_yb_dao_2/@Sprite3D@39",
+                "type": "Sprite3D"
+              }
+            ],
+            "name": "unit_yb_dao_2",
+            "path": "/root/Battle01/BattleGrid/unit_yb_dao_2",
+            "type": "Node3D"
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "name": "@AnimatedSprite3D@40",
+                "path": "/root/Battle01/BattleGrid/unit_yb_jian_1/@AnimatedSprite3D@40",
+                "type": "AnimatedSprite3D"
+              },
+              {
+                "children": [],
+                "name": "@Sprite3D@41",
+                "path": "/root/Battle01/BattleGrid/unit_yb_jian_1/@Sprite3D@41",
+                "type": "Sprite3D"
+              }
+            ],
+            "name": "unit_yb_jian_1",
+            "path": "/root/Battle01/BattleGrid/unit_yb_jian_1",
+            "type": "Node3D"
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "name": "@AnimatedSprite3D@42",
+                "path": "/root/Battle01/BattleGrid/unit_yb_jian_2/@AnimatedSprite3D@42",
+                "type": "AnimatedSprite3D"
+              },
+              {
+                "children": [],
+                "name": "@Sprite3D@43",
+                "path": "/root/Battle01/BattleGrid/unit_yb_jian_2/@Sprite3D@43",
+                "type": "Sprite3D"
+              }
+            ],
+            "name": "unit_yb_jian_2",
+            "path": "/root/Battle01/BattleGrid/unit_yb_jian_2",
+            "type": "Node3D"
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "name": "@AnimatedSprite3D@44",
+                "path": "/root/Battle01/BattleGrid/unit_yb_spear_1/@AnimatedSprite3D@44",
+                "type": "AnimatedSprite3D"
+              },
+              {
+                "children": [],
+                "name": "@Sprite3D@45",
+                "path": "/root/Battle01/BattleGrid/unit_yb_spear_1/@Sprite3D@45",
+                "type": "Sprite3D"
+              }
+            ],
+            "name": "unit_yb_spear_1",
+            "path": "/root/Battle01/BattleGrid/unit_yb_spear_1",
+            "type": "Node3D"
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "name": "@AnimatedSprite3D@46",
+                "path": "/root/Battle01/BattleGrid/unit_yb_archer_1/@AnimatedSprite3D@46",
+                "type": "AnimatedSprite3D"
+              },
+              {
+                "children": [],
+                "name": "@Sprite3D@47",
+                "path": "/root/Battle01/BattleGrid/unit_yb_archer_1/@Sprite3D@47",
+                "type": "Sprite3D"
+              }
+            ],
+            "name": "unit_yb_archer_1",
+            "path": "/root/Battle01/BattleGrid/unit_yb_archer_1",
+            "type": "Node3D"
+          },
+          {
+            "children": [],
+            "name": "BattleCamera3D",
+            "path": "/root/Battle01/BattleGrid/BattleCamera3D",
+            "type": "Camera3D"
+          }
+        ],
+        "name": "BattleGrid",
+        "path": "/root/Battle01/BattleGrid",
+        "type": "Node3D"
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "name": "ForecastLabel",
+            "path": "/root/Battle01/@CanvasLayer@48/ForecastLabel",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "InspectorLabel",
+            "path": "/root/Battle01/@CanvasLayer@48/InspectorLabel",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "LogLabel",
+            "path": "/root/Battle01/@CanvasLayer@48/LogLabel",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "BannerLabel",
+            "path": "/root/Battle01/@CanvasLayer@48/BannerLabel",
+            "type": "Label"
+          }
+        ],
+        "name": "@CanvasLayer@48",
+        "path": "/root/Battle01/@CanvasLayer@48",
+        "type": "CanvasLayer"
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "name": "@Label@9844",
+            "path": "/root/Battle01/@CanvasLayer@49/@Label@9844",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "@Label@9845",
+            "path": "/root/Battle01/@CanvasLayer@49/@Label@9845",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "@Label@9846",
+            "path": "/root/Battle01/@CanvasLayer@49/@Label@9846",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "@Label@9847",
+            "path": "/root/Battle01/@CanvasLayer@49/@Label@9847",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "@Label@9848",
+            "path": "/root/Battle01/@CanvasLayer@49/@Label@9848",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "@Label@9849",
+            "path": "/root/Battle01/@CanvasLayer@49/@Label@9849",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "@Label@9850",
+            "path": "/root/Battle01/@CanvasLayer@49/@Label@9850",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "@Label@9851",
+            "path": "/root/Battle01/@CanvasLayer@49/@Label@9851",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "@Label@9852",
+            "path": "/root/Battle01/@CanvasLayer@49/@Label@9852",
+            "type": "Label"
+          },
+          {
+            "children": [],
+            "name": "@Label@9853",
+            "path": "/root/Battle01/@CanvasLayer@49/@Label@9853",
+            "type": "Label"
+          }
+        ],
+        "name": "@CanvasLayer@49",
+        "path": "/root/Battle01/@CanvasLayer@49",
+        "type": "CanvasLayer"
+      },
+      {
+        "children": [],
+        "name": "@AudioStreamPlayer@50",
+        "path": "/root/Battle01/@AudioStreamPlayer@50",
+        "type": "AudioStreamPlayer"
+      },
+      {
+        "children": [],
+        "name": "@AudioStreamPlayer@51",
+        "path": "/root/Battle01/@AudioStreamPlayer@51",
+        "type": "AudioStreamPlayer"
+      },
+      {
+        "children": [],
+        "name": "@AudioStreamPlayer@52",
+        "path": "/root/Battle01/@AudioStreamPlayer@52",
+        "type": "AudioStreamPlayer"
+      },
+      {
+        "children": [],
+        "name": "@AudioStreamPlayer@53",
+        "path": "/root/Battle01/@AudioStreamPlayer@53",
+        "type": "AudioStreamPlayer"
+      }
+    ],
+    "name": "Battle01",
+    "path": "/root/Battle01",
+    "type": "Node3D"
+  },
+  "png": null
+}
