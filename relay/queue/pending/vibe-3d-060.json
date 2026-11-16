@@ -1,1 +1,0 @@
-{"id":"vibe-3d-060","method":"edit_script","params":{"script_path":"res://scripts/battle/battle_grid.gd","search":"var zoom_idx := 1\nvar _vc := 0        # vertex counter for the SurfaceTool currently being filled","replace":"var zoom_idx := 1"}}
