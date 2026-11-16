@@ -1,0 +1,6 @@
+{
+  "id": "vibe-app-045",
+  "ok": true,
+  "result": "[{ \"type\": \"move\", \"id\": \"liu_bei\", \"to\": [5, 1] }, { \"type\": \"wait\", \"id\": \"cheng_yuanzhi\" }]",
+  "png": null
+}
