@@ -1,0 +1,1 @@
+{"id":"vibe-app-027","method":"edit_script","params":{"script_path":"res://scripts/battle/battle_controller.gd","search":"func _confirm() -> void:","replace":"func debug_press(keycode: int) -> void:\n\tvar ev := InputEventKey.new()\n\tev.keycode = keycode\n\tev.pressed = true\n\t_unhandled_input(ev)\n\n\nfunc _confirm() -> void:"}}
