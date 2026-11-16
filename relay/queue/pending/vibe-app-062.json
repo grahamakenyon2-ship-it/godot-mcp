@@ -1,1 +1,0 @@
-{"id":"vibe-app-062","method":"execute_game_script","params":{"code":"debug_ls('E:/GameDev/Godot Game Projects/ghost-kit').left(200) + ' || packs: ' + debug_ls('E:/GameDev/Godot Game Projects/packs').left(300) + ' || extracted: ' + debug_ls('E:/GameDev/Godot Game Projects/extracted').left(400)"}}
