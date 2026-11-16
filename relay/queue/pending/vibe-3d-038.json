@@ -1,0 +1,1 @@
+{"id":"vibe-3d-038","method":"edit_script","params":{"script_path":"res://scripts/battle/battle_grid.gd","search":"	var i0: int = st.get_vertex_count()","replace":"	var i0: int = _vc"}}
