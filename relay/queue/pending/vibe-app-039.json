@@ -1,1 +1,0 @@
-{"id":"vibe-app-039","method":"execute_game_script","params":{"code":"str(sim.forecast(8)) + ' | turn=' + str(sim.turn_count) + ' | log_tail=' + str(sim.log.slice(maxi(0, sim.log.size()-5)))"}}
