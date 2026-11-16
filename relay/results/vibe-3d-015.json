@@ -1,5 +1,6 @@
 {
   "id": "vibe-3d-015",
-  "ok": false,
-  "error": "Expected ')'"
+  "ok": true,
+  "result": "(-69.99999, 90.0, 0.0)|size=14.5",
+  "png": null
 }
