@@ -1,0 +1,5 @@
+{
+  "id": "vibe-app-051",
+  "ok": false,
+  "error": "Execution failed: Invalid named index 'DirAccess' for base type Object"
+}
