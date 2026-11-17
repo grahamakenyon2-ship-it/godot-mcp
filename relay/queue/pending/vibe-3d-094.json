@@ -1,1 +1,0 @@
-{"id":"vibe-3d-094","method":"execute_game_script","params":{"code":"str(grid.get_child_count()) + \"|trees=\" + str(grid.find_children(\"*\", \"Node3D\", true, false).size())"}}
