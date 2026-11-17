@@ -1,0 +1,9 @@
+{
+  "id": "vibe-3d-080",
+  "ok": true,
+  "result": {
+    "script_path": "res://scripts/battle/battle_grid.gd",
+    "updated": true
+  },
+  "png": null
+}
