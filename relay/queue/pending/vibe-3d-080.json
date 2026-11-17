@@ -1,0 +1,1 @@
+{"id":"vibe-3d-080","method":"edit_script","params":{"script_path":"res://scripts/battle/battle_grid.gd","search":"var region := [R_GRASS, R_GRASS2, R_GRASS3][(x * 31 + y * 17) % 3]","replace":"var region: Rect2 = [R_GRASS, R_GRASS2, R_GRASS3][(x * 31 + y * 17) % 3]"}}
