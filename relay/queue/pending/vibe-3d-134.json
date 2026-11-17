@@ -1,1 +1,0 @@
-{"id":"vibe-3d-134","method":"execute_game_script","params":{"code":"str(grid.tex_atlas) + \"|mat_tex=\" + str(grid.get_child(2).mesh.surface_get_material(0).albedo_texture) + \"|vca=\" + str(grid.get_child(2).mesh.surface_get_material(0).vertex_color_use_as_albedo)"}}
