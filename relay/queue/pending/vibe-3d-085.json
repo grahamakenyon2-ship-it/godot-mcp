@@ -1,0 +1,1 @@
+{"id":"vibe-3d-085","method":"execute_game_script","params":{"code":"[debug_click_tile(2,1), str(mode)][1]"}}
