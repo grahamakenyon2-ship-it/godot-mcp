@@ -1,0 +1,1 @@
+{"id":"vibe-3d-095","method":"execute_game_script","params":{"code":"[debug_press(69), debug_press(69), str(grid.cam.size)][2]"}}
