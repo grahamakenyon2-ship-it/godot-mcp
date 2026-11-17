@@ -1,0 +1,28 @@
+{"id":"vibe-3d-120","method":"edit_script","params":{"script_path":"res://scripts/battle/battle_grid.gd","search":"func _road_region(x: int) -> Rect2:
+	return Rect2(256.0 + float(x % 4) * TILE, 7.0 * TILE, TILE, TILE)
+
+
+func _stone_region() -> Rect2:
+	return Rect2(256.0 + 8.0 * TILE, 8.0 * TILE, TILE, TILE)
+
+
+func _tint(tier: int, road: bool) -> Color:
+	var v: float = 0.9 - 0.12 * (tier - 1)
+	if road:
+		return Color(1.1, 1.0, 0.8) * Color(v, v, v)
+	return Color.from_hsv(0.29, 0.34, v)","replace":"func _road_region(x: int) -> Rect2:
+	# dirt-path row in the stone sheet (row 8, cols 1..10)
+	return Rect2(256.0 + float(1 + x % 10) * TILE, 8.0 * TILE, TILE, TILE)
+
+
+func _stone_region() -> Rect2:
+	# gray stone tile (row 12) for rock tiles + cliff skirts
+	return Rect2(256.0, 12.0 * TILE, TILE, TILE)
+
+
+func _tint(tier: int, road: bool) -> Color:
+	# low ground darker, high ground brighter (valley reads as sunken)
+	var v: float = 0.62 + 0.12 * (tier - 1)
+	if road:
+		return Color(1.1, 1.0, 0.8) * Color(minf(v + 0.15, 1.0), minf(v + 0.15, 1.0), minf(v + 0.15, 1.0))
+	return Color.from_hsv(0.29, 0.34, v)"}}
